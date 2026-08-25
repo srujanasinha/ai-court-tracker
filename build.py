@@ -4,7 +4,7 @@
 import json
 import os
 import re
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 
 import requests
@@ -14,7 +14,6 @@ HEADERS = {'Authorization': f'Token {TOKEN}'} if TOKEN else {}
 BASE_URL = 'https://www.courtlistener.com/api/rest/v3'
 
 SEARCH_QUERIES = [
-    # AI
     ('artificial intelligence', 'AI'),
     ('machine learning', 'AI'),
     ('generative AI', 'AI'),
@@ -23,12 +22,10 @@ SEARCH_QUERIES = [
     ('deepfake', 'AI'),
     ('facial recognition', 'AI'),
     ('autonomous vehicle', 'AI'),
-    # Web3
     ('NFT', 'Web3'),
     ('non-fungible token', 'Web3'),
     ('smart contract', 'Web3'),
     ('decentralized autonomous organization', 'Web3'),
-    # Crypto
     ('cryptocurrency', 'Crypto'),
     ('bitcoin', 'Crypto'),
     ('ethereum', 'Crypto'),
@@ -41,49 +38,41 @@ SEARCH_QUERIES = [
 ]
 
 
-def search(query, filed_after=None):
-    params = {
-        'q': query,
-        'type': 'o',
-        'order_by': 'dateFiled desc',
-        'page_size': 50,
-    }
-    if filed_after:
-        params['filed_after'] = filed_after
-    try:
-        r = requests.get(f'{BASE_URL}/search/', headers=HEADERS, params=params, timeout=30)
-        r.raise_for_status()
-        return r.json().get('results', [])
-    except Exception as e:
-        print(f'  Error searching {query}: {e}')
-        return []
+def search(query):
+    results = []
+    for page in range(1, 4):
+        params = {
+            'q': query,
+            'type': 'o',
+            'order_by': 'dateFiled desc',
+            'page_size': 20,
+            'page': page,
+        }
+        try:
+            r = requests.get(f'{BASE_URL}/search/', headers=HEADERS, params=params, timeout=30)
+            r.raise_for_status()
+            page_results = r.json().get('results', [])
+            results.extend(page_results)
+            if len(page_results) < 20:
+                break
+        except Exception as e:
+            print(f'  Error searching {query} page {page}: {e}')
+            break
+    return results
 
 
 def main():
-    data_dir = Path('data')
-    docs_dir = Path('docs')
-    data_dir.mkdir(exist_ok=True)
-    docs_dir.mkdir(exist_ok=True)
+    Path('data').mkdir(exist_ok=True)
+    Path('docs').mkdir(exist_ok=True)
 
-    seen_path = data_dir / 'seen_cases.json'
-    cases_path = data_dir / 'cases.json'
-
-    seen = set(json.loads(seen_path.read_text()) if seen_path.exists() else '[]')
-    existing = json.loads(cases_path.read_text()) if cases_path.exists() else []
-    existing_ids = {c['id'] for c in existing}
-
-    # On first run fetch with date filter; on subsequent runs fetch top 50 per term (seen set deduplicates)
-    filed_after = (datetime.utcnow() - timedelta(days=90)).strftime('%Y-%m-%d') if not existing else None
-    new_cases = []
-
+    seen = {}
     for query, category in SEARCH_QUERIES:
         print(f'Searching [{category}]: {query}')
-        results = search(query, filed_after)
-        for r in results:
+        for r in search(query):
             cid = str(r.get('id', ''))
-            if not cid or cid in seen or cid in existing_ids:
+            if not cid or cid in seen:
                 continue
-            case = {
+            seen[cid] = {
                 'id': cid,
                 'name': r.get('caseName') or 'Unknown',
                 'court': r.get('court') or '',
@@ -92,21 +81,12 @@ def main():
                 'url': f"https://www.courtlistener.com{r.get('absolute_url', '')}",
                 'snippet': re.sub(r'<[^>]+>', '', r.get('snippet') or ''),
                 'category': category,
-                'status': r.get('status') or '',
             }
-            new_cases.append(case)
-            seen.add(cid)
-            existing_ids.add(cid)
 
-    all_cases = new_cases + existing
-    all_cases.sort(key=lambda c: c.get('date_filed', ''), reverse=True)
-    all_cases = all_cases[:1000]
-
-    cases_path.write_text(json.dumps(all_cases, indent=2))
-    seen_path.write_text(json.dumps(sorted(seen)))
-    print(f'New: {len(new_cases)}, Total: {len(all_cases)}')
-
-    build_site(all_cases)
+    cases = sorted(seen.values(), key=lambda c: c.get('date_filed', ''), reverse=True)
+    Path('data/cases.json').write_text(json.dumps(cases, indent=2))
+    print(f'Total: {len(cases)}')
+    build_site(cases)
 
 
 def build_site(cases):
@@ -145,181 +125,45 @@ def build_site(cases):
   <title>AI & Crypto Court Tracker</title>
   <style>
     *, *::before, *::after {{ box-sizing: border-box; margin: 0; padding: 0; }}
-
     :root {{
-      --bg: #0f1117;
-      --surface: #1a1d27;
-      --border: #2a2d3e;
-      --text: #e2e8f0;
-      --muted: #8892a4;
-      --accent: #6366f1;
-      --ai: #10b981;
-      --web3: #f59e0b;
-      --crypto: #3b82f6;
+      --bg: #0f1117; --surface: #1a1d27; --border: #2a2d3e;
+      --text: #e2e8f0; --muted: #8892a4; --accent: #6366f1;
+      --ai: #10b981; --web3: #f59e0b; --crypto: #3b82f6;
     }}
-
-    body {{
-      background: var(--bg);
-      color: var(--text);
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      line-height: 1.6;
-    }}
-
-    header {{
-      background: linear-gradient(135deg, #1e1b4b 0%, #0f1117 100%);
-      border-bottom: 1px solid var(--border);
-      padding: 2.5rem 1.5rem;
-      text-align: center;
-    }}
-
-    header h1 {{
-      font-size: clamp(1.5rem, 4vw, 2.5rem);
-      font-weight: 800;
-      background: linear-gradient(135deg, #a5b4fc, #818cf8);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      background-clip: text;
-      margin-bottom: 0.5rem;
-    }}
-
+    body {{ background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.6; }}
+    header {{ background: linear-gradient(135deg, #1e1b4b 0%, #0f1117 100%); border-bottom: 1px solid var(--border); padding: 2.5rem 1.5rem; text-align: center; }}
+    header h1 {{ font-size: clamp(1.5rem, 4vw, 2.5rem); font-weight: 800; background: linear-gradient(135deg, #a5b4fc, #818cf8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 0.5rem; }}
     header p {{ color: var(--muted); font-size: 0.95rem; }}
     .updated {{ margin-top: 0.35rem; font-size: 0.8rem !important; }}
-
     main {{ max-width: 960px; margin: 0 auto; padding: 2rem 1.5rem; }}
-
-    .stats {{
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 1rem;
-      margin-bottom: 2rem;
-    }}
-
+    .stats {{ display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; margin-bottom: 2rem; }}
     @media (max-width: 600px) {{ .stats {{ grid-template-columns: repeat(2, 1fr); }} }}
-
-    .stat {{
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 1.25rem;
-      text-align: center;
-    }}
-
-    .stat .num {{
-      display: block;
-      font-size: 2rem;
-      font-weight: 800;
-      color: var(--accent);
-    }}
-
-    .stat .label {{
-      font-size: 0.8rem;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.05em;
-    }}
-
-    .controls {{
-      display: flex;
-      gap: 0.75rem;
-      flex-wrap: wrap;
-      align-items: center;
-      margin-bottom: 1.5rem;
-    }}
-
-    .filter-btn {{
-      background: var(--surface);
-      border: 1px solid var(--border);
-      color: var(--muted);
-      padding: 0.5rem 1.25rem;
-      border-radius: 999px;
-      cursor: pointer;
-      font-size: 0.875rem;
-      transition: all 0.2s;
-    }}
-
+    .stat {{ background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 1.25rem; text-align: center; }}
+    .stat .num {{ display: block; font-size: 2rem; font-weight: 800; color: var(--accent); }}
+    .stat .label {{ font-size: 0.8rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }}
+    .controls {{ display: flex; gap: 0.75rem; flex-wrap: wrap; align-items: center; margin-bottom: 1.5rem; }}
+    .filter-btn {{ background: var(--surface); border: 1px solid var(--border); color: var(--muted); padding: 0.5rem 1.25rem; border-radius: 999px; cursor: pointer; font-size: 0.875rem; transition: all 0.2s; }}
     .filter-btn:hover {{ border-color: var(--accent); color: var(--text); }}
     .filter-btn.active {{ background: var(--accent); border-color: var(--accent); color: #fff; }}
-
-    #search {{
-      flex: 1;
-      min-width: 200px;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      color: var(--text);
-      padding: 0.5rem 1rem;
-      border-radius: 999px;
-      font-size: 0.875rem;
-      outline: none;
-      transition: border-color 0.2s;
-    }}
-
+    #search {{ flex: 1; min-width: 200px; background: var(--surface); border: 1px solid var(--border); color: var(--text); padding: 0.5rem 1rem; border-radius: 999px; font-size: 0.875rem; outline: none; transition: border-color 0.2s; }}
     #search:focus {{ border-color: var(--accent); }}
     #search::placeholder {{ color: var(--muted); }}
-
     #cases {{ display: grid; gap: 1rem; }}
-
-    .case-card {{
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 1.25rem 1.5rem;
-      transition: border-color 0.2s;
-    }}
-
+    .case-card {{ background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 1.25rem 1.5rem; transition: border-color 0.2s; }}
     .case-card:hover {{ border-color: var(--accent); }}
-
-    .card-header {{
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      margin-bottom: 0.6rem;
-    }}
-
-    .badge {{
-      font-size: 0.7rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      padding: 0.2rem 0.6rem;
-      border-radius: 999px;
-    }}
-
-    .badge-ai    {{ background: rgba(16,185,129,0.15); color: var(--ai); }}
-    .badge-web3  {{ background: rgba(245,158,11,0.15); color: var(--web3); }}
+    .card-header {{ display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.6rem; }}
+    .badge {{ font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; padding: 0.2rem 0.6rem; border-radius: 999px; }}
+    .badge-ai {{ background: rgba(16,185,129,0.15); color: var(--ai); }}
+    .badge-web3 {{ background: rgba(245,158,11,0.15); color: var(--web3); }}
     .badge-crypto {{ background: rgba(59,130,246,0.15); color: var(--crypto); }}
-
     .date {{ color: var(--muted); font-size: 0.8rem; margin-left: auto; }}
-
     .case-card h3 {{ font-size: 1rem; font-weight: 600; margin-bottom: 0.4rem; }}
     .case-card h3 a {{ color: var(--text); text-decoration: none; }}
     .case-card h3 a:hover {{ color: var(--accent); }}
-
     .meta {{ display: flex; gap: 1rem; font-size: 0.8rem; color: var(--muted); margin-bottom: 0.5rem; }}
-
-    .snippet {{
-      font-size: 0.85rem;
-      color: var(--muted);
-      display: -webkit-box;
-      -webkit-line-clamp: 3;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }}
-
-    #no-results {{
-      text-align: center;
-      color: var(--muted);
-      padding: 3rem;
-      display: none;
-    }}
-
-    footer {{
-      text-align: center;
-      padding: 2rem;
-      color: var(--muted);
-      font-size: 0.8rem;
-      border-top: 1px solid var(--border);
-      margin-top: 3rem;
-    }}
+    .snippet {{ font-size: 0.85rem; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }}
+    #no-results {{ text-align: center; color: var(--muted); padding: 3rem; display: none; }}
+    footer {{ text-align: center; padding: 2rem; color: var(--muted); font-size: 0.8rem; border-top: 1px solid var(--border); margin-top: 3rem; }}
   </style>
 </head>
 <body>
@@ -328,7 +172,6 @@ def build_site(cases):
     <p>Federal and state court opinions involving artificial intelligence, Web3, and cryptocurrency.</p>
     <p class="updated">Last updated: {now}</p>
   </header>
-
   <main>
     <div class="stats">
       <div class="stat"><span class="num">{len(cases)}</span><span class="label">Total Cases</span></div>
@@ -336,7 +179,6 @@ def build_site(cases):
       <div class="stat"><span class="num">{web3_count}</span><span class="label">Web3 Cases</span></div>
       <div class="stat"><span class="num">{crypto_count}</span><span class="label">Crypto Cases</span></div>
     </div>
-
     <div class="controls">
       <button class="filter-btn active" data-cat="all">All</button>
       <button class="filter-btn" data-cat="ai">AI</button>
@@ -344,21 +186,15 @@ def build_site(cases):
       <button class="filter-btn" data-cat="crypto">Crypto</button>
       <input id="search" type="text" placeholder="Search cases, courts, dockets&hellip;">
     </div>
-
-    <div id="cases">
-      {all_cards}
-    </div>
+    <div id="cases">{all_cards}</div>
     <p id="no-results">No cases match your search.</p>
   </main>
-
   <footer>
     Data sourced from <a href="https://www.courtlistener.com" target="_blank" rel="noopener" style="color:inherit">CourtListener</a>.
     Updated daily via GitHub Actions.
   </footer>
-
   <script>
     let activeCategory = 'all';
-
     document.querySelectorAll('.filter-btn').forEach(btn => {{
       btn.addEventListener('click', () => {{
         document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
@@ -367,9 +203,7 @@ def build_site(cases):
         applyFilters();
       }});
     }});
-
     document.getElementById('search').addEventListener('input', applyFilters);
-
     function applyFilters() {{
       const q = document.getElementById('search').value.toLowerCase();
       let visible = 0;
