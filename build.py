@@ -120,7 +120,7 @@ def search(query, filed_after=None):
     }
     if filed_after:
         params['filed_after'] = filed_after
-  for hdrs in ([HEADERS, NO_AUTH_HEADERS] if TOKEN else [NO_AUTH_HEADERS]):
+    for hdrs in ([HEADERS, NO_AUTH_HEADERS] if TOKEN else [NO_AUTH_HEADERS]):
         try:
             r = requests.get(f'{BASE_URL}/search/', headers=hdrs, params=params, timeout=30)
             if r.status_code == 403 and hdrs:
