@@ -9,7 +9,8 @@ from pathlib import Path
 
 import requests
 
-TOKEN = os.environ.get('COURTLISTENER_API_KEY', '')
+TOKEN = os.environ.get('COURTLISTENER_API_KEY', '').strip()
+print(f'API key set: {bool(TOKEN)}, length: {len(TOKEN)}')
 HEADERS = {'Authorization': f'Token {TOKEN}'} if TOKEN else {}
 BASE_URL = 'https://www.courtlistener.com/api/rest/v3'
 
