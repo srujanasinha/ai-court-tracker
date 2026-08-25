@@ -11,7 +11,11 @@ import requests
 
 TOKEN = os.environ.get('COURTLISTENER_API_KEY', '').strip()
 print(f'API key present: {bool(TOKEN)}, length: {len(TOKEN)}')
-HEADERS = {'Authorization': f'Token {TOKEN}'} if TOKEN else {}
+HEADERS = {
+    'Authorization': f'Token {TOKEN}',
+    'User-Agent': 'ai-court-tracker/1.0 (github.com/srujanasinha/ai-court-tracker)',
+}
+NO_AUTH_HEADERS = {'User-Agent': 'ai-court-tracker/1.0 (github.com/srujanasinha/ai-court-tracker)'}
 BASE_URL = 'https://www.courtlistener.com/api/rest/v3'
 
 SEARCH_QUERIES = [
@@ -116,7 +120,7 @@ def search(query, filed_after=None):
     }
     if filed_after:
         params['filed_after'] = filed_after
-    for hdrs in ([HEADERS, {}] if HEADERS else [{}]):
+  for hdrs in ([HEADERS, NO_AUTH_HEADERS] if TOKEN else [NO_AUTH_HEADERS]):
         try:
             r = requests.get(f'{BASE_URL}/search/', headers=hdrs, params=params, timeout=30)
             if r.status_code == 403 and hdrs:
