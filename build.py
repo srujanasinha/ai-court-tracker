@@ -41,13 +41,15 @@ SEARCH_QUERIES = [
 ]
 
 
-def search(query, filed_after):
+def search(query, filed_after=None):
     params = {
         'q': query,
         'type': 'o',
         'order_by': 'dateFiled desc',
-        'filed_after': filed_after,
+        'page_size': 50,
     }
+    if filed_after:
+        params['filed_after'] = filed_after
     try:
         r = requests.get(f'{BASE_URL}/search/', headers=HEADERS, params=params, timeout=30)
         r.raise_for_status()
@@ -70,9 +72,8 @@ def main():
     existing = json.loads(cases_path.read_text()) if cases_path.exists() else []
     existing_ids = {c['id'] for c in existing}
 
-    # Look back 90 days on first run, 2 days on subsequent runs
-    lookback = 90 if not existing else 7
-    filed_after = (datetime.utcnow() - timedelta(days=lookback)).strftime('%Y-%m-%d')
+    # On first run fetch with date filter; on subsequent runs fetch top 50 per term (seen set deduplicates)
+    filed_after = (datetime.utcnow() - timedelta(days=90)).strftime('%Y-%m-%d') if not existing else None
     new_cases = []
 
     for query, category in SEARCH_QUERIES:
