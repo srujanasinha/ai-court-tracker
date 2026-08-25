@@ -30,23 +30,31 @@ SEARCH_QUERIES = [
     ('bitcoin', 'Crypto'),
     ('ethereum', 'Crypto'),
     ('blockchain', 'Crypto'),
-    ('digital asset', 'Crypto'),
-    ('stablecoin', 'Crypto'),
-    ('decentralized finance', 'Crypto'),
-    ('crypto exchange', 'Crypto'),
-    ('virtual currency', 'Crypto'),
-]
-
-
-def search(query):
+  def search(query):
     results = []
-    for page in range(1, 4):
-        params = {
-            'q': query,
-            'type': 'o',
-            'order_by': 'dateFiled desc',
-            'page_size': 20,
-            'page': page,
+    url = f'{BASE_URL}/search/'
+    params = {
+        'q': query,
+        'type': 'o',
+        'order_by': 'dateFiled desc',
+        'page_size': 20,
+    }
+    for _ in range(3):
+        try:
+            r = requests.get(url, headers=HEADERS, params=params, timeout=30)
+            r.raise_for_status()
+            data = r.json()
+            page_results = data.get('results', [])
+            results.extend(page_results)
+            next_url = data.get('next')
+            if not next_url or len(page_results) < 20:
+                break
+            url = next_url
+            params = {}
+        except Exception as e:
+            print(f'  Error searching {query}: {e}')
+            break
+    return results
         }
         try:
             r = requests.get(f'{BASE_URL}/search/', headers=HEADERS, params=params, timeout=30)
