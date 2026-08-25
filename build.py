@@ -71,7 +71,7 @@ def main():
     existing_ids = {c['id'] for c in existing}
 
     # Look back 90 days on first run, 2 days on subsequent runs
-    lookback = 90 if not existing else 2
+    lookback = 90 if not existing else 7
     filed_after = (datetime.utcnow() - timedelta(days=lookback)).strftime('%Y-%m-%d')
     new_cases = []
 
