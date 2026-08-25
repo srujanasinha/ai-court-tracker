@@ -107,26 +107,27 @@ function applyFilters() {
 """
 
 
-def search(query):
-    results = []
-    url = f'{BASE_URL}/search/'
-    params = {'q': query, 'type': 'o', 'order_by': 'dateFiled desc', 'page_size': 20}
-    for _ in range(3):
+def search(query, filed_after=None):
+    params = {
+        'q': query,
+        'type': 'o',
+        'order_by': 'dateFiled desc',
+        'page_size': 20,
+    }
+    if filed_after:
+        params['filed_after'] = filed_after
+    for hdrs in ([HEADERS, {}] if HEADERS else [{}]):
         try:
-            r = requests.get(url, headers=HEADERS, params=params, timeout=30)
+            r = requests.get(f'{BASE_URL}/search/', headers=hdrs, params=params, timeout=30)
+            if r.status_code == 403 and hdrs:
+                print('  Token rejected (403), retrying without auth')
+                continue
             r.raise_for_status()
-            data = r.json()
-            page_results = data.get('results', [])
-            results.extend(page_results)
-            next_url = data.get('next')
-            if not next_url or len(page_results) < 20:
-                break
-            url = next_url
-            params = {}
+            return r.json().get('results', [])
         except Exception as e:
             print(f'  Error searching {query}: {e}')
-            break
-    return results
+            return []
+    return []
 
 
 def main():
