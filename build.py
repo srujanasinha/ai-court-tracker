@@ -123,8 +123,8 @@ def search(query):
         try:
             r = requests.get(f'{BASE_URL}/search/', headers=hdrs, params=params, timeout=30)
             if r.status_code == 429:
-                print('  Rate limited, waiting 10s...')
-                time.sleep(10)
+                print('  Rate limited, waiting 15s...')
+                time.sleep(15)
                 r = requests.get(f'{BASE_URL}/search/', headers=hdrs, params=params, timeout=30)
             if r.status_code == 403 and hdrs == HEADERS:
                 print('  Token rejected, retrying without auth')
@@ -144,10 +144,15 @@ def main():
     Path('docs').mkdir(exist_ok=True)
 
     seen = {}
+    logged_keys = False
     for query, category in SEARCH_QUERIES:
         print(f'Searching [{category}]: {query}')
         time.sleep(2)
-        for r in search(query):
+        results = search(query)
+        if results and not logged_keys:
+            print(f'  KEYS: {list(results[0].keys())}')
+            logged_keys = True
+        for r in results:
             cid = str(r.get('id', ''))
             if not cid or cid in seen:
                 continue
