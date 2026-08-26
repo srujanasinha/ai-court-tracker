@@ -4,6 +4,7 @@
 import json
 import os
 import re
+import time
 from datetime import datetime
 from pathlib import Path
 
@@ -121,13 +122,17 @@ def search(query):
     for hdrs in ([HEADERS, NO_AUTH_HEADERS] if TOKEN else [NO_AUTH_HEADERS]):
         try:
             r = requests.get(f'{BASE_URL}/search/', headers=hdrs, params=params, timeout=30)
-            if r.status_code == 403:
-                print(f'  403 body: {r.text[:200]}')
+            if r.status_code == 429:
+                print('  Rate limited, waiting 10s...')
+                time.sleep(10)
+                r = requests.get(f'{BASE_URL}/search/', headers=hdrs, params=params, timeout=30)
             if r.status_code == 403 and hdrs == HEADERS:
                 print('  Token rejected, retrying without auth')
                 continue
             r.raise_for_status()
-            return r.json().get('results', [])
+            results = r.json().get('results', [])
+            print(f'  Got {len(results)} results')
+            return results
         except Exception as e:
             print(f'  Error searching {query}: {e}')
             return []
@@ -141,16 +146,17 @@ def main():
     seen = {}
     for query, category in SEARCH_QUERIES:
         print(f'Searching [{category}]: {query}')
+        time.sleep(2)
         for r in search(query):
             cid = str(r.get('id', ''))
             if not cid or cid in seen:
                 continue
             seen[cid] = {
                 'id': cid,
-                'name': r.get('caseName') or 'Unknown',
-                'court': r.get('court') or '',
-                'date_filed': r.get('dateFiled') or '',
-                'docket_number': r.get('docketNumber') or '',
+                'name': r.get('case_name') or r.get('caseName') or 'Unknown',
+                'court': r.get('court_id') or r.get('court') or '',
+                'date_filed': r.get('date_filed') or r.get('dateFiled') or '',
+                'docket_number': r.get('docket_number') or r.get('docketNumber') or '',
                 'url': 'https://www.courtlistener.com' + r.get('absolute_url', ''),
                 'snippet': re.sub(r'<[^>]+>', '', r.get('snippet') or ''),
                 'category': category,
