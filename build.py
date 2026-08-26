@@ -111,20 +111,20 @@ function applyFilters() {
 """
 
 
-def search(query, filed_after=None):
+def search(query):
     params = {
         'q': query,
         'type': 'o',
         'order_by': 'dateFiled desc',
         'page_size': 20,
     }
-    if filed_after:
-        params['filed_after'] = filed_after
     for hdrs in ([HEADERS, NO_AUTH_HEADERS] if TOKEN else [NO_AUTH_HEADERS]):
         try:
             r = requests.get(f'{BASE_URL}/search/', headers=hdrs, params=params, timeout=30)
-            if r.status_code == 403 and hdrs:
-                print('  Token rejected (403), retrying without auth')
+            if r.status_code == 403:
+                print(f'  403 body: {r.text[:200]}')
+            if r.status_code == 403 and hdrs == HEADERS:
+                print('  Token rejected, retrying without auth')
                 continue
             r.raise_for_status()
             return r.json().get('results', [])
