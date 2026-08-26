@@ -470,16 +470,6 @@
     "category": "AI"
   },
   {
-    "id": "10948765",
-    "name": "Perimetral Oriental De Bogota, S.A.S. v. Agencia Nacional De Infraestructura",
-    "court": "dcd",
-    "date_filed": "2026-08-14",
-    "docket_number": "Civil Action No. 2025-1099",
-    "url": "https://www.courtlistener.com/opinion/10948765/perimetral-oriental-de-bogota-sas-v-agencia-nacional-de/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "10948560",
     "name": "Tohono O'Odham Nation v. Mullin",
     "court": "dcd",
@@ -488,6 +478,16 @@
     "url": "https://www.courtlistener.com/opinion/10948560/tohono-oodham-nation-v-mullin/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "10948765",
+    "name": "Perimetral Oriental De Bogota, S.A.S. v. Agencia Nacional De Infraestructura",
+    "court": "dcd",
+    "date_filed": "2026-08-14",
+    "docket_number": "Civil Action No. 2025-1099",
+    "url": "https://www.courtlistener.com/opinion/10948765/perimetral-oriental-de-bogota-sas-v-agencia-nacional-de/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "10948558",
@@ -2400,16 +2400,6 @@
     "category": "Web3"
   },
   {
-    "id": "10712653",
-    "name": "Allan J. Camaisa v. Pharmaceutical Research Associates, Inc., a Virginia corporation",
-    "court": "delch",
-    "date_filed": "2025-10-28",
-    "docket_number": "C.A. No. 2019-0561-NAC",
-    "url": "https://www.courtlistener.com/opinion/10712653/allan-j-camaisa-v-pharmaceutical-research-associates-inc-a-virginia/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "10691382",
     "name": "Timoria LLC v. Chaib Anis",
     "court": "delch",
@@ -2630,16 +2620,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10614565",
-    "name": "Robert Carbone v. Wulf Kaal",
-    "court": "ca6",
-    "date_filed": "2025-06-20",
-    "docket_number": "24-3795",
-    "url": "https://www.courtlistener.com/opinion/10614565/robert-carbone-v-wulf-kaal/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "10607333",
     "name": "Jennifer Rickerson, Roxanne Diggs, Joseph Rounds, Desaray Joseph, Jenisha Rounds and the Estate of Joseph Triggs, Individually an on Behalf of Joseph Triggs (Deceased) v. Sherif K. Sakla, Stephanie C. Reuther, the Sakla Law Firm, Aplc, Jerri G. Smitko, and Smitko Law, Aplc",
     "court": "lactapp",
@@ -2767,7 +2747,7 @@
     "docket_number": "A168960",
     "url": "https://www.courtlistener.com/opinion/10314470/parafi-digital-opportunities-v-egorov/",
     "snippet": "",
-    "category": "Web3"
+    "category": "Crypto"
   },
   {
     "id": "10317554",
@@ -2818,16 +2798,6 @@
     "url": "https://www.courtlistener.com/opinion/10303296/christopher-harborne-v-dow-jones-company-inc-dba-the-wall-street/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "10284289",
-    "name": "Van Loon v. TREA",
-    "court": "ca5",
-    "date_filed": "2024-11-26",
-    "docket_number": "23-50669",
-    "url": "https://www.courtlistener.com/opinion/10284289/van-loon-v-trea/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "10694413",
@@ -2897,7 +2867,7 @@
     "docket_number": "23-1031",
     "url": "https://www.courtlistener.com/opinion/9498874/qing-qin-v-vertex-inc/",
     "snippet": "",
-    "category": "Web3"
+    "category": "Crypto"
   },
   {
     "id": "9441923",
@@ -2908,26 +2878,6 @@
     "url": "https://www.courtlistener.com/opinion/9441923/teamsters-local-443-health-services-insurance-plan-v-john-c-chou/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "9391542",
-    "name": "Zhejiang MacHinery Import & Export Corp. v. United States",
-    "court": "cafc",
-    "date_filed": "2023-04-14",
-    "docket_number": "21-2257",
-    "url": "https://www.courtlistener.com/opinion/9391542/zhejiang-machinery-import-export-corp-v-united-states/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "9368829",
-    "name": "F. v. Secretary of Health and Human Services",
-    "court": "uscfc",
-    "date_filed": "2023-01-18",
-    "docket_number": "19-446",
-    "url": "https://www.courtlistener.com/opinion/9368829/f-v-secretary-of-health-and-human-services/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "10611947",
@@ -2946,16 +2896,6 @@
     "date_filed": "2022-03-31",
     "docket_number": "533917",
     "url": "https://www.courtlistener.com/opinion/6456519/levin-v-city-of-rochester/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "6238446",
-    "name": "Gerst v. Ohio Dept. of Transp.",
-    "court": "ohioctapp",
-    "date_filed": "2022-01-13",
-    "docket_number": "21AP-65",
-    "url": "https://www.courtlistener.com/opinion/6238446/gerst-v-ohio-dept-of-transp/",
     "snippet": "",
     "category": "Web3"
   }
