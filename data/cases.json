@@ -1,5 +1,45 @@
 [
   {
+    "id": "10958398",
+    "name": "West Series of Lockton Companies, LLC v. Eric Kaufman",
+    "court": "ca8",
+    "date_filed": "2026-08-26",
+    "docket_number": "24-1072, 24-1074",
+    "url": "https://www.courtlistener.com/opinion/10958398/west-series-of-lockton-companies-llc-v-eric-kaufman/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10958352",
+    "name": "State of Louisiana v. Brandon Wayne Lindsey",
+    "court": "lactapp",
+    "date_filed": "2026-08-26",
+    "docket_number": "57,029-KA",
+    "url": "https://www.courtlistener.com/opinion/10958352/state-of-louisiana-v-brandon-wayne-lindsey/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10958271",
+    "name": "Ty Floyd; Kristy Floyd; And Cottage Creations, LLC v. Joy Bowlin-Lemon, Kim Bowlin, and Cornelia Bowlin",
+    "court": "arkctapp",
+    "date_filed": "2026-08-26",
+    "docket_number": "",
+    "url": "https://www.courtlistener.com/opinion/10958271/ty-floyd-kristy-floyd-and-cottage-creations-llc-v-joy-bowlin-lemon-kim/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10958277",
+    "name": "Aechia Armstrong v. State of Arkansas",
+    "court": "arkctapp",
+    "date_filed": "2026-08-26",
+    "docket_number": "",
+    "url": "https://www.courtlistener.com/opinion/10958277/aechia-armstrong-v-state-of-arkansas/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10957699",
     "name": "United States v. Steven Anderegg",
     "court": "ca7",
@@ -1000,16 +1040,6 @@
     "category": "AI"
   },
   {
-    "id": "10937588",
-    "name": "People v Eads",
-    "court": "mich",
-    "date_filed": "2026-07-30",
-    "docket_number": "168205",
-    "url": "https://www.courtlistener.com/opinion/10937588/people-v-eads/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10937911",
     "name": "Vapor Technology Association v. McKinley Wooten, Jr.",
     "court": "ca4",
@@ -1078,26 +1108,6 @@
     "url": "https://www.courtlistener.com/opinion/10936162/greer-v-international-business-machines-corporation/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "10937500",
-    "name": "People v Langston",
-    "court": "mich",
-    "date_filed": "2026-07-28",
-    "docket_number": "163968",
-    "url": "https://www.courtlistener.com/opinion/10937500/people-v-langston/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10936025",
-    "name": "People v Langston",
-    "court": "mich",
-    "date_filed": "2026-07-28",
-    "docket_number": "163968",
-    "url": "https://www.courtlistener.com/opinion/10936025/people-v-langston/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10935788",
@@ -1770,16 +1780,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10865614",
-    "name": "Pascoe v. Detke",
-    "court": "ohioctapp",
-    "date_filed": "2026-05-28",
-    "docket_number": "115577",
-    "url": "https://www.courtlistener.com/opinion/10865614/pascoe-v-detke/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "10864894",
     "name": "STATE OF OKLAHOMA ex rel. OBA v. REEVES",
     "court": "okla",
@@ -2380,16 +2380,6 @@
     "category": "Web3"
   },
   {
-    "id": "10730554",
-    "name": "United States v. Michael Prime",
-    "court": "ca11",
-    "date_filed": "2025-11-04",
-    "docket_number": "23-13776",
-    "url": "https://www.courtlistener.com/opinion/10730554/united-states-v-michael-prime/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10715701",
     "name": "White Marble v. Chen",
     "court": "delch",
@@ -2966,276 +2956,6 @@
     "date_filed": "2022-01-13",
     "docket_number": "21AP-65",
     "url": "https://www.courtlistener.com/opinion/6238446/gerst-v-ohio-dept-of-transp/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4903381",
-    "name": "Yellen v. Confederated Tribes of Chehalis Reservation",
-    "court": "scotus",
-    "date_filed": "2021-07-28",
-    "docket_number": "20-543",
-    "url": "https://www.courtlistener.com/opinion/4903381/yellen-v-confederated-tribes-of-chehalis-reservation/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4894911",
-    "name": "Yellen v. Confederated Tribes of Chehalis Reservation",
-    "court": "scotus",
-    "date_filed": "2021-06-25",
-    "docket_number": "20-543",
-    "url": "https://www.courtlistener.com/opinion/4894911/yellen-v-confederated-tribes-of-chehalis-reservation/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4871343",
-    "name": "Brackeen v. Haaland",
-    "court": "ca5",
-    "date_filed": "2021-04-06",
-    "docket_number": "18-11479",
-    "url": "https://www.courtlistener.com/opinion/4871343/brackeen-v-haaland/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4848379",
-    "name": "American Lung Association v. EPA",
-    "court": "cadc",
-    "date_filed": "2021-01-19",
-    "docket_number": "19-1140",
-    "url": "https://www.courtlistener.com/opinion/4848379/american-lung-association-v-epa/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4846965",
-    "name": "United States v. Safehouse",
-    "court": "ca3",
-    "date_filed": "2021-01-12",
-    "docket_number": "20-1422",
-    "url": "https://www.courtlistener.com/opinion/4846965/united-states-v-safehouse/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4766776",
-    "name": "Matter of James v. iFinex Inc.",
-    "court": "nyappdiv",
-    "date_filed": "2020-07-09",
-    "docket_number": "450545/19 11320",
-    "url": "https://www.courtlistener.com/opinion/4766776/matter-of-james-v-ifinex-inc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10732862",
-    "name": "Ybarra v. Legislature of the State of Idaho & ID Bd of Education",
-    "court": "idaho",
-    "date_filed": "2020-06-22",
-    "docket_number": "47991",
-    "url": "https://www.courtlistener.com/opinion/10732862/ybarra-v-legislature-of-the-state-of-idaho-id-bd-of-education/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4667066",
-    "name": "Mozilla Corporation v. FCC",
-    "court": "cadc",
-    "date_filed": "2019-10-01",
-    "docket_number": "18-1051",
-    "url": "https://www.courtlistener.com/opinion/4667066/mozilla-corporation-v-fcc/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4665890",
-    "name": "Mozilla Corporation v. FCC",
-    "court": "cadc",
-    "date_filed": "2019-10-01",
-    "docket_number": "18-1051",
-    "url": "https://www.courtlistener.com/opinion/4665890/mozilla-corporation-v-fcc/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4655172",
-    "name": "Almalahi v. NFT Metro Sys., Inc.",
-    "court": "nyappdiv",
-    "date_filed": "2019-08-22",
-    "docket_number": "658 CA 18-01604",
-    "url": "https://www.courtlistener.com/opinion/4655172/almalahi-v-nft-metro-sys-inc/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4641279",
-    "name": "In re: Appraisal of Jarden Corporation",
-    "court": "delch",
-    "date_filed": "2019-07-19",
-    "docket_number": "CA 12456-VCS",
-    "url": "https://www.courtlistener.com/opinion/4641279/in-re-appraisal-of-jarden-corporation/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "8444001",
-    "name": "Libertarian Nat'l Comm., Inc. v. Fed. Election Comm'n",
-    "court": "cadc",
-    "date_filed": "2019-05-21",
-    "docket_number": "No. 18-5227",
-    "url": "https://www.courtlistener.com/opinion/8444001/libertarian-natl-comm-inc-v-fed-election-commn/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4621593",
-    "name": "Libertarian National Committee v. FEC",
-    "court": "cadc",
-    "date_filed": "2019-05-21",
-    "docket_number": "18-5227",
-    "url": "https://www.courtlistener.com/opinion/4621593/libertarian-national-committee-v-fec/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4594368",
-    "name": "Hubbell Power Systems, Inc. v. United States",
-    "court": "cit",
-    "date_filed": "2019-02-27",
-    "docket_number": "Slip Op. 19-25; Court 15-00312",
-    "url": "https://www.courtlistener.com/opinion/4594368/hubbell-power-systems-inc-v-united-states/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4592086",
-    "name": "Shearer v. Titus (In Re Titus)",
-    "court": "ca3",
-    "date_filed": "2019-02-20",
-    "docket_number": "17-3701 & 17-3823",
-    "url": "https://www.courtlistener.com/opinion/4592086/shearer-v-titus-in-re-titus/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "7332076",
-    "name": "Crystallex Int'l Corp. v. Bolivarian Republic of Venez.",
-    "court": "ded",
-    "date_filed": "2018-08-09",
-    "docket_number": "C.A. No. 17-mc-151-LPS",
-    "url": "https://www.courtlistener.com/opinion/7332076/crystallex-intl-corp-v-bolivarian-republic-of-venez/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4779784",
-    "name": "Quarles, Keith v. FedEx Ground",
-    "court": "tennworkcompapp",
-    "date_filed": "2018-08-03",
-    "docket_number": "2017-08-1170",
-    "url": "https://www.courtlistener.com/opinion/4779784/quarles-keith-v-fedex-ground/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4503909",
-    "name": "in Re: John Calce",
-    "court": "txctapp5",
-    "date_filed": "2018-06-04",
-    "docket_number": "05-18-00647-CV",
-    "url": "https://www.courtlistener.com/opinion/4503909/in-re-john-calce/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "8528139",
-    "name": "Conestoga Title Insurance Co. v. Patchell (In re Patchell)",
-    "court": "mdb",
-    "date_filed": "2017-06-23",
-    "docket_number": "Case No. 15-15073-RAG; Adv. No. 15-00243",
-    "url": "https://www.courtlistener.com/opinion/8528139/conestoga-title-insurance-co-v-patchell-in-re-patchell/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4394698",
-    "name": "City & County of San Francisco v. Regents of the University of California",
-    "court": "calctapp",
-    "date_filed": "2017-05-25",
-    "docket_number": "A144500",
-    "url": "https://www.courtlistener.com/opinion/4394698/city-county-of-san-francisco-v-regents-of-the-university-of-california/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4379397",
-    "name": "Montejo, Martin Lopez",
-    "court": "texapp",
-    "date_filed": "2017-03-23",
-    "docket_number": "PD-0267-17",
-    "url": "https://www.courtlistener.com/opinion/4379397/montejo-martin-lopez/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "7323940",
-    "name": "United States v. King",
-    "court": "okwd",
-    "date_filed": "2017-03-06",
-    "docket_number": "Case No. CR-13-0063-F",
-    "url": "https://www.courtlistener.com/opinion/7323940/united-states-v-king/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "7324514",
-    "name": "Granat v. United States Department of Agriculture",
-    "court": "caed",
-    "date_filed": "2017-03-02",
-    "docket_number": "No. 2:15-cv-00605-MCE-DB",
-    "url": "https://www.courtlistener.com/opinion/7324514/granat-v-united-states-department-of-agriculture/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4344269",
-    "name": "Ralph Janvey v. Oreste Tonarelli",
-    "court": "ca5",
-    "date_filed": "2017-01-31",
-    "docket_number": "14-10857; CONSOLIDATED WITH 14-10945; CONSOLIDATED WITH 14-11014; CONSOLIDATED WITH 14-11093",
-    "url": "https://www.courtlistener.com/opinion/4344269/ralph-janvey-v-oreste-tonarelli/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4323643",
-    "name": "Vincent Corson v. Jankea Lashawn Wiggins",
-    "court": "txctapp3",
-    "date_filed": "2016-11-15",
-    "docket_number": "03-16-00730-CV",
-    "url": "https://www.courtlistener.com/opinion/4323643/vincent-corson-v-jankea-lashawn-wiggins/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "4254710",
-    "name": "Stand Up for California! v. U.S. Department of the Interior",
-    "court": "dcd",
-    "date_filed": "2016-09-06",
-    "docket_number": "Civil Action No. 2012-2039",
-    "url": "https://www.courtlistener.com/opinion/4254710/stand-up-for-california-v-us-department-of-the-interior/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "3219752",
-    "name": "Eric Carson Wynn v. State",
-    "court": "txctapp6",
-    "date_filed": "2016-06-28",
-    "docket_number": "06-16-00120-CR",
-    "url": "https://www.courtlistener.com/opinion/3219752/eric-carson-wynn-v-state/",
     "snippet": "",
     "category": "Web3"
   }
