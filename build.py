@@ -20,27 +20,29 @@ NO_AUTH_HEADERS = {'User-Agent': 'ai-court-tracker/1.0 (github.com/srujanasinha/
 BASE_URL = 'https://www.courtlistener.com/api/rest/v4'
 
 SEARCH_QUERIES = [
-    ('artificial intelligence', 'AI'),
-    ('machine learning', 'AI'),
-    ('generative AI', 'AI'),
-    ('large language model', 'AI'),
-    ('ChatGPT', 'AI'),
+    # AI
     ('deepfake', 'AI'),
     ('facial recognition', 'AI'),
-    ('autonomous vehicle', 'AI'),
+    ('autonomous vehicle liability', 'AI'),
+    ('ChatGPT', 'AI'),
+    ('generative AI', 'AI'),
+    ('algorithmic discrimination', 'AI'),
+    ('AI-generated', 'AI'),
+    ('automated decision', 'AI'),
+    # Web3
     ('NFT', 'Web3'),
     ('non-fungible token', 'Web3'),
-    ('smart contract', 'Web3'),
     ('decentralized autonomous organization', 'Web3'),
-    ('cryptocurrency', 'Crypto'),
-    ('bitcoin', 'Crypto'),
-    ('ethereum', 'Crypto'),
-    ('blockchain', 'Crypto'),
-    ('digital asset', 'Crypto'),
+    ('smart contract dispute', 'Web3'),
+    # Crypto
+    ('cryptocurrency fraud', 'Crypto'),
     ('stablecoin', 'Crypto'),
     ('decentralized finance', 'Crypto'),
+    ('initial coin offering', 'Crypto'),
     ('crypto exchange', 'Crypto'),
+    ('digital asset securities', 'Crypto'),
     ('virtual currency', 'Crypto'),
+    ('token offering', 'Crypto'),
 ]
 
 CSS = """
