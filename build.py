@@ -172,7 +172,7 @@ def main():
 
 
 def build_site(cases):
-    now = datetime.utcnow().strftime('%B %d, %Y at %H:%M UTC')
+    now = datetime.now().strftime('%B %d, %Y at %H:%M UTC')
     ai_count = sum(1 for c in cases if c.get('category') == 'AI')
     web3_count = sum(1 for c in cases if c.get('category') == 'Web3')
     crypto_count = sum(1 for c in cases if c.get('category') == 'Crypto')
