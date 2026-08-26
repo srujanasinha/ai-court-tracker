@@ -123,8 +123,8 @@ def search(query):
         try:
             r = requests.get(f'{BASE_URL}/search/', headers=hdrs, params=params, timeout=30)
             if r.status_code == 429:
-                print('  Rate limited, waiting 15s...')
-                time.sleep(15)
+                print('  Rate limited, waiting 45s...')
+                time.sleep(45)
                 r = requests.get(f'{BASE_URL}/search/', headers=hdrs, params=params, timeout=30)
             if r.status_code == 403 and hdrs == HEADERS:
                 print('  Token rejected, retrying without auth')
@@ -144,24 +144,19 @@ def main():
     Path('docs').mkdir(exist_ok=True)
 
     seen = {}
-    logged_keys = False
     for query, category in SEARCH_QUERIES:
         print(f'Searching [{category}]: {query}')
-        time.sleep(2)
-        results = search(query)
-        if results and not logged_keys:
-            print(f'  KEYS: {list(results[0].keys())}')
-            logged_keys = True
-        for r in results:
-            cid = str(r.get('id', ''))
+        time.sleep(5)
+        for r in search(query):
+            cid = str(r.get('cluster_id', ''))
             if not cid or cid in seen:
                 continue
             seen[cid] = {
                 'id': cid,
-                'name': r.get('case_name') or r.get('caseName') or 'Unknown',
+                'name': r.get('caseName') or 'Unknown',
                 'court': r.get('court_id') or r.get('court') or '',
-                'date_filed': r.get('date_filed') or r.get('dateFiled') or '',
-                'docket_number': r.get('docket_number') or r.get('docketNumber') or '',
+                'date_filed': r.get('dateFiled') or '',
+                'docket_number': r.get('docketNumber') or '',
                 'url': 'https://www.courtlistener.com' + r.get('absolute_url', ''),
                 'snippet': re.sub(r'<[^>]+>', '', r.get('snippet') or ''),
                 'category': category,
