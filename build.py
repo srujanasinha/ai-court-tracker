@@ -16,7 +16,7 @@ HEADERS = {
     'User-Agent': 'ai-court-tracker/1.0 (github.com/srujanasinha/ai-court-tracker)',
 }
 NO_AUTH_HEADERS = {'User-Agent': 'ai-court-tracker/1.0 (github.com/srujanasinha/ai-court-tracker)'}
-BASE_URL = 'https://www.courtlistener.com/api/rest/v3'
+BASE_URL = 'https://www.courtlistener.com/api/rest/v4'
 
 SEARCH_QUERIES = [
     ('artificial intelligence', 'AI'),
