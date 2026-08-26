@@ -119,7 +119,8 @@ def search(query):
         'q': query,
         'type': 'o',
         'order_by': 'dateFiled desc',
-        'page_size': 20,
+        'page_size': 5,
+        'filed_after': '2022-01-01',
     }
     for hdrs in ([HEADERS, NO_AUTH_HEADERS] if TOKEN else [NO_AUTH_HEADERS]):
         try:
