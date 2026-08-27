@@ -133,7 +133,7 @@ def search(query):
                 print('  Token rejected, retrying without auth')
                 continue
             r.raise_for_status()
-            results = r.json().get('results', [])
+            results = r.json().get('results', [])[:5]
             print(f'  Got {len(results)} results')
             return results
         except Exception as e:
