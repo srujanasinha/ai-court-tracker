@@ -1,11 +1,31 @@
 [
   {
+    "id": "10960432",
+    "name": "People v. Hazlett",
+    "court": "cal",
+    "date_filed": "2026-08-27",
+    "docket_number": "S126387",
+    "url": "https://www.courtlistener.com/opinion/10960432/people-v-hazlett/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10960291",
     "name": "Lowell v. Lyft, Inc.",
     "court": "ca2",
     "date_filed": "2026-08-27",
     "docket_number": "24-2948",
     "url": "https://www.courtlistener.com/opinion/10960291/lowell-v-lyft-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10960386",
+    "name": "In Re: Amendments to Florida Rules of Appellate Procedure 9.020 and 9.100",
+    "court": "fla",
+    "date_filed": "2026-08-27",
+    "docket_number": "SC2025-2000",
+    "url": "https://www.courtlistener.com/opinion/10960386/in-re-amendments-to-florida-rules-of-appellate-procedure-9020-and-9100/",
     "snippet": "",
     "category": "AI"
   },
@@ -46,16 +66,6 @@
     "date_filed": "2026-08-26",
     "docket_number": "57,029-KA",
     "url": "https://www.courtlistener.com/opinion/10958352/state-of-louisiana-v-brandon-wayne-lindsey/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10958271",
-    "name": "Ty Floyd; Kristy Floyd; And Cottage Creations, LLC v. Joy Bowlin-Lemon, Kim Bowlin, and Cornelia Bowlin",
-    "court": "arkctapp",
-    "date_filed": "2026-08-26",
-    "docket_number": "",
-    "url": "https://www.courtlistener.com/opinion/10958271/ty-floyd-kristy-floyd-and-cottage-creations-llc-v-joy-bowlin-lemon-kim/",
     "snippet": "",
     "category": "AI"
   },
@@ -126,6 +136,16 @@
     "date_filed": "2026-08-25",
     "docket_number": "1407254",
     "url": "https://www.courtlistener.com/opinion/10957578/lpc-commercial-services-llc-fka-lpc-commercial-services-inc-v/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10960431",
+    "name": "CHETCO RESOURCES, LLC v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-08-25",
+    "docket_number": "22-1568",
+    "url": "https://www.courtlistener.com/opinion/10960431/chetco-resources-llc-v-united-states/",
     "snippet": "",
     "category": "AI"
   },
@@ -220,16 +240,6 @@
     "category": "AI"
   },
   {
-    "id": "10954406",
-    "name": "Capital Standard, LLC, Tchentsov v. US Bank National Association, Bear Stearns Asset Backed Securities I Trust 2005-AC9",
-    "court": "fladistctapp",
-    "date_filed": "2026-08-21",
-    "docket_number": "2D2024-1392",
-    "url": "https://www.courtlistener.com/opinion/10954406/capital-standard-llc-tchentsov-v-us-bank-national-association-bear/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10954743",
     "name": "OPERS v. FHLMC",
     "court": "ca6",
@@ -256,16 +266,6 @@
     "date_filed": "2026-08-20",
     "docket_number": "2025-CA-00667-SCT",
     "url": "https://www.courtlistener.com/opinion/10956739/carroll-brothers-llc-bens-back-alley-kitchen-llc-and-benjamin-carroll/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10954103",
-    "name": "Pacific Maritime Association v. National Labor Relations Board",
-    "court": "ca9",
-    "date_filed": "2026-08-20",
-    "docket_number": "23-658",
-    "url": "https://www.courtlistener.com/opinion/10954103/pacific-maritime-association-v-national-labor-relations-board/",
     "snippet": "",
     "category": "AI"
   },
