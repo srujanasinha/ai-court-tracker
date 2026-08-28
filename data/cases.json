@@ -1,5 +1,35 @@
 [
   {
+    "id": "10961571",
+    "name": "NetChoice, LLC v. Jonathan Skrmetti",
+    "court": "ca6",
+    "date_filed": "2026-08-28",
+    "docket_number": "25-5660",
+    "url": "https://www.courtlistener.com/opinion/10961571/netchoice-llc-v-jonathan-skrmetti/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10961457",
+    "name": "Kalshiex, LLC v. Assad",
+    "court": "ca9",
+    "date_filed": "2026-08-28",
+    "docket_number": "25-7516",
+    "url": "https://www.courtlistener.com/opinion/10961457/kalshiex-llc-v-assad/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10961295",
+    "name": "United States v. All Petroleum-Product Cargo Aboard the Achilleas With International Maritime Organization Number 9398072",
+    "court": "dcd",
+    "date_filed": "2026-08-28",
+    "docket_number": "Civil Action No. 2021-0305",
+    "url": "https://www.courtlistener.com/opinion/10961295/united-states-v-all-petroleum-product-cargo-aboard-the-achilleas-with/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10960432",
     "name": "People v. Hazlett",
     "court": "cal",
@@ -16,6 +46,26 @@
     "date_filed": "2026-08-27",
     "docket_number": "24-2948",
     "url": "https://www.courtlistener.com/opinion/10960291/lowell-v-lyft-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10960702",
+    "name": "Willard J. Hall Jr., Individually and as Trustee of the Willard Hall Jr. Trust v. Americommerce Holdings, LLC and Americommerce, LLC",
+    "court": "txctapp9",
+    "date_filed": "2026-08-27",
+    "docket_number": "09-24-00264-CV",
+    "url": "https://www.courtlistener.com/opinion/10960702/willard-j-hall-jr-individually-and-as-trustee-of-the-willard-hall-jr/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10960514",
+    "name": "Leschinski v. Rizer",
+    "court": "ohioctapp",
+    "date_filed": "2026-08-27",
+    "docket_number": "2026 CA 00001",
+    "url": "https://www.courtlistener.com/opinion/10960514/leschinski-v-rizer/",
     "snippet": "",
     "category": "AI"
   },
@@ -40,6 +90,26 @@
     "category": "Crypto"
   },
   {
+    "id": "10960561",
+    "name": "United States v. William Boylston",
+    "court": "ca6",
+    "date_filed": "2026-08-27",
+    "docket_number": "24-5116",
+    "url": "https://www.courtlistener.com/opinion/10960561/united-states-v-william-boylston/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10961476",
+    "name": "Biotechinnova, LLC v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-08-26",
+    "docket_number": "24-1194",
+    "url": "https://www.courtlistener.com/opinion/10961476/biotechinnova-llc-v-united-states/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10958688",
     "name": "Fellers v. Kelley",
     "court": "ca1",
@@ -56,16 +126,6 @@
     "date_filed": "2026-08-26",
     "docket_number": "24-1072, 24-1074",
     "url": "https://www.courtlistener.com/opinion/10958398/west-series-of-lockton-companies-llc-v-eric-kaufman/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10958352",
-    "name": "State of Louisiana v. Brandon Wayne Lindsey",
-    "court": "lactapp",
-    "date_filed": "2026-08-26",
-    "docket_number": "57,029-KA",
-    "url": "https://www.courtlistener.com/opinion/10958352/state-of-louisiana-v-brandon-wayne-lindsey/",
     "snippet": "",
     "category": "AI"
   },
@@ -126,16 +186,6 @@
     "date_filed": "2026-08-25",
     "docket_number": "25-1354",
     "url": "https://www.courtlistener.com/opinion/10957698/united-states-v-steven-anderegg/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10957578",
-    "name": "LPC Commercial Services, LLC, f/k/a LPC Commercial Services, Inc. v. Ar-Razzaaq Properties, LLC",
-    "court": "vactapp",
-    "date_filed": "2026-08-25",
-    "docket_number": "1407254",
-    "url": "https://www.courtlistener.com/opinion/10957578/lpc-commercial-services-llc-fka-lpc-commercial-services-inc-v/",
     "snippet": "",
     "category": "AI"
   },
@@ -230,16 +280,6 @@
     "category": "AI"
   },
   {
-    "id": "10954636",
-    "name": "United States v. Cisneros",
-    "court": "ca9",
-    "date_filed": "2026-08-21",
-    "docket_number": "24-6774",
-    "url": "https://www.courtlistener.com/opinion/10954636/united-states-v-cisneros/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10954743",
     "name": "OPERS v. FHLMC",
     "court": "ca6",
@@ -268,16 +308,6 @@
     "url": "https://www.courtlistener.com/opinion/10956739/carroll-brothers-llc-bens-back-alley-kitchen-llc-and-benjamin-carroll/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10956730",
-    "name": "State v. Jones",
-    "court": "nmctapp",
-    "date_filed": "2026-08-20",
-    "docket_number": "",
-    "url": "https://www.courtlistener.com/opinion/10956730/state-v-jones/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10956649",
@@ -316,16 +346,6 @@
     "date_filed": "2026-08-19",
     "docket_number": "25-720",
     "url": "https://www.courtlistener.com/opinion/10953496/fonden-v-fdic/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10953562",
-    "name": "Hennepin County, Minnesota v. U.S. Department of Health and Human Services",
-    "court": "dcd",
-    "date_filed": "2026-08-19",
-    "docket_number": "Civil Action No. 2026-2460",
-    "url": "https://www.courtlistener.com/opinion/10953562/hennepin-county-minnesota-v-us-department-of-health-and-human-services/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -386,16 +406,6 @@
     "date_filed": "2026-08-13",
     "docket_number": "02-25-00218-CV",
     "url": "https://www.courtlistener.com/opinion/10951799/in-the-estate-of-stacy-lynn-fuchsman-v-the-state-of-texas/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10947341",
-    "name": "United States v. All Virtual Currency Held in the Btc-E Operating Wallets as of July 25, 2017, and Other Assets Further Described Herein",
-    "court": "dcd",
-    "date_filed": "2026-08-13",
-    "docket_number": "Civil Action No. 2025-2085",
-    "url": "https://www.courtlistener.com/opinion/10947341/united-states-v-all-virtual-currency-held-in-the-btc-e-operating-wallets/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -568,16 +578,6 @@
     "url": "https://www.courtlistener.com/opinion/10872108/state-ex-rel-yost-v-google-llc/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10870798",
-    "name": "Monroeville v. Gray Matter Advisors, Inc.",
-    "court": "ohioctapp",
-    "date_filed": "2026-06-05",
-    "docket_number": "H-25-012",
-    "url": "https://www.courtlistener.com/opinion/10870798/monroeville-v-gray-matter-advisors-inc/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10868377",
