@@ -1,5 +1,35 @@
 [
   {
+    "id": "10961717",
+    "name": "City of L.A. v. American Federation of State, County etc.",
+    "court": "calctapp",
+    "date_filed": "2026-08-28",
+    "docket_number": "B336981",
+    "url": "https://www.courtlistener.com/opinion/10961717/city-of-la-v-american-federation-of-state-county-etc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10961716",
+    "name": "Stark v. United States Election Assistance Commission",
+    "court": "dcd",
+    "date_filed": "2026-08-28",
+    "docket_number": "Civil Action No. 2021-1864",
+    "url": "https://www.courtlistener.com/opinion/10961716/stark-v-united-states-election-assistance-commission/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10961587",
+    "name": "Mera USA, LLC v. MCS Burbank LLC",
+    "court": "delch",
+    "date_filed": "2026-08-28",
+    "docket_number": "C.A. No. 2024-0188-MTZ",
+    "url": "https://www.courtlistener.com/opinion/10961587/mera-usa-llc-v-mcs-burbank-llc/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "10961571",
     "name": "NetChoice, LLC v. Jonathan Skrmetti",
     "court": "ca6",
@@ -127,7 +157,7 @@
     "docket_number": "24-1072, 24-1074",
     "url": "https://www.courtlistener.com/opinion/10958398/west-series-of-lockton-companies-llc-v-eric-kaufman/",
     "snippet": "",
-    "category": "AI"
+    "category": "Web3"
   },
   {
     "id": "10958277",
@@ -300,16 +330,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10956739",
-    "name": "Carroll Brothers, LLC, Ben's Back Alley Kitchen, LLC and Benjamin Carroll v. Christopher Graham, In His Official Capacity as the Commissioner of the Mississippi Department of Revenue",
-    "court": "miss",
-    "date_filed": "2026-08-20",
-    "docket_number": "2025-CA-00667-SCT",
-    "url": "https://www.courtlistener.com/opinion/10956739/carroll-brothers-llc-bens-back-alley-kitchen-llc-and-benjamin-carroll/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10956649",
     "name": "Pellegrino v. United States",
     "court": "uscfc",
@@ -418,16 +438,6 @@
     "url": "https://www.courtlistener.com/opinion/10945082/the-cincinnati-insurance-company-v-levi-owens/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "10940850",
-    "name": "Securities and Exchange Commission v. Hutchison",
-    "court": "dcd",
-    "date_filed": "2026-08-06",
-    "docket_number": "Civil Action No. 2022-2296",
-    "url": "https://www.courtlistener.com/opinion/10940850/securities-and-exchange-commission-v-hutchison/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "10941955",
