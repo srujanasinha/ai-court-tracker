@@ -1,11 +1,31 @@
 [
   {
+    "id": "10962834",
+    "name": "Rodriguez v. Commissioner of Correction",
+    "court": "connappct",
+    "date_filed": "2026-09-01",
+    "docket_number": "AC48342",
+    "url": "https://www.courtlistener.com/opinion/10962834/rodriguez-v-commissioner-of-correction/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10961717",
     "name": "City of L.A. v. American Federation of State, County etc.",
     "court": "calctapp",
     "date_filed": "2026-08-28",
     "docket_number": "B336981",
     "url": "https://www.courtlistener.com/opinion/10961717/city-of-la-v-american-federation-of-state-county-etc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10962840",
+    "name": "Nemeth-Greenleaf v. United States Office of Personnel Management",
+    "court": "dcd",
+    "date_filed": "2026-08-28",
+    "docket_number": "Civil Action No. 2025-0407",
+    "url": "https://www.courtlistener.com/opinion/10962840/nemeth-greenleaf-v-united-states-office-of-personnel-management/",
     "snippet": "",
     "category": "AI"
   },
@@ -306,16 +326,6 @@
     "date_filed": "2026-08-21",
     "docket_number": "C.A. No. 2025-1298-JTL",
     "url": "https://www.courtlistener.com/opinion/10954616/altigen-communications-inc-v-day/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10954743",
-    "name": "OPERS v. FHLMC",
-    "court": "ca6",
-    "date_filed": "2026-08-21",
-    "docket_number": "25-3765",
-    "url": "https://www.courtlistener.com/opinion/10954743/opers-v-fhlmc/",
     "snippet": "",
     "category": "AI"
   },
