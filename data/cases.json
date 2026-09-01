@@ -10,12 +10,42 @@
     "category": "AI"
   },
   {
+    "id": "10963144",
+    "name": "State v. Presti",
+    "court": "hawapp",
+    "date_filed": "2026-08-31",
+    "docket_number": "CAAP-24-0000826",
+    "url": "https://www.courtlistener.com/opinion/10963144/state-v-presti/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10963062",
+    "name": "Lawfare Institute v. United States Department of State",
+    "court": "dcd",
+    "date_filed": "2026-08-31",
+    "docket_number": "Civil Action No. 2026-0798",
+    "url": "https://www.courtlistener.com/opinion/10963062/lawfare-institute-v-united-states-department-of-state/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10961717",
     "name": "City of L.A. v. American Federation of State, County etc.",
     "court": "calctapp",
     "date_filed": "2026-08-28",
     "docket_number": "B336981",
     "url": "https://www.courtlistener.com/opinion/10961717/city-of-la-v-american-federation-of-state-county-etc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10962880",
+    "name": "ATG Capital Opportunities Fund LP v. Ryan Lane",
+    "court": "delch",
+    "date_filed": "2026-08-28",
+    "docket_number": "2026-0447-LWW",
+    "url": "https://www.courtlistener.com/opinion/10962880/atg-capital-opportunities-fund-lp-v-ryan-lane/",
     "snippet": "",
     "category": "AI"
   },
@@ -116,16 +146,6 @@
     "date_filed": "2026-08-27",
     "docket_number": "2026 CA 00001",
     "url": "https://www.courtlistener.com/opinion/10960514/leschinski-v-rizer/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10960386",
-    "name": "In Re: Amendments to Florida Rules of Appellate Procedure 9.020 and 9.100",
-    "court": "fla",
-    "date_filed": "2026-08-27",
-    "docket_number": "SC2025-2000",
-    "url": "https://www.courtlistener.com/opinion/10960386/in-re-amendments-to-florida-rules-of-appellate-procedure-9020-and-9100/",
     "snippet": "",
     "category": "AI"
   },
@@ -310,16 +330,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10956744",
-    "name": "Saladino v. U.S. Office of Special Counsel",
-    "court": "dcd",
-    "date_filed": "2026-08-24",
-    "docket_number": "Civil Action No. 2025-3107",
-    "url": "https://www.courtlistener.com/opinion/10956744/saladino-v-us-office-of-special-counsel/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10954616",
     "name": "Altigen Communications, Inc. v. Day",
     "court": "delch",
@@ -440,16 +450,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10945082",
-    "name": "The Cincinnati Insurance Company v. Levi Owens",
-    "court": "ca4",
-    "date_filed": "2026-08-10",
-    "docket_number": "25-1848",
-    "url": "https://www.courtlistener.com/opinion/10945082/the-cincinnati-insurance-company-v-levi-owens/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10941955",
     "name": "TOV Realty, LLC v. Suarez",
     "court": "conn",
@@ -548,16 +548,6 @@
     "url": "https://www.courtlistener.com/opinion/10881694/cannon-v-united-states/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10879078",
-    "name": "Landberg v. City of New York",
-    "court": "nyappdiv",
-    "date_filed": "2026-06-23",
-    "docket_number": "2025-02380",
-    "url": "https://www.courtlistener.com/opinion/10879078/landberg-v-city-of-new-york/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10877650",
