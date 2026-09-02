@@ -1,11 +1,51 @@
 [
   {
+    "id": "10963787",
+    "name": "United States v. Day",
+    "court": "dcd",
+    "date_filed": "2026-09-01",
+    "docket_number": "Criminal No. 2003-0564",
+    "url": "https://www.courtlistener.com/opinion/10963787/united-states-v-day/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10963876",
+    "name": "In re A.M.",
+    "court": "ohioctapp",
+    "date_filed": "2026-09-01",
+    "docket_number": "CT2026-0019, CT2026-0020, & CT2026-0021",
+    "url": "https://www.courtlistener.com/opinion/10963876/in-re-am/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10962834",
     "name": "Rodriguez v. Commissioner of Correction",
     "court": "connappct",
     "date_filed": "2026-09-01",
     "docket_number": "AC48342",
     "url": "https://www.courtlistener.com/opinion/10962834/rodriguez-v-commissioner-of-correction/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10963525",
+    "name": "State ex rel. Howard v. Sackett",
+    "court": "ohio",
+    "date_filed": "2026-09-01",
+    "docket_number": "2025-0492",
+    "url": "https://www.courtlistener.com/opinion/10963525/state-ex-rel-howard-v-sackett/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10963860",
+    "name": "Delsonya Wilkins-Bailey v. Essity Professional Hygiene North America, LLC",
+    "court": "ca4",
+    "date_filed": "2026-08-31",
+    "docket_number": "25-1992",
+    "url": "https://www.courtlistener.com/opinion/10963860/delsonya-wilkins-bailey-v-essity-professional-hygiene-north-america-llc/",
     "snippet": "",
     "category": "AI"
   },
@@ -170,22 +210,12 @@
     "category": "Crypto"
   },
   {
-    "id": "10961476",
-    "name": "Biotechinnova, LLC v. United States",
-    "court": "uscfc",
+    "id": "10964695",
+    "name": "In the Matter of the Marriage of Darsi Rae Myers and Antonie Chris Vorster v. the State of Texas",
+    "court": "txctapp6",
     "date_filed": "2026-08-26",
-    "docket_number": "24-1194",
-    "url": "https://www.courtlistener.com/opinion/10961476/biotechinnova-llc-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10958688",
-    "name": "Fellers v. Kelley",
-    "court": "ca1",
-    "date_filed": "2026-08-26",
-    "docket_number": "25-1442",
-    "url": "https://www.courtlistener.com/opinion/10958688/fellers-v-kelley/",
+    "docket_number": "06-25-00130-CV",
+    "url": "https://www.courtlistener.com/opinion/10964695/in-the-matter-of-the-marriage-of-darsi-rae-myers-and-antonie-chris-vorster/",
     "snippet": "",
     "category": "AI"
   },
@@ -298,16 +328,6 @@
     "url": "https://www.courtlistener.com/opinion/10957506/timofey-v-v-united-states/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "10957017",
-    "name": "Doe v. Adventist Health System/West",
-    "court": "calctapp",
-    "date_filed": "2026-08-24",
-    "docket_number": "B344951",
-    "url": "https://www.courtlistener.com/opinion/10957017/doe-v-adventist-health-systemwest/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10956823",
@@ -516,16 +536,6 @@
     "date_filed": "2026-07-10",
     "docket_number": "24-11033",
     "url": "https://www.courtlistener.com/opinion/10925376/estate-of-lane-caviness-v-atlas-air-inc/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10925064",
-    "name": "PENLAND v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-07-07",
-    "docket_number": "22-62",
-    "url": "https://www.courtlistener.com/opinion/10925064/penland-v-united-states/",
     "snippet": "",
     "category": "AI"
   },
