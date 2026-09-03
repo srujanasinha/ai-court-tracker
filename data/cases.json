@@ -1,5 +1,35 @@
 [
   {
+    "id": "10964998",
+    "name": "United States v. Younes Nasri",
+    "court": "ca9",
+    "date_filed": "2026-09-02",
+    "docket_number": "22-55685",
+    "url": "https://www.courtlistener.com/opinion/10964998/united-states-v-younes-nasri/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10965051",
+    "name": "United States v. Approximately 1,537,935 Usdt",
+    "court": "dcd",
+    "date_filed": "2026-09-02",
+    "docket_number": "Civil Action No. 2025-3911",
+    "url": "https://www.courtlistener.com/opinion/10965051/united-states-v-approximately-1537935-usdt/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10964796",
+    "name": "Andrew Filipowski v. Commissioner of Internal Revenue",
+    "court": "ca11",
+    "date_filed": "2026-09-02",
+    "docket_number": "25-11382",
+    "url": "https://www.courtlistener.com/opinion/10964796/andrew-filipowski-v-commissioner-of-internal-revenue/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10963787",
     "name": "United States v. Day",
     "court": "dcd",
@@ -10,22 +40,22 @@
     "category": "AI"
   },
   {
+    "id": "10964697",
+    "name": "Rodriguez v. Commissioner of Correction",
+    "court": "connappct",
+    "date_filed": "2026-09-01",
+    "docket_number": "AC48342",
+    "url": "https://www.courtlistener.com/opinion/10964697/rodriguez-v-commissioner-of-correction/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10963876",
     "name": "In re A.M.",
     "court": "ohioctapp",
     "date_filed": "2026-09-01",
     "docket_number": "CT2026-0019, CT2026-0020, & CT2026-0021",
     "url": "https://www.courtlistener.com/opinion/10963876/in-re-am/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10962834",
-    "name": "Rodriguez v. Commissioner of Correction",
-    "court": "connappct",
-    "date_filed": "2026-09-01",
-    "docket_number": "AC48342",
-    "url": "https://www.courtlistener.com/opinion/10962834/rodriguez-v-commissioner-of-correction/",
     "snippet": "",
     "category": "AI"
   },
@@ -156,16 +186,6 @@
     "date_filed": "2026-08-27",
     "docket_number": "S126387",
     "url": "https://www.courtlistener.com/opinion/10960432/people-v-hazlett/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10960291",
-    "name": "Lowell v. Lyft, Inc.",
-    "court": "ca2",
-    "date_filed": "2026-08-27",
-    "docket_number": "24-2948",
-    "url": "https://www.courtlistener.com/opinion/10960291/lowell-v-lyft-inc/",
     "snippet": "",
     "category": "AI"
   },
@@ -430,16 +450,6 @@
     "category": "Web3"
   },
   {
-    "id": "10948558",
-    "name": "Andrew Brown v. Ron Broomfield",
-    "court": "ca9",
-    "date_filed": "2026-08-14",
-    "docket_number": "21-99001",
-    "url": "https://www.courtlistener.com/opinion/10948558/andrew-brown-v-ron-broomfield/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10951782",
     "name": "Zdenka Wilcox v. Juan Diego Duran",
     "court": "txctapp2",
@@ -448,26 +458,6 @@
     "url": "https://www.courtlistener.com/opinion/10951782/zdenka-wilcox-v-juan-diego-duran/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10947173",
-    "name": "Gaynor v. Bitcoin Depot, Inc",
-    "court": "dcd",
-    "date_filed": "2026-08-13",
-    "docket_number": "Civil Action No. 2025-4332",
-    "url": "https://www.courtlistener.com/opinion/10947173/gaynor-v-bitcoin-depot-inc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10951799",
-    "name": "In the Estate of Stacy Lynn Fuchsman v. the State of Texas",
-    "court": "txctapp2",
-    "date_filed": "2026-08-13",
-    "docket_number": "02-25-00218-CV",
-    "url": "https://www.courtlistener.com/opinion/10951799/in-the-estate-of-stacy-lynn-fuchsman-v-the-state-of-texas/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10941955",
