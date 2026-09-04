@@ -1,5 +1,55 @@
 [
   {
+    "id": "10966078",
+    "name": "Dccc v. Federal Election Commission",
+    "court": "dcd",
+    "date_filed": "2026-09-03",
+    "docket_number": "Civil Action No. 2024-2935",
+    "url": "https://www.courtlistener.com/opinion/10966078/dccc-v-federal-election-commission/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10965874",
+    "name": "Douglas v. Deutsche Bank National Trust Co., Published Order",
+    "court": "dc",
+    "date_filed": "2026-09-03",
+    "docket_number": "24-CV-1099",
+    "url": "https://www.courtlistener.com/opinion/10965874/douglas-v-deutsche-bank-national-trust-co-published-order/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10965920",
+    "name": "Lewis v. Dept. of Corrections",
+    "court": "or",
+    "date_filed": "2026-09-03",
+    "docket_number": "S072160",
+    "url": "https://www.courtlistener.com/opinion/10965920/lewis-v-dept-of-corrections/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10966090",
+    "name": "United States v. Virtual Currency Associated With North Korean It Worker Money Laundering and Sanctions Evasion Conspiracies",
+    "court": "dcd",
+    "date_filed": "2026-09-03",
+    "docket_number": "Civil Action No. 2025-1769",
+    "url": "https://www.courtlistener.com/opinion/10966090/united-states-v-virtual-currency-associated-with-north-korean-it-worker/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10965873",
+    "name": "Farooqui v. Silkwave Holdings Ltd.",
+    "court": "dc",
+    "date_filed": "2026-09-03",
+    "docket_number": "25-CV-0571",
+    "url": "https://www.courtlistener.com/opinion/10965873/farooqui-v-silkwave-holdings-ltd/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10964998",
     "name": "United States v. Younes Nasri",
     "court": "ca9",
@@ -36,6 +86,16 @@
     "date_filed": "2026-09-01",
     "docket_number": "Criminal No. 2003-0564",
     "url": "https://www.courtlistener.com/opinion/10963787/united-states-v-day/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10966007",
+    "name": "Anders Construction, Inc. v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-09-01",
+    "docket_number": "23-759",
+    "url": "https://www.courtlistener.com/opinion/10966007/anders-construction-inc-v-united-states/",
     "snippet": "",
     "category": "AI"
   },
@@ -120,16 +180,6 @@
     "category": "AI"
   },
   {
-    "id": "10962840",
-    "name": "Nemeth-Greenleaf v. United States Office of Personnel Management",
-    "court": "dcd",
-    "date_filed": "2026-08-28",
-    "docket_number": "Civil Action No. 2025-0407",
-    "url": "https://www.courtlistener.com/opinion/10962840/nemeth-greenleaf-v-united-states-office-of-personnel-management/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10961716",
     "name": "Stark v. United States Election Assistance Commission",
     "court": "dcd",
@@ -187,27 +237,7 @@
     "docket_number": "S126387",
     "url": "https://www.courtlistener.com/opinion/10960432/people-v-hazlett/",
     "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10960702",
-    "name": "Willard J. Hall Jr., Individually and as Trustee of the Willard Hall Jr. Trust v. Americommerce Holdings, LLC and Americommerce, LLC",
-    "court": "txctapp9",
-    "date_filed": "2026-08-27",
-    "docket_number": "09-24-00264-CV",
-    "url": "https://www.courtlistener.com/opinion/10960702/willard-j-hall-jr-individually-and-as-trustee-of-the-willard-hall-jr/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10960514",
-    "name": "Leschinski v. Rizer",
-    "court": "ohioctapp",
-    "date_filed": "2026-08-27",
-    "docket_number": "2026 CA 00001",
-    "url": "https://www.courtlistener.com/opinion/10960514/leschinski-v-rizer/",
-    "snippet": "",
-    "category": "AI"
+    "category": "Crypto"
   },
   {
     "id": "10960340",
@@ -276,16 +306,6 @@
     "date_filed": "2026-08-26",
     "docket_number": "A173959M",
     "url": "https://www.courtlistener.com/opinion/10958605/salamon-v-orchid-global/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10958530",
-    "name": "State v. Salo",
-    "court": "orctapp",
-    "date_filed": "2026-08-26",
-    "docket_number": "A183920",
-    "url": "https://www.courtlistener.com/opinion/10958530/state-v-salo/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -380,16 +400,6 @@
     "category": "AI"
   },
   {
-    "id": "10954647",
-    "name": "United States v. Approximately 927,155.442 Usdt",
-    "court": "dcd",
-    "date_filed": "2026-08-21",
-    "docket_number": "Civil Action No. 2025-3914",
-    "url": "https://www.courtlistener.com/opinion/10954647/united-states-v-approximately-927155442-usdt/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10956649",
     "name": "Pellegrino v. United States",
     "court": "uscfc",
@@ -466,16 +476,6 @@
     "date_filed": "2026-08-04",
     "docket_number": "SC21183",
     "url": "https://www.courtlistener.com/opinion/10941955/tov-realty-llc-v-suarez/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10935788",
-    "name": "Scott v. Illinois Human Rights Comm'n",
-    "court": "illappct",
-    "date_filed": "2026-07-28",
-    "docket_number": "1-25-1462",
-    "url": "https://www.courtlistener.com/opinion/10935788/scott-v-illinois-human-rights-commn/",
     "snippet": "",
     "category": "AI"
   },
@@ -778,16 +778,6 @@
     "url": "https://www.courtlistener.com/opinion/10691382/timoria-llc-v-chaib-anis/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10655908",
-    "name": "Ofir Ventura v. Circle Internet Financial, LLC",
-    "court": "delsuperct",
-    "date_filed": "2025-08-18",
-    "docket_number": "N25C-01-109 CLS",
-    "url": "https://www.courtlistener.com/opinion/10655908/ofir-ventura-v-circle-internet-financial-llc/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10614565",
