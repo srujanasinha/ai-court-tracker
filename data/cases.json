@@ -1,5 +1,95 @@
 [
   {
+    "id": "10967535",
+    "name": "Pousson v. D'Andrea",
+    "court": "delsuperct",
+    "date_filed": "2026-09-04",
+    "docket_number": "S23C-04-020 MHC",
+    "url": "https://www.courtlistener.com/opinion/10967535/pousson-v-dandrea/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10967270",
+    "name": "Candor Compass LLC v. iDentivisuals SRL",
+    "court": "delch",
+    "date_filed": "2026-09-04",
+    "docket_number": "C.A. No. 2024-1179-MTZ",
+    "url": "https://www.courtlistener.com/opinion/10967270/candor-compass-llc-v-identivisuals-srl/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10967538",
+    "name": "League of Women Voters v. DHS",
+    "court": "cadc",
+    "date_filed": "2026-09-04",
+    "docket_number": "26-5243",
+    "url": "https://www.courtlistener.com/opinion/10967538/league-of-women-voters-v-dhs/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10967484",
+    "name": "Strum v. Mardam-Bey",
+    "court": "dcd",
+    "date_filed": "2026-09-04",
+    "docket_number": "Civil Action No. 2024-0401",
+    "url": "https://www.courtlistener.com/opinion/10967484/strum-v-mardam-bey/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10967558",
+    "name": "James R. Huffman, IV v. Kentucky Attorney General's Office",
+    "court": "kyctapp",
+    "date_filed": "2026-09-04",
+    "docket_number": "2025-CA-0055",
+    "url": "https://www.courtlistener.com/opinion/10967558/james-r-huffman-iv-v-kentucky-attorney-generals-office/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10967290",
+    "name": "Jeff Conger v. Jay P. Clark",
+    "court": "idaho",
+    "date_filed": "2026-09-04",
+    "docket_number": "52800",
+    "url": "https://www.courtlistener.com/opinion/10967290/jeff-conger-v-jay-p-clark/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10967501",
+    "name": "United States v. Robert Pennington, Jr.",
+    "court": "ca7",
+    "date_filed": "2026-09-04",
+    "docket_number": "23-3315",
+    "url": "https://www.courtlistener.com/opinion/10967501/united-states-v-robert-pennington-jr/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10967500",
+    "name": "United States v. Robert Pennington, Jr.",
+    "court": "ca7",
+    "date_filed": "2026-09-04",
+    "docket_number": "23-3315",
+    "url": "https://www.courtlistener.com/opinion/10967500/united-states-v-robert-pennington-jr/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10967453",
+    "name": "United States v. All Petroleum-Product Cargo Aboard the Achilleas With International Maritime Organization Number 9398072",
+    "court": "dcd",
+    "date_filed": "2026-09-04",
+    "docket_number": "Civil Action No. 2021-0305",
+    "url": "https://www.courtlistener.com/opinion/10967453/united-states-v-all-petroleum-product-cargo-aboard-the-achilleas-with/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10966078",
     "name": "Dccc v. Federal Election Commission",
     "court": "dcd",
@@ -140,16 +230,6 @@
     "category": "AI"
   },
   {
-    "id": "10963144",
-    "name": "State v. Presti",
-    "court": "hawapp",
-    "date_filed": "2026-08-31",
-    "docket_number": "CAAP-24-0000826",
-    "url": "https://www.courtlistener.com/opinion/10963144/state-v-presti/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10963062",
     "name": "Lawfare Institute v. United States Department of State",
     "court": "dcd",
@@ -216,16 +296,6 @@
     "date_filed": "2026-08-28",
     "docket_number": "25-7516",
     "url": "https://www.courtlistener.com/opinion/10961457/kalshiex-llc-v-assad/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10961295",
-    "name": "United States v. All Petroleum-Product Cargo Aboard the Achilleas With International Maritime Organization Number 9398072",
-    "court": "dcd",
-    "date_filed": "2026-08-28",
-    "docket_number": "Civil Action No. 2021-0305",
-    "url": "https://www.courtlistener.com/opinion/10961295/united-states-v-all-petroleum-product-cargo-aboard-the-achilleas-with/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -340,26 +410,6 @@
     "category": "AI"
   },
   {
-    "id": "10957459",
-    "name": "Children's Health Defense v. National Institutes of Health",
-    "court": "dcd",
-    "date_filed": "2026-08-25",
-    "docket_number": "Civil Action No. 2023-1016",
-    "url": "https://www.courtlistener.com/opinion/10957459/childrens-health-defense-v-national-institutes-of-health/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10957709",
-    "name": "Constitutionality of Religious Restrictions on the Use of Federal Funds",
-    "court": "olc",
-    "date_filed": "2026-08-25",
-    "docket_number": "",
-    "url": "https://www.courtlistener.com/opinion/10957709/constitutionality-of-religious-restrictions-on-the-use-of-federal-funds/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10957506",
     "name": "Timofey V v. United States",
     "court": "ca3",
@@ -380,16 +430,6 @@
     "category": "Web3"
   },
   {
-    "id": "10957438",
-    "name": "United States v. Approximately 1,210,734.00 Usdt",
-    "court": "dcd",
-    "date_filed": "2026-08-24",
-    "docket_number": "Civil Action No. 2026-1988",
-    "url": "https://www.courtlistener.com/opinion/10957438/united-states-v-approximately-121073400-usdt/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10954616",
     "name": "Altigen Communications, Inc. v. Day",
     "court": "delch",
@@ -398,16 +438,6 @@
     "url": "https://www.courtlistener.com/opinion/10954616/altigen-communications-inc-v-day/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10956649",
-    "name": "Pellegrino v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-08-20",
-    "docket_number": "26-403",
-    "url": "https://www.courtlistener.com/opinion/10956649/pellegrino-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10953484",
@@ -528,16 +558,6 @@
     "url": "https://www.courtlistener.com/opinion/10925376/estate-of-lane-caviness-v-atlas-air-inc/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10941071",
-    "name": "D C Verrengia v. Verrengia, Justin Anthony",
-    "court": "prapp",
-    "date_filed": "2026-06-30",
-    "docket_number": "KLAN202401035",
-    "url": "https://www.courtlistener.com/opinion/10941071/d-c-verrengia-v-verrengia-justin-anthony/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10881694",
