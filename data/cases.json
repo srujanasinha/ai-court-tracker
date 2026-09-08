@@ -270,6 +270,16 @@
     "category": "AI"
   },
   {
+    "id": "10968927",
+    "name": "Alper Uzmezler v. Ekim Stevens",
+    "court": "txctapp3",
+    "date_filed": "2026-08-28",
+    "docket_number": "03-24-00513-CV",
+    "url": "https://www.courtlistener.com/opinion/10968927/alper-uzmezler-v-ekim-stevens/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "10961587",
     "name": "Mera USA, LLC v. MCS Burbank LLC",
     "court": "delch",
@@ -370,16 +380,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10958605",
-    "name": "Salamon v. Orchid Global",
-    "court": "calctapp",
-    "date_filed": "2026-08-26",
-    "docket_number": "A173959M",
-    "url": "https://www.courtlistener.com/opinion/10958605/salamon-v-orchid-global/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10957699",
     "name": "United States v. Steven Anderegg",
     "court": "ca7",
@@ -408,16 +408,6 @@
     "url": "https://www.courtlistener.com/opinion/10960431/chetco-resources-llc-v-united-states/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10957506",
-    "name": "Timofey V v. United States",
-    "court": "ca3",
-    "date_filed": "2026-08-25",
-    "docket_number": "25-2487",
-    "url": "https://www.courtlistener.com/opinion/10957506/timofey-v-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10956823",
@@ -786,16 +776,6 @@
     "date_filed": "2025-10-28",
     "docket_number": "C.A. No. 2019-0561-NAC",
     "url": "https://www.courtlistener.com/opinion/10712653/allan-j-camaisa-v-pharmaceutical-research-associates-inc-a-virginia/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "10691382",
-    "name": "Timoria LLC v. Chaib Anis",
-    "court": "delch",
-    "date_filed": "2025-10-06",
-    "docket_number": "C.A. No. 2025-0883-JTL",
-    "url": "https://www.courtlistener.com/opinion/10691382/timoria-llc-v-chaib-anis/",
     "snippet": "",
     "category": "Web3"
   },
