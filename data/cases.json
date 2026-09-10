@@ -1,5 +1,15 @@
 [
   {
+    "id": "10970182",
+    "name": "John Doe v. SEC (PUBLIC REISSUED OPINION)",
+    "court": "cadc",
+    "date_filed": "2026-09-09",
+    "docket_number": "25-1152",
+    "url": "https://www.courtlistener.com/opinion/10970182/john-doe-v-sec-public-reissued-opinion/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10969233",
     "name": "Delaware Department of Safety and Homeland Security v. Gavin J. Birney",
     "court": "del",
@@ -20,24 +30,14 @@
     "category": "AI"
   },
   {
-    "id": "10969162",
-    "name": "I F G Port v. Lake Charles Harbor",
-    "court": "ca5",
-    "date_filed": "2026-09-08",
-    "docket_number": "24-30552",
-    "url": "https://www.courtlistener.com/opinion/10969162/i-f-g-port-v-lake-charles-harbor/",
+    "id": "10969993",
+    "name": "Dlh, LLC v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-09-04",
+    "docket_number": "26-803",
+    "url": "https://www.courtlistener.com/opinion/10969993/dlh-llc-v-united-states/",
     "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10969122",
-    "name": "United States v. Gessen",
-    "court": "ca9",
-    "date_filed": "2026-09-08",
-    "docket_number": "24-2979",
-    "url": "https://www.courtlistener.com/opinion/10969122/united-states-v-gessen/",
-    "snippet": "",
-    "category": "Crypto"
+    "category": "AI"
   },
   {
     "id": "10967535",
@@ -76,16 +76,6 @@
     "date_filed": "2026-09-04",
     "docket_number": "Civil Action No. 2024-0401",
     "url": "https://www.courtlistener.com/opinion/10967484/strum-v-mardam-bey/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10967558",
-    "name": "James R. Huffman, IV v. Kentucky Attorney General's Office",
-    "court": "kyctapp",
-    "date_filed": "2026-09-04",
-    "docket_number": "2025-CA-0055",
-    "url": "https://www.courtlistener.com/opinion/10967558/james-r-huffman-iv-v-kentucky-attorney-generals-office/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -220,16 +210,6 @@
     "category": "AI"
   },
   {
-    "id": "10966007",
-    "name": "Anders Construction, Inc. v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-09-01",
-    "docket_number": "23-759",
-    "url": "https://www.courtlistener.com/opinion/10966007/anders-construction-inc-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10964697",
     "name": "Rodriguez v. Commissioner of Correction",
     "court": "connappct",
@@ -270,16 +250,6 @@
     "category": "AI"
   },
   {
-    "id": "10963062",
-    "name": "Lawfare Institute v. United States Department of State",
-    "court": "dcd",
-    "date_filed": "2026-08-31",
-    "docket_number": "Civil Action No. 2026-0798",
-    "url": "https://www.courtlistener.com/opinion/10963062/lawfare-institute-v-united-states-department-of-state/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10962880",
     "name": "ATG Capital Opportunities Fund LP v. Ryan Lane",
     "court": "delch",
@@ -318,16 +288,6 @@
     "url": "https://www.courtlistener.com/opinion/10961587/mera-usa-llc-v-mcs-burbank-llc/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10961571",
-    "name": "NetChoice, LLC v. Jonathan Skrmetti",
-    "court": "ca6",
-    "date_filed": "2026-08-28",
-    "docket_number": "25-5660",
-    "url": "https://www.courtlistener.com/opinion/10961571/netchoice-llc-v-jonathan-skrmetti/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10961457",
@@ -540,6 +500,16 @@
     "category": "Crypto"
   },
   {
+    "id": "10925376",
+    "name": "Estate of Lane Caviness v. Atlas Air, Inc.",
+    "court": "ca11",
+    "date_filed": "2026-07-10",
+    "docket_number": "24-11033",
+    "url": "https://www.courtlistener.com/opinion/10925376/estate-of-lane-caviness-v-atlas-air-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10881694",
     "name": "Cannon v. United States",
     "court": "ca9",
@@ -560,6 +530,16 @@
     "category": "AI"
   },
   {
+    "id": "10877276",
+    "name": "NetChoice, LLC v. David Yost",
+    "court": "ca6",
+    "date_filed": "2026-06-18",
+    "docket_number": "25-3371",
+    "url": "https://www.courtlistener.com/opinion/10877276/netchoice-llc-v-david-yost/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10875924",
     "name": "Matter of 170 W. End Ave. Owners Corp. v. Centennial El. Indus. Inc.",
     "court": "nyappdiv",
@@ -568,6 +548,16 @@
     "url": "https://www.courtlistener.com/opinion/10875924/matter-of-170-w-end-ave-owners-corp-v-centennial-el-indus-inc/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "10872108",
+    "name": "State ex rel. Yost v. Google, L.L.C.",
+    "court": "ohioctapp",
+    "date_filed": "2026-06-08",
+    "docket_number": "25 CAE 08 0070",
+    "url": "https://www.courtlistener.com/opinion/10872108/state-ex-rel-yost-v-google-llc/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "10868377",
@@ -590,6 +580,16 @@
     "category": "Crypto"
   },
   {
+    "id": "10864457",
+    "name": "American Civil Liberties Union of Delaware v. The Town of Fenwick Island",
+    "court": "delsuperct",
+    "date_filed": "2026-05-26",
+    "docket_number": "S25C-12-003 CAK",
+    "url": "https://www.courtlistener.com/opinion/10864457/american-civil-liberties-union-of-delaware-v-the-town-of-fenwick-island/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10854303",
     "name": "Lee v. Iran",
     "court": "dcd",
@@ -598,6 +598,16 @@
     "url": "https://www.courtlistener.com/opinion/10854303/lee-v-iran/",
     "snippet": "",
     "category": "Crypto"
+  },
+  {
+    "id": "10852760",
+    "name": "Louisiana v. Callais Revisions: 5/04/26",
+    "court": "scotus",
+    "date_filed": "2026-04-29",
+    "docket_number": "24-109",
+    "url": "https://www.courtlistener.com/opinion/10852760/louisiana-v-callais-revisions-50426/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "10830725",
