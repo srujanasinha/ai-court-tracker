@@ -1,5 +1,25 @@
 [
   {
+    "id": "10972087",
+    "name": "Linardon v. Walsh",
+    "court": "ca1",
+    "date_filed": "2026-09-11",
+    "docket_number": "25-1541",
+    "url": "https://www.courtlistener.com/opinion/10972087/linardon-v-walsh/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10971953",
+    "name": "B.E. v. Pistotnik",
+    "court": "kanctapp",
+    "date_filed": "2026-09-11",
+    "docket_number": "128144",
+    "url": "https://www.courtlistener.com/opinion/10971953/be-v-pistotnik/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "10970821",
     "name": "Southland Homes, etc. v. Lam",
     "court": "calctapp",
@@ -18,6 +38,16 @@
     "url": "https://www.courtlistener.com/opinion/10970549/main-street-mortgage-group-corp-v-tran/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "10971971",
+    "name": "Wave Digital Assets, LLC v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-09-10",
+    "docket_number": "25-928",
+    "url": "https://www.courtlistener.com/opinion/10971971/wave-digital-assets-llc-v-united-states/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "10970182",
@@ -320,16 +350,6 @@
     "category": "AI"
   },
   {
-    "id": "10961716",
-    "name": "Stark v. United States Election Assistance Commission",
-    "court": "dcd",
-    "date_filed": "2026-08-28",
-    "docket_number": "Civil Action No. 2021-1864",
-    "url": "https://www.courtlistener.com/opinion/10961716/stark-v-united-states-election-assistance-commission/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10968927",
     "name": "Alper Uzmezler v. Ekim Stevens",
     "court": "txctapp3",
@@ -468,16 +488,6 @@
     "url": "https://www.courtlistener.com/opinion/10953484/et-v-the-boys-and-girls-club-of-hudson-county/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10953556",
-    "name": "Verthelyi v. Pennymac Mortgage Investment Trust",
-    "court": "ca9",
-    "date_filed": "2026-08-19",
-    "docket_number": "25-4458",
-    "url": "https://www.courtlistener.com/opinion/10953556/verthelyi-v-pennymac-mortgage-investment-trust/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "10953496",
