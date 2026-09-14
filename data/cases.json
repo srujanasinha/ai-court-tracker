@@ -1,5 +1,15 @@
 [
   {
+    "id": "10973105",
+    "name": "Dscc v. Trump",
+    "court": "dcd",
+    "date_filed": "2026-09-13",
+    "docket_number": "Civil Action No. 2026-1114",
+    "url": "https://www.courtlistener.com/opinion/10973105/dscc-v-trump/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10972087",
     "name": "Linardon v. Walsh",
     "court": "ca1",
@@ -296,16 +306,6 @@
     "date_filed": "2026-09-01",
     "docket_number": "AC48342",
     "url": "https://www.courtlistener.com/opinion/10964697/rodriguez-v-commissioner-of-correction/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10963876",
-    "name": "In re A.M.",
-    "court": "ohioctapp",
-    "date_filed": "2026-09-01",
-    "docket_number": "CT2026-0019, CT2026-0020, & CT2026-0021",
-    "url": "https://www.courtlistener.com/opinion/10963876/in-re-am/",
     "snippet": "",
     "category": "AI"
   },
