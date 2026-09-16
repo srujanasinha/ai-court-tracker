@@ -1,5 +1,25 @@
 [
   {
+    "id": "10974515",
+    "name": "State v. Miller",
+    "court": "ncctapp",
+    "date_filed": "2026-09-16",
+    "docket_number": "25-525",
+    "url": "https://www.courtlistener.com/opinion/10974515/state-v-miller/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10973873",
+    "name": "Sheetz, Inc. v. Centerville",
+    "court": "ohio",
+    "date_filed": "2026-09-15",
+    "docket_number": "2025-0753",
+    "url": "https://www.courtlistener.com/opinion/10973873/sheetz-inc-v-centerville/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10973222",
     "name": "Tyler Strang v. malay/hernandez",
     "court": "ariz",
@@ -20,12 +40,12 @@
     "category": "AI"
   },
   {
-    "id": "10973168",
+    "id": "10974179",
     "name": "Lemus v. Grover Montano Corp.",
     "court": "dcd",
     "date_filed": "2026-09-14",
     "docket_number": "Civil Action No. 2023-0108",
-    "url": "https://www.courtlistener.com/opinion/10973168/lemus-v-grover-montano-corp/",
+    "url": "https://www.courtlistener.com/opinion/10974179/lemus-v-grover-montano-corp/",
     "snippet": "",
     "category": "AI"
   },
@@ -300,16 +320,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10964998",
-    "name": "United States v. Younes Nasri",
-    "court": "ca9",
-    "date_filed": "2026-09-02",
-    "docket_number": "22-55685",
-    "url": "https://www.courtlistener.com/opinion/10964998/united-states-v-younes-nasri/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10965051",
     "name": "United States v. Approximately 1,537,935 Usdt",
     "court": "dcd",
@@ -330,14 +340,14 @@
     "category": "Crypto"
   },
   {
-    "id": "10964697",
-    "name": "Rodriguez v. Commissioner of Correction",
-    "court": "connappct",
-    "date_filed": "2026-09-01",
-    "docket_number": "AC48342",
-    "url": "https://www.courtlistener.com/opinion/10964697/rodriguez-v-commissioner-of-correction/",
+    "id": "10964998",
+    "name": "United States v. Younes Nasri",
+    "court": "ca9",
+    "date_filed": "2026-09-02",
+    "docket_number": "22-55685",
+    "url": "https://www.courtlistener.com/opinion/10964998/united-states-v-younes-nasri/",
     "snippet": "",
-    "category": "AI"
+    "category": "Crypto"
   },
   {
     "id": "10963525",
