@@ -10,6 +10,46 @@
     "category": "AI"
   },
   {
+    "id": "10974713",
+    "name": "Doe v. Github, Inc.",
+    "court": "ca9",
+    "date_filed": "2026-09-16",
+    "docket_number": "24-7700",
+    "url": "https://www.courtlistener.com/opinion/10974713/doe-v-github-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10974646",
+    "name": "Lorie Jean Lisandrillo v. Renee Palozzi",
+    "court": "fladistctapp",
+    "date_filed": "2026-09-16",
+    "docket_number": "4D2026-2262",
+    "url": "https://www.courtlistener.com/opinion/10974646/lorie-jean-lisandrillo-v-renee-palozzi/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10974581",
+    "name": "Island Creek Associates, LLC v. United States",
+    "court": "cafc",
+    "date_filed": "2026-09-16",
+    "docket_number": "25-1140",
+    "url": "https://www.courtlistener.com/opinion/10974581/island-creek-associates-llc-v-united-states/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10974574",
+    "name": "CheckFree Servs. Corp. v. Harris",
+    "court": "ohio",
+    "date_filed": "2026-09-16",
+    "docket_number": "2024-1569",
+    "url": "https://www.courtlistener.com/opinion/10974574/checkfree-servs-corp-v-harris/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10973873",
     "name": "Sheetz, Inc. v. Centerville",
     "court": "ohio",
@@ -120,16 +160,6 @@
     "category": "AI"
   },
   {
-    "id": "10970549",
-    "name": "Main Street Mortgage Group, Corp. v. Tran",
-    "court": "massappct",
-    "date_filed": "2026-09-10",
-    "docket_number": "AC 25-P-568",
-    "url": "https://www.courtlistener.com/opinion/10970549/main-street-mortgage-group-corp-v-tran/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10971971",
     "name": "Wave Digital Assets, LLC v. United States",
     "court": "uscfc",
@@ -198,36 +228,6 @@
     "url": "https://www.courtlistener.com/opinion/10969122/united-states-v-gessen/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "10969993",
-    "name": "Dlh, LLC v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-09-04",
-    "docket_number": "26-803",
-    "url": "https://www.courtlistener.com/opinion/10969993/dlh-llc-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10967535",
-    "name": "Pousson v. D'Andrea",
-    "court": "delsuperct",
-    "date_filed": "2026-09-04",
-    "docket_number": "S23C-04-020 MHC",
-    "url": "https://www.courtlistener.com/opinion/10967535/pousson-v-dandrea/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10967538",
-    "name": "League of Women Voters v. DHS",
-    "court": "cadc",
-    "date_filed": "2026-09-04",
-    "docket_number": "26-5243",
-    "url": "https://www.courtlistener.com/opinion/10967538/league-of-women-voters-v-dhs/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10967484",
