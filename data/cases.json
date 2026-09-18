@@ -1,5 +1,45 @@
 [
   {
+    "id": "10975580",
+    "name": "United States v. Alisigwe",
+    "court": "ca2",
+    "date_filed": "2026-09-17",
+    "docket_number": "24-960",
+    "url": "https://www.courtlistener.com/opinion/10975580/united-states-v-alisigwe/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10975621",
+    "name": "Berwick Solar, LLC v. Public Utilities Commission",
+    "court": "me",
+    "date_filed": "2026-09-17",
+    "docket_number": "PUC-25-51",
+    "url": "https://www.courtlistener.com/opinion/10975621/berwick-solar-llc-v-public-utilities-commission/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
+    "id": "10975669",
+    "name": "Matter of Wells Fargo Bank v. HBK Master Fund L.P.",
+    "court": "nyappdiv",
+    "date_filed": "2026-09-17",
+    "docket_number": "Index No. 154984/21|Appeal No. 6159|Case No. 2025-04773|",
+    "url": "https://www.courtlistener.com/opinion/10975669/matter-of-wells-fargo-bank-v-hbk-master-fund-lp/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10976042",
+    "name": "Jefferson v. Austin",
+    "court": "dcd",
+    "date_filed": "2026-09-17",
+    "docket_number": "Civil Action No. 2021-1489",
+    "url": "https://www.courtlistener.com/opinion/10976042/jefferson-v-austin/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10974515",
     "name": "State v. Miller",
     "court": "ncctapp",
@@ -280,16 +320,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10966078",
-    "name": "Dccc v. Federal Election Commission",
-    "court": "dcd",
-    "date_filed": "2026-09-03",
-    "docket_number": "Civil Action No. 2024-2935",
-    "url": "https://www.courtlistener.com/opinion/10966078/dccc-v-federal-election-commission/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10965874",
     "name": "Douglas v. Deutsche Bank National Trust Co., Published Order",
     "court": "dc",
@@ -360,16 +390,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10963062",
-    "name": "Lawfare Institute v. United States Department of State",
-    "court": "dcd",
-    "date_filed": "2026-08-31",
-    "docket_number": "Civil Action No. 2026-0798",
-    "url": "https://www.courtlistener.com/opinion/10963062/lawfare-institute-v-united-states-department-of-state/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10962880",
     "name": "ATG Capital Opportunities Fund LP v. Ryan Lane",
     "court": "delch",
@@ -390,16 +410,6 @@
     "category": "Web3"
   },
   {
-    "id": "10961587",
-    "name": "Mera USA, LLC v. MCS Burbank LLC",
-    "court": "delch",
-    "date_filed": "2026-08-28",
-    "docket_number": "C.A. No. 2024-0188-MTZ",
-    "url": "https://www.courtlistener.com/opinion/10961587/mera-usa-llc-v-mcs-burbank-llc/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "10961457",
     "name": "Kalshiex, LLC v. Assad",
     "court": "ca9",
@@ -416,16 +426,6 @@
     "date_filed": "2026-08-27",
     "docket_number": "Misc. No. 2026-0083",
     "url": "https://www.courtlistener.com/opinion/10960340/in-re-motion-to-compel-compliance-with-subpoena-directed-to-the-united/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10960561",
-    "name": "United States v. William Boylston",
-    "court": "ca6",
-    "date_filed": "2026-08-27",
-    "docket_number": "24-5116",
-    "url": "https://www.courtlistener.com/opinion/10960561/united-states-v-william-boylston/",
     "snippet": "",
     "category": "Crypto"
   },
