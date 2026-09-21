@@ -120,6 +120,16 @@
     "category": "AI"
   },
   {
+    "id": "10978163",
+    "name": "CreateAI Holdings, Inc. F/K/A TuSimple Holdings, Inc. v. Bot Auto TX Inc.",
+    "court": "txctapp15",
+    "date_filed": "2026-09-15",
+    "docket_number": "15-25-00001-CV",
+    "url": "https://www.courtlistener.com/opinion/10978163/createai-holdings-inc-fka-tusimple-holdings-inc-v-bot-auto-tx-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10973873",
     "name": "Sheetz, Inc. v. Centerville",
     "court": "ohio",
@@ -588,16 +598,6 @@
     "url": "https://www.courtlistener.com/opinion/10881694/cannon-v-united-states/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10877650",
-    "name": "Eddie Pugh v. Rise Church Abilene, Inc.; Rise Discipleship; And Reynaldo Sandoval",
-    "court": "txctapp11",
-    "date_filed": "2026-06-18",
-    "docket_number": "11-25-00356-CV",
-    "url": "https://www.courtlistener.com/opinion/10877650/eddie-pugh-v-rise-church-abilene-inc-rise-discipleship-and-reynaldo/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10877276",
