@@ -1,5 +1,35 @@
 [
   {
+    "id": "10978316",
+    "name": "F.L. v. Superior Court",
+    "court": "calctapp",
+    "date_filed": "2026-09-21",
+    "docket_number": "E089010",
+    "url": "https://www.courtlistener.com/opinion/10978316/fl-v-superior-court/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10978342",
+    "name": "Com. v. Thomas, C.",
+    "court": "pasuperct",
+    "date_filed": "2026-09-21",
+    "docket_number": "429 WDA 2025",
+    "url": "https://www.courtlistener.com/opinion/10978342/com-v-thomas-c/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10978279",
+    "name": "John Bosco Rayan v. Noem",
+    "court": "dcd",
+    "date_filed": "2026-09-21",
+    "docket_number": "Civil Action No. 2026-0824",
+    "url": "https://www.courtlistener.com/opinion/10978279/john-bosco-rayan-v-noem/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10977018",
     "name": "Office of Lawyer Regulation v. Patrick J. Rupich",
     "court": "wis",
@@ -160,16 +190,6 @@
     "category": "AI"
   },
   {
-    "id": "10974179",
-    "name": "Lemus v. Grover Montano Corp.",
-    "court": "dcd",
-    "date_filed": "2026-09-14",
-    "docket_number": "Civil Action No. 2023-0108",
-    "url": "https://www.courtlistener.com/opinion/10974179/lemus-v-grover-montano-corp/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10973336",
     "name": "Richardson v. National Railroad Passenger Corporation",
     "court": "dcd",
@@ -206,16 +226,6 @@
     "date_filed": "2026-09-13",
     "docket_number": "Civil Action No. 2026-1114",
     "url": "https://www.courtlistener.com/opinion/10973105/dscc-v-trump/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10972087",
-    "name": "Linardon v. Walsh",
-    "court": "ca1",
-    "date_filed": "2026-09-11",
-    "docket_number": "25-1541",
-    "url": "https://www.courtlistener.com/opinion/10972087/linardon-v-walsh/",
     "snippet": "",
     "category": "AI"
   },
@@ -386,16 +396,6 @@
     "date_filed": "2026-09-02",
     "docket_number": "25-11382",
     "url": "https://www.courtlistener.com/opinion/10964796/andrew-filipowski-v-commissioner-of-internal-revenue/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10964998",
-    "name": "United States v. Younes Nasri",
-    "court": "ca9",
-    "date_filed": "2026-09-02",
-    "docket_number": "22-55685",
-    "url": "https://www.courtlistener.com/opinion/10964998/united-states-v-younes-nasri/",
     "snippet": "",
     "category": "Crypto"
   },
