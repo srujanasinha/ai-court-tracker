@@ -1,5 +1,75 @@
 [
   {
+    "id": "10983213",
+    "name": "State v. Jose T.",
+    "court": "conn",
+    "date_filed": "2026-09-29",
+    "docket_number": "SC21021",
+    "url": "https://www.courtlistener.com/opinion/10983213/state-v-jose-t/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10982888",
+    "name": "Faltz v. United States",
+    "court": "dc",
+    "date_filed": "2026-09-24",
+    "docket_number": "25-CO-0361",
+    "url": "https://www.courtlistener.com/opinion/10982888/faltz-v-united-states/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10983172",
+    "name": "Elizabeth Koeberer v. Robert Weir",
+    "court": "ca6",
+    "date_filed": "2026-09-24",
+    "docket_number": "25-3541",
+    "url": "https://www.courtlistener.com/opinion/10983172/elizabeth-koeberer-v-robert-weir/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10983006",
+    "name": "Nolen v. Peopleconnect, Inc.",
+    "court": "ca9",
+    "date_filed": "2026-09-24",
+    "docket_number": "24-3894",
+    "url": "https://www.courtlistener.com/opinion/10983006/nolen-v-peopleconnect-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10982886",
+    "name": "Rezene v. United States",
+    "court": "dc",
+    "date_filed": "2026-09-24",
+    "docket_number": "24-CF-0283",
+    "url": "https://www.courtlistener.com/opinion/10982886/rezene-v-united-states/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10983171",
+    "name": "Rachel Welty v. Bryant Dunaway",
+    "court": "ca6",
+    "date_filed": "2026-09-24",
+    "docket_number": "25-5739",
+    "url": "https://www.courtlistener.com/opinion/10983171/rachel-welty-v-bryant-dunaway/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10982918",
+    "name": "Jacob Dotson v. Cia Drug, LLC",
+    "court": "ky",
+    "date_filed": "2026-09-24",
+    "docket_number": "2025-SC-0451",
+    "url": "https://www.courtlistener.com/opinion/10982918/jacob-dotson-v-cia-drug-llc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10981567",
     "name": "Nestle USA, Inc. v. Madison County Assessor",
     "court": "indtc",
@@ -20,16 +90,6 @@
     "category": "AI"
   },
   {
-    "id": "10980994",
-    "name": "Love v. Hamilton Cty. Bd. of Commrs.",
-    "court": "ohioctapp",
-    "date_filed": "2026-09-23",
-    "docket_number": "C-260017",
-    "url": "https://www.courtlistener.com/opinion/10980994/love-v-hamilton-cty-bd-of-commrs/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10980711",
     "name": "Cannon v. United States",
     "court": "ca9",
@@ -38,6 +98,16 @@
     "url": "https://www.courtlistener.com/opinion/10980711/cannon-v-united-states/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "10983057",
+    "name": "Trax International Corporation v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-09-22",
+    "docket_number": "26-796",
+    "url": "https://www.courtlistener.com/opinion/10983057/trax-international-corporation-v-united-states/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "10979250",
@@ -60,24 +130,14 @@
     "category": "AI"
   },
   {
-    "id": "10979456",
-    "name": "Harris County, Texas v. United States Environmental Protection Agency",
-    "court": "dcd",
+    "id": "10983058",
+    "name": "Mvl USA Inc. v. United States",
+    "court": "uscfc",
     "date_filed": "2026-09-22",
-    "docket_number": "Civil Action No. 2025-3646",
-    "url": "https://www.courtlistener.com/opinion/10979456/harris-county-texas-v-united-states-environmental-protection-agency/",
+    "docket_number": "26-561",
+    "url": "https://www.courtlistener.com/opinion/10983058/mvl-usa-inc-v-united-states/",
     "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10979302",
-    "name": "Bultemeyer v. Centurylink, Inc.",
-    "court": "ca9",
-    "date_filed": "2026-09-22",
-    "docket_number": "24-6413",
-    "url": "https://www.courtlistener.com/opinion/10979302/bultemeyer-v-centurylink-inc/",
-    "snippet": "",
-    "category": "AI"
+    "category": "Crypto"
   },
   {
     "id": "10979460",
@@ -190,16 +250,6 @@
     "category": "AI"
   },
   {
-    "id": "10974646",
-    "name": "Lorie Jean Lisandrillo v. Renee Palozzi",
-    "court": "fladistctapp",
-    "date_filed": "2026-09-16",
-    "docket_number": "4D2026-2262",
-    "url": "https://www.courtlistener.com/opinion/10974646/lorie-jean-lisandrillo-v-renee-palozzi/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10978163",
     "name": "CreateAI Holdings, Inc. F/K/A TuSimple Holdings, Inc. v. Bot Auto TX Inc.",
     "court": "txctapp15",
@@ -290,36 +340,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10969233",
-    "name": "Delaware Department of Safety and Homeland Security v. Gavin J. Birney",
-    "court": "del",
-    "date_filed": "2026-09-08",
-    "docket_number": "412, 2025",
-    "url": "https://www.courtlistener.com/opinion/10969233/delaware-department-of-safety-and-homeland-security-v-gavin-j-birney/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10969162",
-    "name": "I F G Port v. Lake Charles Harbor",
-    "court": "ca5",
-    "date_filed": "2026-09-08",
-    "docket_number": "24-30552",
-    "url": "https://www.courtlistener.com/opinion/10969162/i-f-g-port-v-lake-charles-harbor/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10969122",
-    "name": "United States v. Gessen",
-    "court": "ca9",
-    "date_filed": "2026-09-08",
-    "docket_number": "24-2979",
-    "url": "https://www.courtlistener.com/opinion/10969122/united-states-v-gessen/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10967484",
     "name": "Strum v. Mardam-Bey",
     "court": "dcd",
@@ -396,16 +416,6 @@
     "date_filed": "2026-09-02",
     "docket_number": "25-11382",
     "url": "https://www.courtlistener.com/opinion/10964796/andrew-filipowski-v-commissioner-of-internal-revenue/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10963525",
-    "name": "State ex rel. Howard v. Sackett",
-    "court": "ohio",
-    "date_filed": "2026-09-01",
-    "docket_number": "2025-0492",
-    "url": "https://www.courtlistener.com/opinion/10963525/state-ex-rel-howard-v-sackett/",
     "snippet": "",
     "category": "Crypto"
   },
