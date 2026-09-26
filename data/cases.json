@@ -10,6 +10,66 @@
     "category": "Crypto"
   },
   {
+    "id": "10983473",
+    "name": "Barbosa Da Cunha v. Freden",
+    "court": "ca2",
+    "date_filed": "2026-09-25",
+    "docket_number": "25-3141",
+    "url": "https://www.courtlistener.com/opinion/10983473/barbosa-da-cunha-v-freden/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10983481",
+    "name": "Anthropic PBC v. United States Department of War",
+    "court": "cadc",
+    "date_filed": "2026-09-25",
+    "docket_number": "26-1049",
+    "url": "https://www.courtlistener.com/opinion/10983481/anthropic-pbc-v-united-states-department-of-war/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10984000",
+    "name": "KalshiEX LLC v. William Orgel",
+    "court": "ca6",
+    "date_filed": "2026-09-25",
+    "docket_number": "26-5235",
+    "url": "https://www.courtlistener.com/opinion/10984000/kalshiex-llc-v-william-orgel/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10984006",
+    "name": "Delgado v. United States Department of Justice",
+    "court": "dcd",
+    "date_filed": "2026-09-25",
+    "docket_number": "Civil Action No. 2023-0088",
+    "url": "https://www.courtlistener.com/opinion/10984006/delgado-v-united-states-department-of-justice/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10983480",
+    "name": "United States v. Roman Sterlingov",
+    "court": "cadc",
+    "date_filed": "2026-09-25",
+    "docket_number": "24-3161",
+    "url": "https://www.courtlistener.com/opinion/10983480/united-states-v-roman-sterlingov/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10983725",
+    "name": "Mathis v. United States Parole Commission",
+    "court": "dcd",
+    "date_filed": "2026-09-25",
+    "docket_number": "Civil Action No. 2024-1312",
+    "url": "https://www.courtlistener.com/opinion/10983725/mathis-v-united-states-parole-commission/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10982888",
     "name": "Faltz v. United States",
     "court": "dc",
@@ -70,24 +130,14 @@
     "category": "Crypto"
   },
   {
-    "id": "10981567",
-    "name": "Nestle USA, Inc. v. Madison County Assessor",
-    "court": "indtc",
-    "date_filed": "2026-09-23",
-    "docket_number": "25T-TA-00020",
-    "url": "https://www.courtlistener.com/opinion/10981567/nestle-usa-inc-v-madison-county-assessor/",
+    "id": "10983944",
+    "name": "In re B.J...",
+    "court": "utahctapp",
+    "date_filed": "2026-09-24",
+    "docket_number": "Case No. 20250836-CA",
+    "url": "https://www.courtlistener.com/opinion/10983944/in-re-bj/",
     "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10981358",
-    "name": "China Cornici Co. v. United States",
-    "court": "cit",
-    "date_filed": "2026-09-23",
-    "docket_number": "23-00216 23-00217",
-    "url": "https://www.courtlistener.com/opinion/10981358/china-cornici-co-v-united-states/",
-    "snippet": "",
-    "category": "AI"
+    "category": "Crypto"
   },
   {
     "id": "10980711",
@@ -98,6 +148,16 @@
     "url": "https://www.courtlistener.com/opinion/10980711/cannon-v-united-states/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "10981358",
+    "name": "China Cornici Co. v. United States",
+    "court": "cit",
+    "date_filed": "2026-09-23",
+    "docket_number": "23-00216 23-00217",
+    "url": "https://www.courtlistener.com/opinion/10981358/china-cornici-co-v-united-states/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "10983057",
@@ -210,42 +270,12 @@
     "category": "Web3"
   },
   {
-    "id": "10975669",
-    "name": "Matter of Wells Fargo Bank v. HBK Master Fund L.P.",
-    "court": "nyappdiv",
-    "date_filed": "2026-09-17",
-    "docket_number": "Index No. 154984/21|Appeal No. 6159|Case No. 2025-04773|",
-    "url": "https://www.courtlistener.com/opinion/10975669/matter-of-wells-fargo-bank-v-hbk-master-fund-lp/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10976951",
-    "name": "Jefferson v. Austin",
-    "court": "dcd",
-    "date_filed": "2026-09-17",
-    "docket_number": "Civil Action No. 2021-1489",
-    "url": "https://www.courtlistener.com/opinion/10976951/jefferson-v-austin/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10974515",
     "name": "State v. Miller",
     "court": "ncctapp",
     "date_filed": "2026-09-16",
     "docket_number": "25-525",
     "url": "https://www.courtlistener.com/opinion/10974515/state-v-miller/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10974713",
-    "name": "Doe v. Github, Inc.",
-    "court": "ca9",
-    "date_filed": "2026-09-16",
-    "docket_number": "24-7700",
-    "url": "https://www.courtlistener.com/opinion/10974713/doe-v-github-inc/",
     "snippet": "",
     "category": "AI"
   },
@@ -270,16 +300,6 @@
     "category": "AI"
   },
   {
-    "id": "10973165",
-    "name": "Cedar Park Assembly of God of Kirkland, Washington v. Patty Kuderer",
-    "court": "ca9",
-    "date_filed": "2026-09-14",
-    "docket_number": "23-35585",
-    "url": "https://www.courtlistener.com/opinion/10973165/cedar-park-assembly-of-god-of-kirkland-washington-v-patty-kuderer/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10973336",
     "name": "Richardson v. National Railroad Passenger Corporation",
     "court": "dcd",
@@ -290,14 +310,14 @@
     "category": "Web3"
   },
   {
-    "id": "10973259",
-    "name": "Megalomedia v. Philadelphia Indemnity",
-    "court": "ca5",
+    "id": "10973165",
+    "name": "Cedar Park Assembly of God of Kirkland, Washington v. Patty Kuderer",
+    "court": "ca9",
     "date_filed": "2026-09-14",
-    "docket_number": "23-20570",
-    "url": "https://www.courtlistener.com/opinion/10973259/megalomedia-v-philadelphia-indemnity/",
+    "docket_number": "23-35585",
+    "url": "https://www.courtlistener.com/opinion/10973165/cedar-park-assembly-of-god-of-kirkland-washington-v-patty-kuderer/",
     "snippet": "",
-    "category": "Crypto"
+    "category": "Web3"
   },
   {
     "id": "10973330",
@@ -330,16 +350,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10970182",
-    "name": "John Doe v. SEC (PUBLIC REISSUED OPINION)",
-    "court": "cadc",
-    "date_filed": "2026-09-09",
-    "docket_number": "25-1152",
-    "url": "https://www.courtlistener.com/opinion/10970182/john-doe-v-sec-public-reissued-opinion/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10967484",
     "name": "Strum v. Mardam-Bey",
     "court": "dcd",
@@ -356,26 +366,6 @@
     "date_filed": "2026-09-04",
     "docket_number": "52800",
     "url": "https://www.courtlistener.com/opinion/10967290/jeff-conger-v-jay-p-clark/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10967501",
-    "name": "United States v. Robert Pennington, Jr.",
-    "court": "ca7",
-    "date_filed": "2026-09-04",
-    "docket_number": "23-3315",
-    "url": "https://www.courtlistener.com/opinion/10967501/united-states-v-robert-pennington-jr/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10967500",
-    "name": "United States v. Robert Pennington, Jr.",
-    "court": "ca7",
-    "date_filed": "2026-09-04",
-    "docket_number": "23-3315",
-    "url": "https://www.courtlistener.com/opinion/10967500/united-states-v-robert-pennington-jr/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -578,16 +568,6 @@
     "url": "https://www.courtlistener.com/opinion/10927702/wilkins-v-cruise-llc/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10931918",
-    "name": "Bohra v. Kochar",
-    "court": "connappct",
-    "date_filed": "2026-07-14",
-    "docket_number": "AC47864",
-    "url": "https://www.courtlistener.com/opinion/10931918/bohra-v-kochar/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10925376",
