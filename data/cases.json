@@ -1,5 +1,15 @@
 [
   {
+    "id": "10984956",
+    "name": "Mohammadi v. Tong",
+    "court": "connappct",
+    "date_filed": "2026-09-29",
+    "docket_number": "AC47598",
+    "url": "https://www.courtlistener.com/opinion/10984956/mohammadi-v-tong/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10983213",
     "name": "State v. Jose T.",
     "court": "conn",
@@ -8,6 +18,16 @@
     "url": "https://www.courtlistener.com/opinion/10983213/state-v-jose-t/",
     "snippet": "",
     "category": "Crypto"
+  },
+  {
+    "id": "10984929",
+    "name": "Wallbuilder Presentations v. Clarke",
+    "court": "dcd",
+    "date_filed": "2026-09-27",
+    "docket_number": "Civil Action No. 2023-3695",
+    "url": "https://www.courtlistener.com/opinion/10984929/wallbuilder-presentations-v-clarke/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "10983473",
@@ -56,16 +76,6 @@
     "date_filed": "2026-09-25",
     "docket_number": "24-3161",
     "url": "https://www.courtlistener.com/opinion/10983480/united-states-v-roman-sterlingov/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10983725",
-    "name": "Mathis v. United States Parole Commission",
-    "court": "dcd",
-    "date_filed": "2026-09-25",
-    "docket_number": "Civil Action No. 2024-1312",
-    "url": "https://www.courtlistener.com/opinion/10983725/mathis-v-united-states-parole-commission/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -290,16 +300,6 @@
     "category": "AI"
   },
   {
-    "id": "10973222",
-    "name": "Tyler Strang v. malay/hernandez",
-    "court": "ariz",
-    "date_filed": "2026-09-14",
-    "docket_number": "CV-25-0233-SA",
-    "url": "https://www.courtlistener.com/opinion/10973222/tyler-strang-v-malayhernandez/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10973336",
     "name": "Richardson v. National Railroad Passenger Corporation",
     "court": "dcd",
@@ -308,26 +308,6 @@
     "url": "https://www.courtlistener.com/opinion/10973336/richardson-v-national-railroad-passenger-corporation/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10973165",
-    "name": "Cedar Park Assembly of God of Kirkland, Washington v. Patty Kuderer",
-    "court": "ca9",
-    "date_filed": "2026-09-14",
-    "docket_number": "23-35585",
-    "url": "https://www.courtlistener.com/opinion/10973165/cedar-park-assembly-of-god-of-kirkland-washington-v-patty-kuderer/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "10973330",
-    "name": "United States v. Fifty-Three Virtual Currency Accounts",
-    "court": "dcd",
-    "date_filed": "2026-09-14",
-    "docket_number": "Civil Action No. 2020-2227",
-    "url": "https://www.courtlistener.com/opinion/10973330/united-states-v-fifty-three-virtual-currency-accounts/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10970821",
@@ -560,26 +540,6 @@
     "category": "AI"
   },
   {
-    "id": "10927702",
-    "name": "Wilkins v. Cruise, LLC",
-    "court": "calctapp",
-    "date_filed": "2026-07-14",
-    "docket_number": "A173832",
-    "url": "https://www.courtlistener.com/opinion/10927702/wilkins-v-cruise-llc/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10925376",
-    "name": "Estate of Lane Caviness v. Atlas Air, Inc.",
-    "court": "ca11",
-    "date_filed": "2026-07-10",
-    "docket_number": "24-11033",
-    "url": "https://www.courtlistener.com/opinion/10925376/estate-of-lane-caviness-v-atlas-air-inc/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10881694",
     "name": "Cannon v. United States",
     "court": "ca9",
@@ -590,16 +550,6 @@
     "category": "Web3"
   },
   {
-    "id": "10877276",
-    "name": "NetChoice, LLC v. David Yost",
-    "court": "ca6",
-    "date_filed": "2026-06-18",
-    "docket_number": "25-3371",
-    "url": "https://www.courtlistener.com/opinion/10877276/netchoice-llc-v-david-yost/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10875924",
     "name": "Matter of 170 W. End Ave. Owners Corp. v. Centennial El. Indus. Inc.",
     "court": "nyappdiv",
@@ -608,16 +558,6 @@
     "url": "https://www.courtlistener.com/opinion/10875924/matter-of-170-w-end-ave-owners-corp-v-centennial-el-indus-inc/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10872108",
-    "name": "State ex rel. Yost v. Google, L.L.C.",
-    "court": "ohioctapp",
-    "date_filed": "2026-06-08",
-    "docket_number": "25 CAE 08 0070",
-    "url": "https://www.courtlistener.com/opinion/10872108/state-ex-rel-yost-v-google-llc/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10868377",
@@ -640,16 +580,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10864457",
-    "name": "American Civil Liberties Union of Delaware v. The Town of Fenwick Island",
-    "court": "delsuperct",
-    "date_filed": "2026-05-26",
-    "docket_number": "S25C-12-003 CAK",
-    "url": "https://www.courtlistener.com/opinion/10864457/american-civil-liberties-union-of-delaware-v-the-town-of-fenwick-island/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10854303",
     "name": "Lee v. Iran",
     "court": "dcd",
@@ -658,16 +588,6 @@
     "url": "https://www.courtlistener.com/opinion/10854303/lee-v-iran/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "10852760",
-    "name": "Louisiana v. Callais Revisions: 5/04/26",
-    "court": "scotus",
-    "date_filed": "2026-04-29",
-    "docket_number": "24-109",
-    "url": "https://www.courtlistener.com/opinion/10852760/louisiana-v-callais-revisions-50426/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10830725",
