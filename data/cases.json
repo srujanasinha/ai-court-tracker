@@ -20,6 +20,76 @@
     "category": "Crypto"
   },
   {
+    "id": "10985573",
+    "name": "In Re Saama Technologies Litigation",
+    "court": "delch",
+    "date_filed": "2026-09-28",
+    "docket_number": "2022-1045-LWW",
+    "url": "https://www.courtlistener.com/opinion/10985573/in-re-saama-technologies-litigation/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10985021",
+    "name": "Diehl v. United States Department of Justice",
+    "court": "dcd",
+    "date_filed": "2026-09-28",
+    "docket_number": "Civil Action No. 2024-2089",
+    "url": "https://www.courtlistener.com/opinion/10985021/diehl-v-united-states-department-of-justice/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10985211",
+    "name": "Beatty v. Bondi",
+    "court": "dcd",
+    "date_filed": "2026-09-28",
+    "docket_number": "Civil Action No. 2025-2758",
+    "url": "https://www.courtlistener.com/opinion/10985211/beatty-v-bondi/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10985177",
+    "name": "United States v. Eduardo Rafael Lopez-Escarrega",
+    "court": "ca6",
+    "date_filed": "2026-09-28",
+    "docket_number": "25-1937",
+    "url": "https://www.courtlistener.com/opinion/10985177/united-states-v-eduardo-rafael-lopez-escarrega/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10985179",
+    "name": "Melissa Brandao v. HerdDogg, Inc.",
+    "court": "delch",
+    "date_filed": "2026-09-28",
+    "docket_number": "C.A. No. 2026-0824-TJF",
+    "url": "https://www.courtlistener.com/opinion/10985179/melissa-brandao-v-herddogg-inc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10985208",
+    "name": "Heenan v. U.S. Department of Housing and Urban Development",
+    "court": "dcd",
+    "date_filed": "2026-09-28",
+    "docket_number": "Civil Action No. 2025-3343",
+    "url": "https://www.courtlistener.com/opinion/10985208/heenan-v-us-department-of-housing-and-urban-development/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10985004",
+    "name": "Bullock v. District of Columbia",
+    "court": "dcd",
+    "date_filed": "2026-09-28",
+    "docket_number": "Civil Action No. 2025-2167",
+    "url": "https://www.courtlistener.com/opinion/10985004/bullock-v-district-of-columbia/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10984929",
     "name": "Wallbuilder Presentations v. Clarke",
     "court": "dcd",
@@ -80,6 +150,16 @@
     "category": "Crypto"
   },
   {
+    "id": "10983725",
+    "name": "Mathis v. United States Parole Commission",
+    "court": "dcd",
+    "date_filed": "2026-09-25",
+    "docket_number": "Civil Action No. 2024-1312",
+    "url": "https://www.courtlistener.com/opinion/10983725/mathis-v-united-states-parole-commission/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10982888",
     "name": "Faltz v. United States",
     "court": "dc",
@@ -108,26 +188,6 @@
     "url": "https://www.courtlistener.com/opinion/10983006/nolen-v-peopleconnect-inc/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10982886",
-    "name": "Rezene v. United States",
-    "court": "dc",
-    "date_filed": "2026-09-24",
-    "docket_number": "24-CF-0283",
-    "url": "https://www.courtlistener.com/opinion/10982886/rezene-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10983171",
-    "name": "Rachel Welty v. Bryant Dunaway",
-    "court": "ca6",
-    "date_filed": "2026-09-24",
-    "docket_number": "25-5739",
-    "url": "https://www.courtlistener.com/opinion/10983171/rachel-welty-v-bryant-dunaway/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10982918",
@@ -280,16 +340,6 @@
     "category": "Web3"
   },
   {
-    "id": "10974515",
-    "name": "State v. Miller",
-    "court": "ncctapp",
-    "date_filed": "2026-09-16",
-    "docket_number": "25-525",
-    "url": "https://www.courtlistener.com/opinion/10974515/state-v-miller/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10978163",
     "name": "CreateAI Holdings, Inc. F/K/A TuSimple Holdings, Inc. v. Bot Auto TX Inc.",
     "court": "txctapp15",
@@ -298,16 +348,6 @@
     "url": "https://www.courtlistener.com/opinion/10978163/createai-holdings-inc-fka-tusimple-holdings-inc-v-bot-auto-tx-inc/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10973336",
-    "name": "Richardson v. National Railroad Passenger Corporation",
-    "court": "dcd",
-    "date_filed": "2026-09-14",
-    "docket_number": "Civil Action No. 2024-2517",
-    "url": "https://www.courtlistener.com/opinion/10973336/richardson-v-national-railroad-passenger-corporation/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "10970821",
@@ -336,16 +376,6 @@
     "date_filed": "2026-09-04",
     "docket_number": "Civil Action No. 2024-0401",
     "url": "https://www.courtlistener.com/opinion/10967484/strum-v-mardam-bey/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10967290",
-    "name": "Jeff Conger v. Jay P. Clark",
-    "court": "idaho",
-    "date_filed": "2026-09-04",
-    "docket_number": "52800",
-    "url": "https://www.courtlistener.com/opinion/10967290/jeff-conger-v-jay-p-clark/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -540,6 +570,16 @@
     "category": "AI"
   },
   {
+    "id": "10925376",
+    "name": "Estate of Lane Caviness v. Atlas Air, Inc.",
+    "court": "ca11",
+    "date_filed": "2026-07-10",
+    "docket_number": "24-11033",
+    "url": "https://www.courtlistener.com/opinion/10925376/estate-of-lane-caviness-v-atlas-air-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10881694",
     "name": "Cannon v. United States",
     "court": "ca9",
@@ -550,6 +590,16 @@
     "category": "Web3"
   },
   {
+    "id": "10877276",
+    "name": "NetChoice, LLC v. David Yost",
+    "court": "ca6",
+    "date_filed": "2026-06-18",
+    "docket_number": "25-3371",
+    "url": "https://www.courtlistener.com/opinion/10877276/netchoice-llc-v-david-yost/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10875924",
     "name": "Matter of 170 W. End Ave. Owners Corp. v. Centennial El. Indus. Inc.",
     "court": "nyappdiv",
@@ -558,6 +608,16 @@
     "url": "https://www.courtlistener.com/opinion/10875924/matter-of-170-w-end-ave-owners-corp-v-centennial-el-indus-inc/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "10872108",
+    "name": "State ex rel. Yost v. Google, L.L.C.",
+    "court": "ohioctapp",
+    "date_filed": "2026-06-08",
+    "docket_number": "25 CAE 08 0070",
+    "url": "https://www.courtlistener.com/opinion/10872108/state-ex-rel-yost-v-google-llc/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "10868377",
@@ -580,6 +640,16 @@
     "category": "Crypto"
   },
   {
+    "id": "10864457",
+    "name": "American Civil Liberties Union of Delaware v. The Town of Fenwick Island",
+    "court": "delsuperct",
+    "date_filed": "2026-05-26",
+    "docket_number": "S25C-12-003 CAK",
+    "url": "https://www.courtlistener.com/opinion/10864457/american-civil-liberties-union-of-delaware-v-the-town-of-fenwick-island/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10854303",
     "name": "Lee v. Iran",
     "court": "dcd",
@@ -588,6 +658,16 @@
     "url": "https://www.courtlistener.com/opinion/10854303/lee-v-iran/",
     "snippet": "",
     "category": "Crypto"
+  },
+  {
+    "id": "10852760",
+    "name": "Louisiana v. Callais Revisions: 5/04/26",
+    "court": "scotus",
+    "date_filed": "2026-04-29",
+    "docket_number": "24-109",
+    "url": "https://www.courtlistener.com/opinion/10852760/louisiana-v-callais-revisions-50426/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "10830725",
