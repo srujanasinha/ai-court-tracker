@@ -1,11 +1,31 @@
 [
   {
+    "id": "10986224",
+    "name": "State v. Davis",
+    "court": "ohioctapp",
+    "date_filed": "2026-09-29",
+    "docket_number": "25AP-441",
+    "url": "https://www.courtlistener.com/opinion/10986224/state-v-davis/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10984956",
     "name": "Mohammadi v. Tong",
     "court": "connappct",
     "date_filed": "2026-09-29",
     "docket_number": "AC47598",
     "url": "https://www.courtlistener.com/opinion/10984956/mohammadi-v-tong/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10986482",
+    "name": "Rhyu v. Frost",
+    "court": "illappct",
+    "date_filed": "2026-09-29",
+    "docket_number": "1-25-2257",
+    "url": "https://www.courtlistener.com/opinion/10986482/rhyu-v-frost/",
     "snippet": "",
     "category": "AI"
   },
@@ -280,16 +300,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10978316",
-    "name": "F.L. v. Superior Court",
-    "court": "calctapp",
-    "date_filed": "2026-09-21",
-    "docket_number": "E089010",
-    "url": "https://www.courtlistener.com/opinion/10978316/fl-v-superior-court/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10978279",
     "name": "John Bosco Rayan v. Noem",
     "court": "dcd",
@@ -318,16 +328,6 @@
     "url": "https://www.courtlistener.com/opinion/10976651/holdings-jjj-llc-v-rand-rand/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10975580",
-    "name": "United States v. Alisigwe",
-    "court": "ca2",
-    "date_filed": "2026-09-17",
-    "docket_number": "24-960",
-    "url": "https://www.courtlistener.com/opinion/10975580/united-states-v-alisigwe/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10975621",
