@@ -1,5 +1,85 @@
 [
   {
+    "id": "10988902",
+    "name": "International Brotherhood of Electrical Workers v. IL Commerce Comm'n",
+    "court": "illappct",
+    "date_filed": "2026-09-30",
+    "docket_number": "3-24-0021",
+    "url": "https://www.courtlistener.com/opinion/10988902/international-brotherhood-of-electrical-workers-v-il-commerce-commn/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10993432",
+    "name": "Penske Media Corporation v. Google LLC",
+    "court": "dcd",
+    "date_filed": "2026-09-30",
+    "docket_number": "Civil Action No. 2025-3192",
+    "url": "https://www.courtlistener.com/opinion/10993432/penske-media-corporation-v-google-llc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10992217",
+    "name": "Untitled Texas Attorney General Opinion: KP-0536",
+    "court": "texag",
+    "date_filed": "2026-09-30",
+    "docket_number": "KP-0536",
+    "url": "https://www.courtlistener.com/opinion/10992217/untitled-texas-attorney-general-opinion-kp-0536/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10988837",
+    "name": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc",
+    "court": "ca3",
+    "date_filed": "2026-09-30",
+    "docket_number": "25-2153",
+    "url": "https://www.courtlistener.com/opinion/10988837/thomson-reuters-enterprise-centre-gmbh-v-ross-intelligence-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10988169",
+    "name": "State v. Horcasitas",
+    "court": "arizctapp",
+    "date_filed": "2026-09-30",
+    "docket_number": "1 CA-CR 25-0191",
+    "url": "https://www.courtlistener.com/opinion/10988169/state-v-horcasitas/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10988907",
+    "name": "Bronstein v. Latin School of Chicago",
+    "court": "illappct",
+    "date_filed": "2026-09-30",
+    "docket_number": "1-24-2271",
+    "url": "https://www.courtlistener.com/opinion/10988907/bronstein-v-latin-school-of-chicago/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10988583",
+    "name": "Brooks v. Department of the Army",
+    "court": "dcd",
+    "date_filed": "2026-09-30",
+    "docket_number": "Civil Action No. 2024-2259",
+    "url": "https://www.courtlistener.com/opinion/10988583/brooks-v-department-of-the-army/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10988961",
+    "name": "Scotts Valley Band of Pomo Indians v. United States Department of the Interior",
+    "court": "dcd",
+    "date_filed": "2026-09-30",
+    "docket_number": "Civil Action No. 2026-2814",
+    "url": "https://www.courtlistener.com/opinion/10988961/scotts-valley-band-of-pomo-indians-v-united-states-department-of-the/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10986224",
     "name": "State v. Davis",
     "court": "ohioctapp",
@@ -20,12 +100,12 @@
     "category": "AI"
   },
   {
-    "id": "10986482",
-    "name": "Rhyu v. Frost",
-    "court": "illappct",
+    "id": "10988166",
+    "name": "Sarah Frimpong v. Maureen Daly",
+    "court": "dcd",
     "date_filed": "2026-09-29",
-    "docket_number": "1-25-2257",
-    "url": "https://www.courtlistener.com/opinion/10986482/rhyu-v-frost/",
+    "docket_number": "Civil Action No. 2025-2756",
+    "url": "https://www.courtlistener.com/opinion/10988166/sarah-frimpong-v-maureen-daly/",
     "snippet": "",
     "category": "AI"
   },
@@ -130,16 +210,6 @@
     "category": "AI"
   },
   {
-    "id": "10983481",
-    "name": "Anthropic PBC v. United States Department of War",
-    "court": "cadc",
-    "date_filed": "2026-09-25",
-    "docket_number": "26-1049",
-    "url": "https://www.courtlistener.com/opinion/10983481/anthropic-pbc-v-united-states-department-of-war/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10984000",
     "name": "KalshiEX LLC v. William Orgel",
     "court": "ca6",
@@ -180,26 +250,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10982888",
-    "name": "Faltz v. United States",
-    "court": "dc",
-    "date_filed": "2026-09-24",
-    "docket_number": "25-CO-0361",
-    "url": "https://www.courtlistener.com/opinion/10982888/faltz-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10983172",
-    "name": "Elizabeth Koeberer v. Robert Weir",
-    "court": "ca6",
-    "date_filed": "2026-09-24",
-    "docket_number": "25-3541",
-    "url": "https://www.courtlistener.com/opinion/10983172/elizabeth-koeberer-v-robert-weir/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10983006",
     "name": "Nolen v. Peopleconnect, Inc.",
     "court": "ca9",
@@ -207,7 +257,7 @@
     "docket_number": "24-3894",
     "url": "https://www.courtlistener.com/opinion/10983006/nolen-v-peopleconnect-inc/",
     "snippet": "",
-    "category": "AI"
+    "category": "Crypto"
   },
   {
     "id": "10982918",
@@ -250,36 +300,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10983057",
-    "name": "Trax International Corporation v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-09-22",
-    "docket_number": "26-796",
-    "url": "https://www.courtlistener.com/opinion/10983057/trax-international-corporation-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10979250",
-    "name": "Eric Posey v. Summer Bushnell",
-    "court": "idaho",
-    "date_filed": "2026-09-22",
-    "docket_number": "52072",
-    "url": "https://www.courtlistener.com/opinion/10979250/eric-posey-v-summer-bushnell/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10979216",
-    "name": "Oguntade v. MSPB",
-    "court": "cafc",
-    "date_filed": "2026-09-22",
-    "docket_number": "25-1114",
-    "url": "https://www.courtlistener.com/opinion/10979216/oguntade-v-mspb/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10983058",
     "name": "Mvl USA Inc. v. United States",
     "court": "uscfc",
@@ -308,36 +328,6 @@
     "url": "https://www.courtlistener.com/opinion/10978279/john-bosco-rayan-v-noem/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "10976671",
-    "name": "United States v. Robert Burke",
-    "court": "cadc",
-    "date_filed": "2026-09-18",
-    "docket_number": "25-3104",
-    "url": "https://www.courtlistener.com/opinion/10976671/united-states-v-robert-burke/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "10976651",
-    "name": "Holdings JJJ, LLC v. Rand, Rand",
-    "court": "fladistctapp",
-    "date_filed": "2026-09-18",
-    "docket_number": "2D2025-0529",
-    "url": "https://www.courtlistener.com/opinion/10976651/holdings-jjj-llc-v-rand-rand/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "10975621",
-    "name": "Berwick Solar, LLC v. Public Utilities Commission",
-    "court": "me",
-    "date_filed": "2026-09-17",
-    "docket_number": "PUC-25-51",
-    "url": "https://www.courtlistener.com/opinion/10975621/berwick-solar-llc-v-public-utilities-commission/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "10978163",
@@ -670,6 +660,16 @@
     "category": "AI"
   },
   {
+    "id": "11000870",
+    "name": "A.S. v. A.B.",
+    "court": "nysupctkings",
+    "date_filed": "2026-03-31",
+    "docket_number": "",
+    "url": "https://www.courtlistener.com/opinion/11000870/as-v-ab/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10830725",
     "name": "Safex Foundation, Inc. v. Safelaunch Ventures Limited",
     "court": "dcd",
@@ -750,16 +750,6 @@
     "category": "Web3"
   },
   {
-    "id": "10741007",
-    "name": "In Re Novartis Pharmaceuticals Corporation v. the State of Texas",
-    "court": "txctapp15",
-    "date_filed": "2025-11-14",
-    "docket_number": "15-25-00207-CV",
-    "url": "https://www.courtlistener.com/opinion/10741007/in-re-novartis-pharmaceuticals-corporation-v-the-state-of-texas/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10733895",
     "name": "Corey Michael Chadwick, Chadwick Capital, L.L.C.,Team One Percent, L.L.C., and CryptoLand, L.L.C. v. Derek Lynn",
     "court": "txctapp2",
@@ -768,16 +758,6 @@
     "url": "https://www.courtlistener.com/opinion/10733895/corey-michael-chadwick-chadwick-capital-llcteam-one-percent-llc/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10715530",
-    "name": "Custodia Bank v. Federal Reserve Board of Governors",
-    "court": "ca10",
-    "date_filed": "2025-10-31",
-    "docket_number": "24-8024",
-    "url": "https://www.courtlistener.com/opinion/10715530/custodia-bank-v-federal-reserve-board-of-governors/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10712653",
