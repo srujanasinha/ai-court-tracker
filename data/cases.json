@@ -1,11 +1,91 @@
 [
   {
+    "id": "11009430",
+    "name": "Shannon v. Shannon",
+    "court": "neb",
+    "date_filed": "2026-10-02",
+    "docket_number": "S-25-546",
+    "url": "https://www.courtlistener.com/opinion/11009430/shannon-v-shannon/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11007732",
+    "name": "State v. Tolbert",
+    "court": "ohioctapp",
+    "date_filed": "2026-10-01",
+    "docket_number": "116018",
+    "url": "https://www.courtlistener.com/opinion/11007732/state-v-tolbert/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11007545",
+    "name": "Freilich, H., Aplt. v. SEPTA",
+    "court": "pa",
+    "date_filed": "2026-10-01",
+    "docket_number": "10 EAP 2024",
+    "url": "https://www.courtlistener.com/opinion/11007545/freilich-h-aplt-v-septa/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11008237",
+    "name": "Sethi",
+    "court": "bia",
+    "date_filed": "2026-10-01",
+    "docket_number": "ID 4254",
+    "url": "https://www.courtlistener.com/opinion/11008237/sethi/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11007657",
+    "name": "In Re: Amendments to Florida Rule of Civil Procedure 1.280(k)",
+    "court": "fla",
+    "date_filed": "2026-10-01",
+    "docket_number": "SC2025-1053",
+    "url": "https://www.courtlistener.com/opinion/11007657/in-re-amendments-to-florida-rule-of-civil-procedure-1280k/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11007606",
+    "name": "Satius Holding, LLC v. Samsung Electronics Co., Ltd.",
+    "court": "cafc",
+    "date_filed": "2026-10-01",
+    "docket_number": "25-1446",
+    "url": "https://www.courtlistener.com/opinion/11007606/satius-holding-llc-v-samsung-electronics-co-ltd/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11008182",
+    "name": "Oakley, M. v. FloatMe Corp.",
+    "court": "pasuperct",
+    "date_filed": "2026-10-01",
+    "docket_number": "1318 WDA 2025",
+    "url": "https://www.courtlistener.com/opinion/11008182/oakley-m-v-floatme-corp/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "10988902",
     "name": "International Brotherhood of Electrical Workers v. IL Commerce Comm'n",
     "court": "illappct",
     "date_filed": "2026-09-30",
     "docket_number": "3-24-0021",
     "url": "https://www.courtlistener.com/opinion/10988902/international-brotherhood-of-electrical-workers-v-il-commerce-commn/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11007972",
+    "name": "Seneca Global Services, LLC v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-09-30",
+    "docket_number": "25-195",
+    "url": "https://www.courtlistener.com/opinion/11007972/seneca-global-services-llc-v-united-states/",
     "snippet": "",
     "category": "AI"
   },
@@ -30,26 +110,6 @@
     "category": "AI"
   },
   {
-    "id": "10988837",
-    "name": "Thomson Reuters Enterprise Centre GmbH v. Ross Intelligence Inc",
-    "court": "ca3",
-    "date_filed": "2026-09-30",
-    "docket_number": "25-2153",
-    "url": "https://www.courtlistener.com/opinion/10988837/thomson-reuters-enterprise-centre-gmbh-v-ross-intelligence-inc/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10988169",
-    "name": "State v. Horcasitas",
-    "court": "arizctapp",
-    "date_filed": "2026-09-30",
-    "docket_number": "1 CA-CR 25-0191",
-    "url": "https://www.courtlistener.com/opinion/10988169/state-v-horcasitas/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10988907",
     "name": "Bronstein v. Latin School of Chicago",
     "court": "illappct",
@@ -68,6 +128,26 @@
     "url": "https://www.courtlistener.com/opinion/10988583/brooks-v-department-of-the-army/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "10988201",
+    "name": "George Reagan Hardaway, Neely Hardaway, Cassie Hardaway, and Rayla Harddaway Mckissack v. Aeropres Corporation",
+    "court": "lactapp",
+    "date_filed": "2026-09-30",
+    "docket_number": "56,854-CW 56,855-CW 56,856-CW (Consolidated Cases)",
+    "url": "https://www.courtlistener.com/opinion/10988201/george-reagan-hardaway-neely-hardaway-cassie-hardaway-and-rayla/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
+    "id": "10987875",
+    "name": "North Palm Motors, LLC, an Illinois Limited Liability Company, D/B/A Napleton's Car Rental Center v. Custom Fleet Services, Inc. D/B/A Auto Rentals of the Palm Beaches",
+    "court": "fladistctapp",
+    "date_filed": "2026-09-30",
+    "docket_number": "4D2025-0167",
+    "url": "https://www.courtlistener.com/opinion/10987875/north-palm-motors-llc-an-illinois-limited-liability-company-dba/",
+    "snippet": "",
+    "category": "Web3"
   },
   {
     "id": "10988961",
@@ -96,16 +176,6 @@
     "date_filed": "2026-09-29",
     "docket_number": "AC47598",
     "url": "https://www.courtlistener.com/opinion/10984956/mohammadi-v-tong/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10988166",
-    "name": "Sarah Frimpong v. Maureen Daly",
-    "court": "dcd",
-    "date_filed": "2026-09-29",
-    "docket_number": "Civil Action No. 2025-2756",
-    "url": "https://www.courtlistener.com/opinion/10988166/sarah-frimpong-v-maureen-daly/",
     "snippet": "",
     "category": "AI"
   },
@@ -197,27 +267,7 @@
     "docket_number": "Civil Action No. 2023-3695",
     "url": "https://www.courtlistener.com/opinion/10984929/wallbuilder-presentations-v-clarke/",
     "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10983473",
-    "name": "Barbosa Da Cunha v. Freden",
-    "court": "ca2",
-    "date_filed": "2026-09-25",
-    "docket_number": "25-3141",
-    "url": "https://www.courtlistener.com/opinion/10983473/barbosa-da-cunha-v-freden/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10984000",
-    "name": "KalshiEX LLC v. William Orgel",
-    "court": "ca6",
-    "date_filed": "2026-09-25",
-    "docket_number": "26-5235",
-    "url": "https://www.courtlistener.com/opinion/10984000/kalshiex-llc-v-william-orgel/",
-    "snippet": "",
-    "category": "AI"
+    "category": "Web3"
   },
   {
     "id": "10984006",
@@ -230,12 +280,12 @@
     "category": "Crypto"
   },
   {
-    "id": "10983480",
-    "name": "United States v. Roman Sterlingov",
-    "court": "cadc",
+    "id": "10984000",
+    "name": "KalshiEX LLC v. William Orgel",
+    "court": "ca6",
     "date_filed": "2026-09-25",
-    "docket_number": "24-3161",
-    "url": "https://www.courtlistener.com/opinion/10983480/united-states-v-roman-sterlingov/",
+    "docket_number": "26-5235",
+    "url": "https://www.courtlistener.com/opinion/10984000/kalshiex-llc-v-william-orgel/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -246,6 +296,16 @@
     "date_filed": "2026-09-25",
     "docket_number": "Civil Action No. 2024-1312",
     "url": "https://www.courtlistener.com/opinion/10983725/mathis-v-united-states-parole-commission/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10983480",
+    "name": "United States v. Roman Sterlingov",
+    "court": "cadc",
+    "date_filed": "2026-09-25",
+    "docket_number": "24-3161",
+    "url": "https://www.courtlistener.com/opinion/10983480/united-states-v-roman-sterlingov/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -348,16 +408,6 @@
     "url": "https://www.courtlistener.com/opinion/10970821/southland-homes-etc-v-lam/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10971971",
-    "name": "Wave Digital Assets, LLC v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-09-10",
-    "docket_number": "25-928",
-    "url": "https://www.courtlistener.com/opinion/10971971/wave-digital-assets-llc-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10967484",
@@ -548,16 +598,6 @@
     "url": "https://www.courtlistener.com/opinion/10932334/david-namdar-v-immutable-holdings-inc/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10928162",
-    "name": "Giant Eagle, Inc. v. T. Baker (WCAB)",
-    "court": "pacommwct",
-    "date_filed": "2026-07-15",
-    "docket_number": "1684 C.D. 2024",
-    "url": "https://www.courtlistener.com/opinion/10928162/giant-eagle-inc-v-t-baker-wcab/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10925376",
