@@ -1,5 +1,15 @@
 [
   {
+    "id": "11009507",
+    "name": "State v. Jones",
+    "court": "ohioctapp",
+    "date_filed": "2026-10-02",
+    "docket_number": "30626",
+    "url": "https://www.courtlistener.com/opinion/11009507/state-v-jones/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11009430",
     "name": "Shannon v. Shannon",
     "court": "neb",
@@ -8,6 +18,26 @@
     "url": "https://www.courtlistener.com/opinion/11009430/shannon-v-shannon/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "11009627",
+    "name": "Pearce v. National Coll. Athletic Assn.",
+    "court": "nysupctwster",
+    "date_filed": "2026-10-02",
+    "docket_number": "Index No. 72314/2026",
+    "url": "https://www.courtlistener.com/opinion/11009627/pearce-v-national-coll-athletic-assn/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11009765",
+    "name": "McCall v. Progressive Fleet & Specialty Programs, Inc.",
+    "court": "dcd",
+    "date_filed": "2026-10-02",
+    "docket_number": "Civil Action No. 2026-1184",
+    "url": "https://www.courtlistener.com/opinion/11009765/mccall-v-progressive-fleet-specialty-programs-inc/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "11007732",
@@ -197,17 +227,7 @@
     "docket_number": "2022-1045-LWW",
     "url": "https://www.courtlistener.com/opinion/10985573/in-re-saama-technologies-litigation/",
     "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10985021",
-    "name": "Diehl v. United States Department of Justice",
-    "court": "dcd",
-    "date_filed": "2026-09-28",
-    "docket_number": "Civil Action No. 2024-2089",
-    "url": "https://www.courtlistener.com/opinion/10985021/diehl-v-united-states-department-of-justice/",
-    "snippet": "",
-    "category": "AI"
+    "category": "Web3"
   },
   {
     "id": "10985211",
@@ -268,16 +288,6 @@
     "url": "https://www.courtlistener.com/opinion/10984929/wallbuilder-presentations-v-clarke/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10984006",
-    "name": "Delgado v. United States Department of Justice",
-    "court": "dcd",
-    "date_filed": "2026-09-25",
-    "docket_number": "Civil Action No. 2023-0088",
-    "url": "https://www.courtlistener.com/opinion/10984006/delgado-v-united-states-department-of-justice/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10984000",
