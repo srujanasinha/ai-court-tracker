@@ -1,5 +1,15 @@
 [
   {
+    "id": "11010528",
+    "name": "Alejandro Mendoza v. Distributed Creation, Inc.",
+    "court": "delch",
+    "date_filed": "2026-10-05",
+    "docket_number": "C.A. No. 2026-0580-CDW",
+    "url": "https://www.courtlistener.com/opinion/11010528/alejandro-mendoza-v-distributed-creation-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11009507",
     "name": "State v. Jones",
     "court": "ohioctapp",
@@ -130,16 +140,6 @@
     "category": "AI"
   },
   {
-    "id": "10992217",
-    "name": "Untitled Texas Attorney General Opinion: KP-0536",
-    "court": "texag",
-    "date_filed": "2026-09-30",
-    "docket_number": "KP-0536",
-    "url": "https://www.courtlistener.com/opinion/10992217/untitled-texas-attorney-general-opinion-kp-0536/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10988907",
     "name": "Bronstein v. Latin School of Chicago",
     "court": "illappct",
@@ -250,16 +250,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10985179",
-    "name": "Melissa Brandao v. HerdDogg, Inc.",
-    "court": "delch",
-    "date_filed": "2026-09-28",
-    "docket_number": "C.A. No. 2026-0824-TJF",
-    "url": "https://www.courtlistener.com/opinion/10985179/melissa-brandao-v-herddogg-inc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10985208",
     "name": "Heenan v. U.S. Department of Housing and Urban Development",
     "court": "dcd",
@@ -320,24 +310,14 @@
     "category": "Crypto"
   },
   {
-    "id": "10983006",
-    "name": "Nolen v. Peopleconnect, Inc.",
-    "court": "ca9",
+    "id": "11010465",
+    "name": "Ex Parte Bradley Thomas v. the State of Texas",
+    "court": "txctapp2",
     "date_filed": "2026-09-24",
-    "docket_number": "24-3894",
-    "url": "https://www.courtlistener.com/opinion/10983006/nolen-v-peopleconnect-inc/",
+    "docket_number": "02-26-00039-CR",
+    "url": "https://www.courtlistener.com/opinion/11010465/ex-parte-bradley-thomas-v-the-state-of-texas/",
     "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10982918",
-    "name": "Jacob Dotson v. Cia Drug, LLC",
-    "court": "ky",
-    "date_filed": "2026-09-24",
-    "docket_number": "2025-SC-0451",
-    "url": "https://www.courtlistener.com/opinion/10982918/jacob-dotson-v-cia-drug-llc/",
-    "snippet": "",
-    "category": "Crypto"
+    "category": "AI"
   },
   {
     "id": "10983944",
@@ -358,26 +338,6 @@
     "url": "https://www.courtlistener.com/opinion/10980711/cannon-v-united-states/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10981358",
-    "name": "China Cornici Co. v. United States",
-    "court": "cit",
-    "date_filed": "2026-09-23",
-    "docket_number": "23-00216 23-00217",
-    "url": "https://www.courtlistener.com/opinion/10981358/china-cornici-co-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10983058",
-    "name": "Mvl USA Inc. v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-09-22",
-    "docket_number": "26-561",
-    "url": "https://www.courtlistener.com/opinion/10983058/mvl-usa-inc-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10979460",
@@ -590,16 +550,6 @@
     "category": "Web3"
   },
   {
-    "id": "10951782",
-    "name": "Zdenka Wilcox v. Juan Diego Duran",
-    "court": "txctapp2",
-    "date_filed": "2026-08-13",
-    "docket_number": "02-25-00643-CV",
-    "url": "https://www.courtlistener.com/opinion/10951782/zdenka-wilcox-v-juan-diego-duran/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10932334",
     "name": "David Namdar v. Immutable Holdings Inc.",
     "court": "delch",
@@ -690,16 +640,6 @@
     "category": "AI"
   },
   {
-    "id": "10854303",
-    "name": "Lee v. Iran",
-    "court": "dcd",
-    "date_filed": "2026-05-06",
-    "docket_number": "Civil Action No. 2019-0830",
-    "url": "https://www.courtlistener.com/opinion/10854303/lee-v-iran/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10852760",
     "name": "Louisiana v. Callais Revisions: 5/04/26",
     "court": "scotus",
@@ -738,16 +678,6 @@
     "url": "https://www.courtlistener.com/opinion/10814875/terry-joyner-v-city-of-atlanta/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10814299",
-    "name": "Boothe v. Islamic Republic of Iran",
-    "court": "dcd",
-    "date_filed": "2026-03-24",
-    "docket_number": "Civil Action No. 2022-1747",
-    "url": "https://www.courtlistener.com/opinion/10814299/boothe-v-islamic-republic-of-iran/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10813622",
