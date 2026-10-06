@@ -10,6 +10,16 @@
     "category": "AI"
   },
   {
+    "id": "11011933",
+    "name": "Methodist Church v. Balt.-Wash. Conf. of United Meth. Church",
+    "court": "mdctspecapp",
+    "date_filed": "2026-10-05",
+    "docket_number": "1812/24",
+    "url": "https://www.courtlistener.com/opinion/11011933/methodist-church-v-balt-wash-conf-of-united-meth-church/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11009507",
     "name": "State v. Jones",
     "court": "ohioctapp",
@@ -38,16 +48,6 @@
     "url": "https://www.courtlistener.com/opinion/11009627/pearce-v-national-coll-athletic-assn/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "11009765",
-    "name": "McCall v. Progressive Fleet & Specialty Programs, Inc.",
-    "court": "dcd",
-    "date_filed": "2026-10-02",
-    "docket_number": "Civil Action No. 2026-1184",
-    "url": "https://www.courtlistener.com/opinion/11009765/mccall-v-progressive-fleet-specialty-programs-inc/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "11007732",
@@ -108,6 +108,16 @@
     "url": "https://www.courtlistener.com/opinion/11008182/oakley-m-v-floatme-corp/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "11011944",
+    "name": "Founds v. State",
+    "court": "md",
+    "date_filed": "2026-09-30",
+    "docket_number": "48/25",
+    "url": "https://www.courtlistener.com/opinion/11011944/founds-v-state/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "10988902",
@@ -190,16 +200,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10986224",
-    "name": "State v. Davis",
-    "court": "ohioctapp",
-    "date_filed": "2026-09-29",
-    "docket_number": "25AP-441",
-    "url": "https://www.courtlistener.com/opinion/10986224/state-v-davis/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10984956",
     "name": "Mohammadi v. Tong",
     "court": "connappct",
@@ -208,16 +208,6 @@
     "url": "https://www.courtlistener.com/opinion/10984956/mohammadi-v-tong/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10983213",
-    "name": "State v. Jose T.",
-    "court": "conn",
-    "date_filed": "2026-09-29",
-    "docket_number": "SC21021",
-    "url": "https://www.courtlistener.com/opinion/10983213/state-v-jose-t/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10985573",
@@ -230,22 +220,12 @@
     "category": "Web3"
   },
   {
-    "id": "10985211",
-    "name": "Beatty v. Bondi",
-    "court": "dcd",
+    "id": "10985179",
+    "name": "Melissa Brandao v. HerdDogg, Inc.",
+    "court": "delch",
     "date_filed": "2026-09-28",
-    "docket_number": "Civil Action No. 2025-2758",
-    "url": "https://www.courtlistener.com/opinion/10985211/beatty-v-bondi/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10985177",
-    "name": "United States v. Eduardo Rafael Lopez-Escarrega",
-    "court": "ca6",
-    "date_filed": "2026-09-28",
-    "docket_number": "25-1937",
-    "url": "https://www.courtlistener.com/opinion/10985177/united-states-v-eduardo-rafael-lopez-escarrega/",
+    "docket_number": "C.A. No. 2026-0824-TJF",
+    "url": "https://www.courtlistener.com/opinion/10985179/melissa-brandao-v-herddogg-inc/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -320,6 +300,26 @@
     "category": "AI"
   },
   {
+    "id": "10983006",
+    "name": "Nolen v. Peopleconnect, Inc.",
+    "court": "ca9",
+    "date_filed": "2026-09-24",
+    "docket_number": "24-3894",
+    "url": "https://www.courtlistener.com/opinion/10983006/nolen-v-peopleconnect-inc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10982918",
+    "name": "Jacob Dotson v. Cia Drug, LLC",
+    "court": "ky",
+    "date_filed": "2026-09-24",
+    "docket_number": "2025-SC-0451",
+    "url": "https://www.courtlistener.com/opinion/10982918/jacob-dotson-v-cia-drug-llc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10983944",
     "name": "In re B.J...",
     "court": "utahctapp",
@@ -338,6 +338,26 @@
     "url": "https://www.courtlistener.com/opinion/10980711/cannon-v-united-states/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "10981358",
+    "name": "China Cornici Co. v. United States",
+    "court": "cit",
+    "date_filed": "2026-09-23",
+    "docket_number": "23-00216 23-00217",
+    "url": "https://www.courtlistener.com/opinion/10981358/china-cornici-co-v-united-states/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10983058",
+    "name": "Mvl USA Inc. v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-09-22",
+    "docket_number": "26-561",
+    "url": "https://www.courtlistener.com/opinion/10983058/mvl-usa-inc-v-united-states/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "10979460",
@@ -638,6 +658,16 @@
     "url": "https://www.courtlistener.com/opinion/10864457/american-civil-liberties-union-of-delaware-v-the-town-of-fenwick-island/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "10854303",
+    "name": "Lee v. Iran",
+    "court": "dcd",
+    "date_filed": "2026-05-06",
+    "docket_number": "Civil Action No. 2019-0830",
+    "url": "https://www.courtlistener.com/opinion/10854303/lee-v-iran/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "10852760",
