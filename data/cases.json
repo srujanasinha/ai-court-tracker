@@ -1,5 +1,45 @@
 [
   {
+    "id": "11013519",
+    "name": "State v. Barrino",
+    "court": "ncctapp",
+    "date_filed": "2026-10-07",
+    "docket_number": "25-886",
+    "url": "https://www.courtlistener.com/opinion/11013519/state-v-barrino/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11013031",
+    "name": "Urban Sustainability Directors Network v. United States Department of Agriculture",
+    "court": "dcd",
+    "date_filed": "2026-10-06",
+    "docket_number": "Civil Action No. 2025-1775",
+    "url": "https://www.courtlistener.com/opinion/11013031/urban-sustainability-directors-network-v-united-states-department-of/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11012887",
+    "name": "MERIT HOLDINGS v. INTERNATIONAL BANK OF COMMERCE",
+    "court": "okla",
+    "date_filed": "2026-10-06",
+    "docket_number": "122379",
+    "url": "https://www.courtlistener.com/opinion/11012887/merit-holdings-v-international-bank-of-commerce/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11013038",
+    "name": "State v. Yarborough",
+    "court": "delsuperct",
+    "date_filed": "2026-10-06",
+    "docket_number": "1201018253, 1202006406, 1402013417",
+    "url": "https://www.courtlistener.com/opinion/11013038/state-v-yarborough/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11010528",
     "name": "Alejandro Mendoza v. Distributed Creation, Inc.",
     "court": "delch",
@@ -18,6 +58,26 @@
     "url": "https://www.courtlistener.com/opinion/11011933/methodist-church-v-balt-wash-conf-of-united-meth-church/",
     "snippet": "",
     "category": "Crypto"
+  },
+  {
+    "id": "11012844",
+    "name": "22nd Century Networks, Inc. v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-10-03",
+    "docket_number": "26-718",
+    "url": "https://www.courtlistener.com/opinion/11012844/22nd-century-networks-inc-v-united-states/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11012845",
+    "name": "Lario Oil and Gas Company v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-10-02",
+    "docket_number": "24-1801",
+    "url": "https://www.courtlistener.com/opinion/11012845/lario-oil-and-gas-company-v-united-states/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "11009507",
@@ -50,22 +110,22 @@
     "category": "AI"
   },
   {
+    "id": "11009765",
+    "name": "McCall v. Progressive Fleet & Specialty Programs, Inc.",
+    "court": "dcd",
+    "date_filed": "2026-10-02",
+    "docket_number": "Civil Action No. 2026-1184",
+    "url": "https://www.courtlistener.com/opinion/11009765/mccall-v-progressive-fleet-specialty-programs-inc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11007732",
     "name": "State v. Tolbert",
     "court": "ohioctapp",
     "date_filed": "2026-10-01",
     "docket_number": "116018",
     "url": "https://www.courtlistener.com/opinion/11007732/state-v-tolbert/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11007545",
-    "name": "Freilich, H., Aplt. v. SEPTA",
-    "court": "pa",
-    "date_filed": "2026-10-01",
-    "docket_number": "10 EAP 2024",
-    "url": "https://www.courtlistener.com/opinion/11007545/freilich-h-aplt-v-septa/",
     "snippet": "",
     "category": "AI"
   },
@@ -100,34 +160,14 @@
     "category": "AI"
   },
   {
-    "id": "11008182",
-    "name": "Oakley, M. v. FloatMe Corp.",
-    "court": "pasuperct",
+    "id": "11007545",
+    "name": "Freilich, H., Aplt. v. SEPTA",
+    "court": "pa",
     "date_filed": "2026-10-01",
-    "docket_number": "1318 WDA 2025",
-    "url": "https://www.courtlistener.com/opinion/11008182/oakley-m-v-floatme-corp/",
+    "docket_number": "10 EAP 2024",
+    "url": "https://www.courtlistener.com/opinion/11007545/freilich-h-aplt-v-septa/",
     "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "11011944",
-    "name": "Founds v. State",
-    "court": "md",
-    "date_filed": "2026-09-30",
-    "docket_number": "48/25",
-    "url": "https://www.courtlistener.com/opinion/11011944/founds-v-state/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10988902",
-    "name": "International Brotherhood of Electrical Workers v. IL Commerce Comm'n",
-    "court": "illappct",
-    "date_filed": "2026-09-30",
-    "docket_number": "3-24-0021",
-    "url": "https://www.courtlistener.com/opinion/10988902/international-brotherhood-of-electrical-workers-v-il-commerce-commn/",
-    "snippet": "",
-    "category": "AI"
+    "category": "Crypto"
   },
   {
     "id": "11007972",
@@ -150,46 +190,6 @@
     "category": "AI"
   },
   {
-    "id": "10988907",
-    "name": "Bronstein v. Latin School of Chicago",
-    "court": "illappct",
-    "date_filed": "2026-09-30",
-    "docket_number": "1-24-2271",
-    "url": "https://www.courtlistener.com/opinion/10988907/bronstein-v-latin-school-of-chicago/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10988583",
-    "name": "Brooks v. Department of the Army",
-    "court": "dcd",
-    "date_filed": "2026-09-30",
-    "docket_number": "Civil Action No. 2024-2259",
-    "url": "https://www.courtlistener.com/opinion/10988583/brooks-v-department-of-the-army/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10988201",
-    "name": "George Reagan Hardaway, Neely Hardaway, Cassie Hardaway, and Rayla Harddaway Mckissack v. Aeropres Corporation",
-    "court": "lactapp",
-    "date_filed": "2026-09-30",
-    "docket_number": "56,854-CW 56,855-CW 56,856-CW (Consolidated Cases)",
-    "url": "https://www.courtlistener.com/opinion/10988201/george-reagan-hardaway-neely-hardaway-cassie-hardaway-and-rayla/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "10987875",
-    "name": "North Palm Motors, LLC, an Illinois Limited Liability Company, D/B/A Napleton's Car Rental Center v. Custom Fleet Services, Inc. D/B/A Auto Rentals of the Palm Beaches",
-    "court": "fladistctapp",
-    "date_filed": "2026-09-30",
-    "docket_number": "4D2025-0167",
-    "url": "https://www.courtlistener.com/opinion/10987875/north-palm-motors-llc-an-illinois-limited-liability-company-dba/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "10988961",
     "name": "Scotts Valley Band of Pomo Indians v. United States Department of the Interior",
     "court": "dcd",
@@ -210,14 +210,24 @@
     "category": "AI"
   },
   {
-    "id": "10985573",
-    "name": "In Re Saama Technologies Litigation",
-    "court": "delch",
-    "date_filed": "2026-09-28",
-    "docket_number": "2022-1045-LWW",
-    "url": "https://www.courtlistener.com/opinion/10985573/in-re-saama-technologies-litigation/",
+    "id": "10983213",
+    "name": "State v. Jose T.",
+    "court": "conn",
+    "date_filed": "2026-09-29",
+    "docket_number": "SC21021",
+    "url": "https://www.courtlistener.com/opinion/10983213/state-v-jose-t/",
     "snippet": "",
-    "category": "Web3"
+    "category": "Crypto"
+  },
+  {
+    "id": "10985211",
+    "name": "Beatty v. Bondi",
+    "court": "dcd",
+    "date_filed": "2026-09-28",
+    "docket_number": "Civil Action No. 2025-2758",
+    "url": "https://www.courtlistener.com/opinion/10985211/beatty-v-bondi/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "10985179",
@@ -248,16 +258,6 @@
     "url": "https://www.courtlistener.com/opinion/10985004/bullock-v-district-of-columbia/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "10984929",
-    "name": "Wallbuilder Presentations v. Clarke",
-    "court": "dcd",
-    "date_filed": "2026-09-27",
-    "docket_number": "Civil Action No. 2023-3695",
-    "url": "https://www.courtlistener.com/opinion/10984929/wallbuilder-presentations-v-clarke/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "10984000",
