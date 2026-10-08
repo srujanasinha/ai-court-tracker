@@ -1,5 +1,25 @@
 [
   {
+    "id": "11013738",
+    "name": "Arconic US, LLC v. Scott County Board of Review",
+    "court": "iowactapp",
+    "date_filed": "2026-10-07",
+    "docket_number": "25-0578",
+    "url": "https://www.courtlistener.com/opinion/11013738/arconic-us-llc-v-scott-county-board-of-review/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11013650",
+    "name": "Kid International, LLC v. City National Bank of Florida and 2655 SW 25, LLC",
+    "court": "fladistctapp",
+    "date_filed": "2026-10-07",
+    "docket_number": "4D2025-2599",
+    "url": "https://www.courtlistener.com/opinion/11013650/kid-international-llc-v-city-national-bank-of-florida-and-2655-sw-25-llc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11013519",
     "name": "State v. Barrino",
     "court": "ncctapp",
@@ -8,6 +28,16 @@
     "url": "https://www.courtlistener.com/opinion/11013519/state-v-barrino/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "11014018",
+    "name": "Curtrina Martin v. USA",
+    "court": "ca11",
+    "date_filed": "2026-10-07",
+    "docket_number": "23-10062",
+    "url": "https://www.courtlistener.com/opinion/11014018/curtrina-martin-v-usa/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "11013031",
@@ -30,6 +60,16 @@
     "category": "AI"
   },
   {
+    "id": "11012974",
+    "name": "High Point Bbc, LLC v. Arvelo",
+    "court": "ncbizct",
+    "date_filed": "2026-10-06",
+    "docket_number": "26-CVS-11377",
+    "url": "https://www.courtlistener.com/opinion/11012974/high-point-bbc-llc-v-arvelo/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "11013038",
     "name": "State v. Yarborough",
     "court": "delsuperct",
@@ -38,6 +78,16 @@
     "url": "https://www.courtlistener.com/opinion/11013038/state-v-yarborough/",
     "snippet": "",
     "category": "Crypto"
+  },
+  {
+    "id": "11013807",
+    "name": "Trax International Corporation v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-10-05",
+    "docket_number": "26-796",
+    "url": "https://www.courtlistener.com/opinion/11013807/trax-international-corporation-v-united-states/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "11010528",
@@ -90,22 +140,12 @@
     "category": "AI"
   },
   {
-    "id": "11009430",
-    "name": "Shannon v. Shannon",
-    "court": "neb",
-    "date_filed": "2026-10-02",
-    "docket_number": "S-25-546",
-    "url": "https://www.courtlistener.com/opinion/11009430/shannon-v-shannon/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11009627",
+    "id": "11013742",
     "name": "Pearce v. National Coll. Athletic Assn.",
     "court": "nysupctwster",
     "date_filed": "2026-10-02",
     "docket_number": "Index No. 72314/2026",
-    "url": "https://www.courtlistener.com/opinion/11009627/pearce-v-national-coll-athletic-assn/",
+    "url": "https://www.courtlistener.com/opinion/11013742/pearce-v-national-coll-athletic-assn/",
     "snippet": "",
     "category": "AI"
   },
@@ -130,26 +170,6 @@
     "category": "AI"
   },
   {
-    "id": "11008237",
-    "name": "Sethi",
-    "court": "bia",
-    "date_filed": "2026-10-01",
-    "docket_number": "ID 4254",
-    "url": "https://www.courtlistener.com/opinion/11008237/sethi/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11007657",
-    "name": "In Re: Amendments to Florida Rule of Civil Procedure 1.280(k)",
-    "court": "fla",
-    "date_filed": "2026-10-01",
-    "docket_number": "SC2025-1053",
-    "url": "https://www.courtlistener.com/opinion/11007657/in-re-amendments-to-florida-rule-of-civil-procedure-1280k/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11007606",
     "name": "Satius Holding, LLC v. Samsung Electronics Co., Ltd.",
     "court": "cafc",
@@ -158,6 +178,16 @@
     "url": "https://www.courtlistener.com/opinion/11007606/satius-holding-llc-v-samsung-electronics-co-ltd/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "11008182",
+    "name": "Oakley, M. v. FloatMe Corp.",
+    "court": "pasuperct",
+    "date_filed": "2026-10-01",
+    "docket_number": "1318 WDA 2025",
+    "url": "https://www.courtlistener.com/opinion/11008182/oakley-m-v-floatme-corp/",
+    "snippet": "",
+    "category": "Web3"
   },
   {
     "id": "11007545",
@@ -190,6 +220,26 @@
     "category": "AI"
   },
   {
+    "id": "10988201",
+    "name": "George Reagan Hardaway, Neely Hardaway, Cassie Hardaway, and Rayla Harddaway Mckissack v. Aeropres Corporation",
+    "court": "lactapp",
+    "date_filed": "2026-09-30",
+    "docket_number": "56,854-CW 56,855-CW 56,856-CW (Consolidated Cases)",
+    "url": "https://www.courtlistener.com/opinion/10988201/george-reagan-hardaway-neely-hardaway-cassie-hardaway-and-rayla/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
+    "id": "10987875",
+    "name": "North Palm Motors, LLC, an Illinois Limited Liability Company, D/B/A Napleton's Car Rental Center v. Custom Fleet Services, Inc. D/B/A Auto Rentals of the Palm Beaches",
+    "court": "fladistctapp",
+    "date_filed": "2026-09-30",
+    "docket_number": "4D2025-0167",
+    "url": "https://www.courtlistener.com/opinion/10987875/north-palm-motors-llc-an-illinois-limited-liability-company-dba/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "10988961",
     "name": "Scotts Valley Band of Pomo Indians v. United States Department of the Interior",
     "court": "dcd",
@@ -216,16 +266,6 @@
     "date_filed": "2026-09-29",
     "docket_number": "SC21021",
     "url": "https://www.courtlistener.com/opinion/10983213/state-v-jose-t/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10985211",
-    "name": "Beatty v. Bondi",
-    "court": "dcd",
-    "date_filed": "2026-09-28",
-    "docket_number": "Civil Action No. 2025-2758",
-    "url": "https://www.courtlistener.com/opinion/10985211/beatty-v-bondi/",
     "snippet": "",
     "category": "Crypto"
   },
