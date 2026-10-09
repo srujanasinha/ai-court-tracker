@@ -1,5 +1,25 @@
 [
   {
+    "id": "11018148",
+    "name": "Freestyle World, Inc. v. United States",
+    "court": "cit",
+    "date_filed": "2026-10-08",
+    "docket_number": "26-01088",
+    "url": "https://www.courtlistener.com/opinion/11018148/freestyle-world-inc-v-united-states/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11017280",
+    "name": "Henderson v. Cuyahoga Cty. Div. of Children & Family Servs.",
+    "court": "ohioctapp",
+    "date_filed": "2026-10-08",
+    "docket_number": "115997",
+    "url": "https://www.courtlistener.com/opinion/11017280/henderson-v-cuyahoga-cty-div-of-children-family-servs/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11013738",
     "name": "Arconic US, LLC v. Scott County Board of Review",
     "court": "iowactapp",
@@ -170,16 +190,6 @@
     "category": "AI"
   },
   {
-    "id": "11007606",
-    "name": "Satius Holding, LLC v. Samsung Electronics Co., Ltd.",
-    "court": "cafc",
-    "date_filed": "2026-10-01",
-    "docket_number": "25-1446",
-    "url": "https://www.courtlistener.com/opinion/11007606/satius-holding-llc-v-samsung-electronics-co-ltd/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11008182",
     "name": "Oakley, M. v. FloatMe Corp.",
     "court": "pasuperct",
@@ -206,16 +216,6 @@
     "date_filed": "2026-09-30",
     "docket_number": "25-195",
     "url": "https://www.courtlistener.com/opinion/11007972/seneca-global-services-llc-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10993432",
-    "name": "Penske Media Corporation v. Google LLC",
-    "court": "dcd",
-    "date_filed": "2026-09-30",
-    "docket_number": "Civil Action No. 2025-3192",
-    "url": "https://www.courtlistener.com/opinion/10993432/penske-media-corporation-v-google-llc/",
     "snippet": "",
     "category": "AI"
   },
@@ -550,26 +550,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10957699",
-    "name": "United States v. Steven Anderegg",
-    "court": "ca7",
-    "date_filed": "2026-08-25",
-    "docket_number": "25-1354",
-    "url": "https://www.courtlistener.com/opinion/10957699/united-states-v-steven-anderegg/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10957698",
-    "name": "United States v. Steven Anderegg",
-    "court": "ca7",
-    "date_filed": "2026-08-25",
-    "docket_number": "25-1354",
-    "url": "https://www.courtlistener.com/opinion/10957698/united-states-v-steven-anderegg/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10954616",
     "name": "Altigen Communications, Inc. v. Day",
     "court": "delch",
@@ -748,36 +728,6 @@
     "url": "https://www.courtlistener.com/opinion/10814875/terry-joyner-v-city-of-atlanta/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10813622",
-    "name": "Jigsaw Productions LLC v. U.S. Securities and Exchange Commission",
-    "court": "dcd",
-    "date_filed": "2026-03-23",
-    "docket_number": "Civil Action No. 2024-2358",
-    "url": "https://www.courtlistener.com/opinion/10813622/jigsaw-productions-llc-v-us-securities-and-exchange-commission/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10794946",
-    "name": "Matter of M.S. (M.H.)",
-    "court": "ny",
-    "date_filed": "2026-02-17",
-    "docket_number": "No. 7",
-    "url": "https://www.courtlistener.com/opinion/10794946/matter-of-ms-mh/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10785965",
-    "name": "State v. Dore",
-    "court": "connappct",
-    "date_filed": "2026-02-10",
-    "docket_number": "AC47243",
-    "url": "https://www.courtlistener.com/opinion/10785965/state-v-dore/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10786021",
