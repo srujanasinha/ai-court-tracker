@@ -1,5 +1,55 @@
 [
   {
+    "id": "11024168",
+    "name": "State of Iowa v. Max Amyda",
+    "court": "iowa",
+    "date_filed": "2026-10-09",
+    "docket_number": "24-1563",
+    "url": "https://www.courtlistener.com/opinion/11024168/state-of-iowa-v-max-amyda/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11024784",
+    "name": "Common Cause v. U.S. Department of Justice",
+    "court": "dcd",
+    "date_filed": "2026-10-09",
+    "docket_number": "Civil Action No. 2026-1352",
+    "url": "https://www.courtlistener.com/opinion/11024784/common-cause-v-us-department-of-justice/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11024230",
+    "name": "State v. Calhoun",
+    "court": "ohioctapp",
+    "date_filed": "2026-10-09",
+    "docket_number": "2025-CA-37",
+    "url": "https://www.courtlistener.com/opinion/11024230/state-v-calhoun/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11024777",
+    "name": "Lexon Insurance Company v. James Justice, II",
+    "court": "ca6",
+    "date_filed": "2026-10-09",
+    "docket_number": "25-6096",
+    "url": "https://www.courtlistener.com/opinion/11024777/lexon-insurance-company-v-james-justice-ii/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
+    "id": "11024254",
+    "name": "Wyse v. Metro. Com. Bank",
+    "court": "ca2",
+    "date_filed": "2026-10-09",
+    "docket_number": "25-2106",
+    "url": "https://www.courtlistener.com/opinion/11024254/wyse-v-metro-com-bank/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11018148",
     "name": "Freestyle World, Inc. v. United States",
     "court": "cit",
@@ -50,16 +100,6 @@
     "category": "AI"
   },
   {
-    "id": "11014018",
-    "name": "Curtrina Martin v. USA",
-    "court": "ca11",
-    "date_filed": "2026-10-07",
-    "docket_number": "23-10062",
-    "url": "https://www.courtlistener.com/opinion/11014018/curtrina-martin-v-usa/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11013031",
     "name": "Urban Sustainability Directors Network v. United States Department of Agriculture",
     "court": "dcd",
@@ -80,6 +120,16 @@
     "category": "AI"
   },
   {
+    "id": "11024401",
+    "name": "IN RE DESTINY D.",
+    "court": "tennctapp",
+    "date_filed": "2026-10-06",
+    "docket_number": "E2025-01762-COA-R3-PT",
+    "url": "https://www.courtlistener.com/opinion/11024401/in-re-destiny-d/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11012974",
     "name": "High Point Bbc, LLC v. Arvelo",
     "court": "ncbizct",
@@ -88,16 +138,6 @@
     "url": "https://www.courtlistener.com/opinion/11012974/high-point-bbc-llc-v-arvelo/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "11013038",
-    "name": "State v. Yarborough",
-    "court": "delsuperct",
-    "date_filed": "2026-10-06",
-    "docket_number": "1201018253, 1202006406, 1402013417",
-    "url": "https://www.courtlistener.com/opinion/11013038/state-v-yarborough/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "11013807",
@@ -150,46 +190,6 @@
     "category": "AI"
   },
   {
-    "id": "11009507",
-    "name": "State v. Jones",
-    "court": "ohioctapp",
-    "date_filed": "2026-10-02",
-    "docket_number": "30626",
-    "url": "https://www.courtlistener.com/opinion/11009507/state-v-jones/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11013742",
-    "name": "Pearce v. National Coll. Athletic Assn.",
-    "court": "nysupctwster",
-    "date_filed": "2026-10-02",
-    "docket_number": "Index No. 72314/2026",
-    "url": "https://www.courtlistener.com/opinion/11013742/pearce-v-national-coll-athletic-assn/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11009765",
-    "name": "McCall v. Progressive Fleet & Specialty Programs, Inc.",
-    "court": "dcd",
-    "date_filed": "2026-10-02",
-    "docket_number": "Civil Action No. 2026-1184",
-    "url": "https://www.courtlistener.com/opinion/11009765/mccall-v-progressive-fleet-specialty-programs-inc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11007732",
-    "name": "State v. Tolbert",
-    "court": "ohioctapp",
-    "date_filed": "2026-10-01",
-    "docket_number": "116018",
-    "url": "https://www.courtlistener.com/opinion/11007732/state-v-tolbert/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11008182",
     "name": "Oakley, M. v. FloatMe Corp.",
     "court": "pasuperct",
@@ -198,16 +198,6 @@
     "url": "https://www.courtlistener.com/opinion/11008182/oakley-m-v-floatme-corp/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "11007545",
-    "name": "Freilich, H., Aplt. v. SEPTA",
-    "court": "pa",
-    "date_filed": "2026-10-01",
-    "docket_number": "10 EAP 2024",
-    "url": "https://www.courtlistener.com/opinion/11007545/freilich-h-aplt-v-septa/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "11007972",
@@ -230,14 +220,14 @@
     "category": "Web3"
   },
   {
-    "id": "10987875",
-    "name": "North Palm Motors, LLC, an Illinois Limited Liability Company, D/B/A Napleton's Car Rental Center v. Custom Fleet Services, Inc. D/B/A Auto Rentals of the Palm Beaches",
-    "court": "fladistctapp",
+    "id": "11024408",
+    "name": "In Re Brykell F.",
+    "court": "tennctapp",
     "date_filed": "2026-09-30",
-    "docket_number": "4D2025-0167",
-    "url": "https://www.courtlistener.com/opinion/10987875/north-palm-motors-llc-an-illinois-limited-liability-company-dba/",
+    "docket_number": "M2025-00884-COA-R3-PT",
+    "url": "https://www.courtlistener.com/opinion/11024408/in-re-brykell-f/",
     "snippet": "",
-    "category": "Web3"
+    "category": "Crypto"
   },
   {
     "id": "10988961",
@@ -258,16 +248,6 @@
     "url": "https://www.courtlistener.com/opinion/10984956/mohammadi-v-tong/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10983213",
-    "name": "State v. Jose T.",
-    "court": "conn",
-    "date_filed": "2026-09-29",
-    "docket_number": "SC21021",
-    "url": "https://www.courtlistener.com/opinion/10983213/state-v-jose-t/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10985179",
@@ -400,26 +380,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10979460",
-    "name": "In re Haney",
-    "court": "calctapp",
-    "date_filed": "2026-09-22",
-    "docket_number": "A170412M",
-    "url": "https://www.courtlistener.com/opinion/10979460/in-re-haney/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10978279",
-    "name": "John Bosco Rayan v. Noem",
-    "court": "dcd",
-    "date_filed": "2026-09-21",
-    "docket_number": "Civil Action No. 2026-0824",
-    "url": "https://www.courtlistener.com/opinion/10978279/john-bosco-rayan-v-noem/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10978163",
     "name": "CreateAI Holdings, Inc. F/K/A TuSimple Holdings, Inc. v. Bot Auto TX Inc.",
     "court": "txctapp15",
@@ -540,14 +500,24 @@
     "category": "AI"
   },
   {
-    "id": "10958277",
-    "name": "Aechia Armstrong v. State of Arkansas",
-    "court": "arkctapp",
-    "date_filed": "2026-08-26",
-    "docket_number": "",
-    "url": "https://www.courtlistener.com/opinion/10958277/aechia-armstrong-v-state-of-arkansas/",
+    "id": "10957699",
+    "name": "United States v. Steven Anderegg",
+    "court": "ca7",
+    "date_filed": "2026-08-25",
+    "docket_number": "25-1354",
+    "url": "https://www.courtlistener.com/opinion/10957699/united-states-v-steven-anderegg/",
     "snippet": "",
-    "category": "Crypto"
+    "category": "AI"
+  },
+  {
+    "id": "10957698",
+    "name": "United States v. Steven Anderegg",
+    "court": "ca7",
+    "date_filed": "2026-08-25",
+    "docket_number": "25-1354",
+    "url": "https://www.courtlistener.com/opinion/10957698/united-states-v-steven-anderegg/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "10954616",
@@ -568,16 +538,6 @@
     "url": "https://www.courtlistener.com/opinion/10953484/et-v-the-boys-and-girls-club-of-hudson-county/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10953496",
-    "name": "Fonden v. FDIC",
-    "court": "ca2",
-    "date_filed": "2026-08-19",
-    "docket_number": "25-720",
-    "url": "https://www.courtlistener.com/opinion/10953496/fonden-v-fdic/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10948765",
@@ -728,6 +688,26 @@
     "url": "https://www.courtlistener.com/opinion/10814875/terry-joyner-v-city-of-atlanta/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "10813622",
+    "name": "Jigsaw Productions LLC v. U.S. Securities and Exchange Commission",
+    "court": "dcd",
+    "date_filed": "2026-03-23",
+    "docket_number": "Civil Action No. 2024-2358",
+    "url": "https://www.courtlistener.com/opinion/10813622/jigsaw-productions-llc-v-us-securities-and-exchange-commission/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10794946",
+    "name": "Matter of M.S. (M.H.)",
+    "court": "ny",
+    "date_filed": "2026-02-17",
+    "docket_number": "No. 7",
+    "url": "https://www.courtlistener.com/opinion/10794946/matter-of-ms-mh/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "10786021",
