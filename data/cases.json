@@ -100,6 +100,16 @@
     "category": "AI"
   },
   {
+    "id": "11014018",
+    "name": "Curtrina Martin v. USA",
+    "court": "ca11",
+    "date_filed": "2026-10-07",
+    "docket_number": "23-10062",
+    "url": "https://www.courtlistener.com/opinion/11014018/curtrina-martin-v-usa/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11013031",
     "name": "Urban Sustainability Directors Network v. United States Department of Agriculture",
     "court": "dcd",
@@ -138,6 +148,16 @@
     "url": "https://www.courtlistener.com/opinion/11012974/high-point-bbc-llc-v-arvelo/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "11013038",
+    "name": "State v. Yarborough",
+    "court": "delsuperct",
+    "date_filed": "2026-10-06",
+    "docket_number": "1201018253, 1202006406, 1402013417",
+    "url": "https://www.courtlistener.com/opinion/11013038/state-v-yarborough/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "11013807",
@@ -190,6 +210,16 @@
     "category": "AI"
   },
   {
+    "id": "11009765",
+    "name": "McCall v. Progressive Fleet & Specialty Programs, Inc.",
+    "court": "dcd",
+    "date_filed": "2026-10-02",
+    "docket_number": "Civil Action No. 2026-1184",
+    "url": "https://www.courtlistener.com/opinion/11009765/mccall-v-progressive-fleet-specialty-programs-inc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11008182",
     "name": "Oakley, M. v. FloatMe Corp.",
     "court": "pasuperct",
@@ -198,6 +228,16 @@
     "url": "https://www.courtlistener.com/opinion/11008182/oakley-m-v-floatme-corp/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "11007545",
+    "name": "Freilich, H., Aplt. v. SEPTA",
+    "court": "pa",
+    "date_filed": "2026-10-01",
+    "docket_number": "10 EAP 2024",
+    "url": "https://www.courtlistener.com/opinion/11007545/freilich-h-aplt-v-septa/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "11007972",
@@ -248,6 +288,16 @@
     "url": "https://www.courtlistener.com/opinion/10984956/mohammadi-v-tong/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "10983213",
+    "name": "State v. Jose T.",
+    "court": "conn",
+    "date_filed": "2026-09-29",
+    "docket_number": "SC21021",
+    "url": "https://www.courtlistener.com/opinion/10983213/state-v-jose-t/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "10985179",
