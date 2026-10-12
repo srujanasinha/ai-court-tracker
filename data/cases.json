@@ -30,6 +30,16 @@
     "category": "AI"
   },
   {
+    "id": "11031942",
+    "name": "Greenfield One III GMBH & CO. KG v. Chris Chaney",
+    "court": "delch",
+    "date_filed": "2026-10-09",
+    "docket_number": "2024-0663-LWW",
+    "url": "https://www.courtlistener.com/opinion/11031942/greenfield-one-iii-gmbh-co-kg-v-chris-chaney/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "11024777",
     "name": "Lexon Insurance Company v. James Justice, II",
     "court": "ca6",
@@ -420,16 +430,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10983058",
-    "name": "Mvl USA Inc. v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-09-22",
-    "docket_number": "26-561",
-    "url": "https://www.courtlistener.com/opinion/10983058/mvl-usa-inc-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10978163",
     "name": "CreateAI Holdings, Inc. F/K/A TuSimple Holdings, Inc. v. Bot Auto TX Inc.",
     "court": "txctapp15",
@@ -766,26 +766,6 @@
     "date_filed": "2026-02-09",
     "docket_number": "C.A. No. 2025-0374-BWD",
     "url": "https://www.courtlistener.com/opinion/10786021/hash-asset-management-ltd-v-dma-labs-inc-ichi-foundation-nick-poore/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "10771858",
-    "name": "Zakkiyya C. v. Verma",
-    "court": "nyappdiv",
-    "date_filed": "2025-12-23",
-    "docket_number": "795 CA 24-01653",
-    "url": "https://www.courtlistener.com/opinion/10771858/zakkiyya-c-v-verma/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "10733895",
-    "name": "Corey Michael Chadwick, Chadwick Capital, L.L.C.,Team One Percent, L.L.C., and CryptoLand, L.L.C. v. Derek Lynn",
-    "court": "txctapp2",
-    "date_filed": "2025-11-06",
-    "docket_number": "02-25-00193-CV",
-    "url": "https://www.courtlistener.com/opinion/10733895/corey-michael-chadwick-chadwick-capital-llcteam-one-percent-llc/",
     "snippet": "",
     "category": "Web3"
   },
