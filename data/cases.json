@@ -1,5 +1,25 @@
 [
   {
+    "id": "11032231",
+    "name": "Steinarsdottir v. Tripscout, Inc.",
+    "court": "dcd",
+    "date_filed": "2026-10-13",
+    "docket_number": "Civil Action No. 2023-1528",
+    "url": "https://www.courtlistener.com/opinion/11032231/steinarsdottir-v-tripscout-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11032450",
+    "name": "Edward Williams v. Attorney General United States of America",
+    "court": "ca3",
+    "date_filed": "2026-10-13",
+    "docket_number": "24-1091",
+    "url": "https://www.courtlistener.com/opinion/11032450/edward-williams-v-attorney-general-united-states-of-america/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11024168",
     "name": "State of Iowa v. Max Amyda",
     "court": "iowa",
@@ -207,7 +227,7 @@
     "docket_number": "26-718",
     "url": "https://www.courtlistener.com/opinion/11012844/22nd-century-networks-inc-v-united-states/",
     "snippet": "",
-    "category": "AI"
+    "category": "Web3"
   },
   {
     "id": "11012845",
@@ -298,16 +318,6 @@
     "url": "https://www.courtlistener.com/opinion/10984956/mohammadi-v-tong/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10983213",
-    "name": "State v. Jose T.",
-    "court": "conn",
-    "date_filed": "2026-09-29",
-    "docket_number": "SC21021",
-    "url": "https://www.courtlistener.com/opinion/10983213/state-v-jose-t/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10985179",
