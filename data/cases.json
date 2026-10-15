@@ -1,5 +1,85 @@
 [
   {
+    "id": "11034024",
+    "name": "United States v. Ruiz",
+    "court": "ca10",
+    "date_filed": "2026-10-14",
+    "docket_number": "24-2128",
+    "url": "https://www.courtlistener.com/opinion/11034024/united-states-v-ruiz/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11033681",
+    "name": "Ruel Green v. State of Florida",
+    "court": "fladistctapp",
+    "date_filed": "2026-10-14",
+    "docket_number": "4D2026-2733",
+    "url": "https://www.courtlistener.com/opinion/11033681/ruel-green-v-state-of-florida/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11033680",
+    "name": "Sharika Morgan v. State of Florida",
+    "court": "fladistctapp",
+    "date_filed": "2026-10-14",
+    "docket_number": "4D2026-2742",
+    "url": "https://www.courtlistener.com/opinion/11033680/sharika-morgan-v-state-of-florida/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11033679",
+    "name": "Sylvester Jefferson Cuffy v. State of Florida",
+    "court": "fladistctapp",
+    "date_filed": "2026-10-14",
+    "docket_number": "4D2026-2743",
+    "url": "https://www.courtlistener.com/opinion/11033679/sylvester-jefferson-cuffy-v-state-of-florida/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11033678",
+    "name": "Tracy Than Hunter v. State of Florida",
+    "court": "fladistctapp",
+    "date_filed": "2026-10-14",
+    "docket_number": "4D2026-2744",
+    "url": "https://www.courtlistener.com/opinion/11033678/tracy-than-hunter-v-state-of-florida/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11033971",
+    "name": "USSEC v. Reven Holdings",
+    "court": "ca10",
+    "date_filed": "2026-10-14",
+    "docket_number": "24-1235",
+    "url": "https://www.courtlistener.com/opinion/11033971/ussec-v-reven-holdings/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11033696",
+    "name": "State ex rel. Hofbauer v. Uhle",
+    "court": "ohioctapp",
+    "date_filed": "2026-10-14",
+    "docket_number": "L-26-00107",
+    "url": "https://www.courtlistener.com/opinion/11033696/state-ex-rel-hofbauer-v-uhle/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11033496",
+    "name": "Outfront Media Group LLC v. the City of Miami Beach, Florida",
+    "court": "fladistctapp",
+    "date_filed": "2026-10-14",
+    "docket_number": "3D2025-1165",
+    "url": "https://www.courtlistener.com/opinion/11033496/outfront-media-group-llc-v-the-city-of-miami-beach-florida/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "11032231",
     "name": "Steinarsdottir v. Tripscout, Inc.",
     "court": "dcd",
@@ -10,12 +90,12 @@
     "category": "AI"
   },
   {
-    "id": "11032450",
-    "name": "Edward Williams v. Attorney General United States of America",
-    "court": "ca3",
+    "id": "11033885",
+    "name": "In re B.C.",
+    "court": "illappct",
     "date_filed": "2026-10-13",
-    "docket_number": "24-1091",
-    "url": "https://www.courtlistener.com/opinion/11032450/edward-williams-v-attorney-general-united-states-of-america/",
+    "docket_number": "4-26-0379",
+    "url": "https://www.courtlistener.com/opinion/11033885/in-re-bc/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -90,16 +170,6 @@
     "category": "AI"
   },
   {
-    "id": "11017280",
-    "name": "Henderson v. Cuyahoga Cty. Div. of Children & Family Servs.",
-    "court": "ohioctapp",
-    "date_filed": "2026-10-08",
-    "docket_number": "115997",
-    "url": "https://www.courtlistener.com/opinion/11017280/henderson-v-cuyahoga-cty-div-of-children-family-servs/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11013738",
     "name": "Arconic US, LLC v. Scott County Board of Review",
     "court": "iowactapp",
@@ -108,36 +178,6 @@
     "url": "https://www.courtlistener.com/opinion/11013738/arconic-us-llc-v-scott-county-board-of-review/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "11013650",
-    "name": "Kid International, LLC v. City National Bank of Florida and 2655 SW 25, LLC",
-    "court": "fladistctapp",
-    "date_filed": "2026-10-07",
-    "docket_number": "4D2025-2599",
-    "url": "https://www.courtlistener.com/opinion/11013650/kid-international-llc-v-city-national-bank-of-florida-and-2655-sw-25-llc/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11013519",
-    "name": "State v. Barrino",
-    "court": "ncctapp",
-    "date_filed": "2026-10-07",
-    "docket_number": "25-886",
-    "url": "https://www.courtlistener.com/opinion/11013519/state-v-barrino/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11014018",
-    "name": "Curtrina Martin v. USA",
-    "court": "ca11",
-    "date_filed": "2026-10-07",
-    "docket_number": "23-10062",
-    "url": "https://www.courtlistener.com/opinion/11014018/curtrina-martin-v-usa/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "11013031",
@@ -160,16 +200,6 @@
     "category": "AI"
   },
   {
-    "id": "11024401",
-    "name": "IN RE DESTINY D.",
-    "court": "tennctapp",
-    "date_filed": "2026-10-06",
-    "docket_number": "E2025-01762-COA-R3-PT",
-    "url": "https://www.courtlistener.com/opinion/11024401/in-re-destiny-d/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11012974",
     "name": "High Point Bbc, LLC v. Arvelo",
     "court": "ncbizct",
@@ -180,34 +210,14 @@
     "category": "Web3"
   },
   {
-    "id": "11013038",
-    "name": "State v. Yarborough",
-    "court": "delsuperct",
+    "id": "11024401",
+    "name": "IN RE DESTINY D.",
+    "court": "tennctapp",
     "date_filed": "2026-10-06",
-    "docket_number": "1201018253, 1202006406, 1402013417",
-    "url": "https://www.courtlistener.com/opinion/11013038/state-v-yarborough/",
+    "docket_number": "E2025-01762-COA-R3-PT",
+    "url": "https://www.courtlistener.com/opinion/11024401/in-re-destiny-d/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "11013807",
-    "name": "Trax International Corporation v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-10-05",
-    "docket_number": "26-796",
-    "url": "https://www.courtlistener.com/opinion/11013807/trax-international-corporation-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11010528",
-    "name": "Alejandro Mendoza v. Distributed Creation, Inc.",
-    "court": "delch",
-    "date_filed": "2026-10-05",
-    "docket_number": "C.A. No. 2026-0580-CDW",
-    "url": "https://www.courtlistener.com/opinion/11010528/alejandro-mendoza-v-distributed-creation-inc/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "11011933",
@@ -230,46 +240,6 @@
     "category": "Web3"
   },
   {
-    "id": "11012845",
-    "name": "Lario Oil and Gas Company v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-10-02",
-    "docket_number": "24-1801",
-    "url": "https://www.courtlistener.com/opinion/11012845/lario-oil-and-gas-company-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11009765",
-    "name": "McCall v. Progressive Fleet & Specialty Programs, Inc.",
-    "court": "dcd",
-    "date_filed": "2026-10-02",
-    "docket_number": "Civil Action No. 2026-1184",
-    "url": "https://www.courtlistener.com/opinion/11009765/mccall-v-progressive-fleet-specialty-programs-inc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11008182",
-    "name": "Oakley, M. v. FloatMe Corp.",
-    "court": "pasuperct",
-    "date_filed": "2026-10-01",
-    "docket_number": "1318 WDA 2025",
-    "url": "https://www.courtlistener.com/opinion/11008182/oakley-m-v-floatme-corp/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "11007545",
-    "name": "Freilich, H., Aplt. v. SEPTA",
-    "court": "pa",
-    "date_filed": "2026-10-01",
-    "docket_number": "10 EAP 2024",
-    "url": "https://www.courtlistener.com/opinion/11007545/freilich-h-aplt-v-septa/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11007972",
     "name": "Seneca Global Services, LLC v. United States",
     "court": "uscfc",
@@ -278,16 +248,6 @@
     "url": "https://www.courtlistener.com/opinion/11007972/seneca-global-services-llc-v-united-states/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10988201",
-    "name": "George Reagan Hardaway, Neely Hardaway, Cassie Hardaway, and Rayla Harddaway Mckissack v. Aeropres Corporation",
-    "court": "lactapp",
-    "date_filed": "2026-09-30",
-    "docket_number": "56,854-CW 56,855-CW 56,856-CW (Consolidated Cases)",
-    "url": "https://www.courtlistener.com/opinion/10988201/george-reagan-hardaway-neely-hardaway-cassie-hardaway-and-rayla/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "11024408",
@@ -410,16 +370,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10983944",
-    "name": "In re B.J...",
-    "court": "utahctapp",
-    "date_filed": "2026-09-24",
-    "docket_number": "Case No. 20250836-CA",
-    "url": "https://www.courtlistener.com/opinion/10983944/in-re-bj/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10980711",
     "name": "Cannon v. United States",
     "court": "ca9",
@@ -528,26 +478,6 @@
     "url": "https://www.courtlistener.com/opinion/10968927/alper-uzmezler-v-ekim-stevens/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10961457",
-    "name": "Kalshiex, LLC v. Assad",
-    "court": "ca9",
-    "date_filed": "2026-08-28",
-    "docket_number": "25-7516",
-    "url": "https://www.courtlistener.com/opinion/10961457/kalshiex-llc-v-assad/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10960340",
-    "name": "In Re Motion to Compel Compliance With Subpoena Directed to the United States Securities and Exchange Commission",
-    "court": "dcd",
-    "date_filed": "2026-08-27",
-    "docket_number": "Misc. No. 2026-0083",
-    "url": "https://www.courtlistener.com/opinion/10960340/in-re-motion-to-compel-compliance-with-subpoena-directed-to-the-united/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10964695",
