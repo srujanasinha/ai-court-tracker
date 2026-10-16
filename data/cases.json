@@ -1,5 +1,45 @@
 [
   {
+    "id": "11035043",
+    "name": "Columbus City School Dist. v. State",
+    "court": "ohioctapp",
+    "date_filed": "2026-10-15",
+    "docket_number": "25AP-603, 25AP-604, 25AP-605",
+    "url": "https://www.courtlistener.com/opinion/11035043/columbus-city-school-dist-v-state/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11035223",
+    "name": "Brennan v. Blanche",
+    "court": "dcd",
+    "date_filed": "2026-10-15",
+    "docket_number": "Civil Action No. 2026-2323",
+    "url": "https://www.courtlistener.com/opinion/11035223/brennan-v-blanche/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11035057",
+    "name": "Techno-X USA Inc. v. Spartan Forge LLC",
+    "court": "delch",
+    "date_filed": "2026-10-15",
+    "docket_number": "C.A. No. 2024-1313-LWW",
+    "url": "https://www.courtlistener.com/opinion/11035057/techno-x-usa-inc-v-spartan-forge-llc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11035060",
+    "name": "In Re: Amendments to Florida Probate Rules 5.171 and 5.205",
+    "court": "fla",
+    "date_filed": "2026-10-15",
+    "docket_number": "SC2026-0558",
+    "url": "https://www.courtlistener.com/opinion/11035060/in-re-amendments-to-florida-probate-rules-5171-and-5205/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11034024",
     "name": "United States v. Ruiz",
     "court": "ca10",
@@ -36,16 +76,6 @@
     "date_filed": "2026-10-14",
     "docket_number": "4D2026-2743",
     "url": "https://www.courtlistener.com/opinion/11033679/sylvester-jefferson-cuffy-v-state-of-florida/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11033678",
-    "name": "Tracy Than Hunter v. State of Florida",
-    "court": "fladistctapp",
-    "date_filed": "2026-10-14",
-    "docket_number": "4D2026-2744",
-    "url": "https://www.courtlistener.com/opinion/11033678/tracy-than-hunter-v-state-of-florida/",
     "snippet": "",
     "category": "AI"
   },
@@ -88,6 +118,16 @@
     "url": "https://www.courtlistener.com/opinion/11032231/steinarsdottir-v-tripscout-inc/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "11032450",
+    "name": "Edward Williams v. Attorney General United States of America",
+    "court": "ca3",
+    "date_filed": "2026-10-13",
+    "docket_number": "24-1091",
+    "url": "https://www.courtlistener.com/opinion/11032450/edward-williams-v-attorney-general-united-states-of-america/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "11033885",
@@ -170,14 +210,14 @@
     "category": "AI"
   },
   {
-    "id": "11013738",
-    "name": "Arconic US, LLC v. Scott County Board of Review",
-    "court": "iowactapp",
+    "id": "11014018",
+    "name": "Curtrina Martin v. USA",
+    "court": "ca11",
     "date_filed": "2026-10-07",
-    "docket_number": "25-0578",
-    "url": "https://www.courtlistener.com/opinion/11013738/arconic-us-llc-v-scott-county-board-of-review/",
+    "docket_number": "23-10062",
+    "url": "https://www.courtlistener.com/opinion/11014018/curtrina-martin-v-usa/",
     "snippet": "",
-    "category": "AI"
+    "category": "Crypto"
   },
   {
     "id": "11013031",
@@ -190,16 +230,6 @@
     "category": "AI"
   },
   {
-    "id": "11012887",
-    "name": "MERIT HOLDINGS v. INTERNATIONAL BANK OF COMMERCE",
-    "court": "okla",
-    "date_filed": "2026-10-06",
-    "docket_number": "122379",
-    "url": "https://www.courtlistener.com/opinion/11012887/merit-holdings-v-international-bank-of-commerce/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11012974",
     "name": "High Point Bbc, LLC v. Arvelo",
     "court": "ncbizct",
@@ -208,6 +238,16 @@
     "url": "https://www.courtlistener.com/opinion/11012974/high-point-bbc-llc-v-arvelo/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "11013038",
+    "name": "State v. Yarborough",
+    "court": "delsuperct",
+    "date_filed": "2026-10-06",
+    "docket_number": "1201018253, 1202006406, 1402013417",
+    "url": "https://www.courtlistener.com/opinion/11013038/state-v-yarborough/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "11024401",
@@ -238,6 +278,26 @@
     "url": "https://www.courtlistener.com/opinion/11012844/22nd-century-networks-inc-v-united-states/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "11009765",
+    "name": "McCall v. Progressive Fleet & Specialty Programs, Inc.",
+    "court": "dcd",
+    "date_filed": "2026-10-02",
+    "docket_number": "Civil Action No. 2026-1184",
+    "url": "https://www.courtlistener.com/opinion/11009765/mccall-v-progressive-fleet-specialty-programs-inc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11007545",
+    "name": "Freilich, H., Aplt. v. SEPTA",
+    "court": "pa",
+    "date_filed": "2026-10-01",
+    "docket_number": "10 EAP 2024",
+    "url": "https://www.courtlistener.com/opinion/11007545/freilich-h-aplt-v-septa/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "11007972",
@@ -350,26 +410,6 @@
     "category": "AI"
   },
   {
-    "id": "10983006",
-    "name": "Nolen v. Peopleconnect, Inc.",
-    "court": "ca9",
-    "date_filed": "2026-09-24",
-    "docket_number": "24-3894",
-    "url": "https://www.courtlistener.com/opinion/10983006/nolen-v-peopleconnect-inc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10982918",
-    "name": "Jacob Dotson v. Cia Drug, LLC",
-    "court": "ky",
-    "date_filed": "2026-09-24",
-    "docket_number": "2025-SC-0451",
-    "url": "https://www.courtlistener.com/opinion/10982918/jacob-dotson-v-cia-drug-llc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10980711",
     "name": "Cannon v. United States",
     "court": "ca9",
@@ -478,6 +518,26 @@
     "url": "https://www.courtlistener.com/opinion/10968927/alper-uzmezler-v-ekim-stevens/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "10961457",
+    "name": "Kalshiex, LLC v. Assad",
+    "court": "ca9",
+    "date_filed": "2026-08-28",
+    "docket_number": "25-7516",
+    "url": "https://www.courtlistener.com/opinion/10961457/kalshiex-llc-v-assad/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10960340",
+    "name": "In Re Motion to Compel Compliance With Subpoena Directed to the United States Securities and Exchange Commission",
+    "court": "dcd",
+    "date_filed": "2026-08-27",
+    "docket_number": "Misc. No. 2026-0083",
+    "url": "https://www.courtlistener.com/opinion/10960340/in-re-motion-to-compel-compliance-with-subpoena-directed-to-the-united/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "10964695",
