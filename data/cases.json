@@ -1,5 +1,35 @@
 [
   {
+    "id": "11037125",
+    "name": "People v. Scott",
+    "court": "illappct",
+    "date_filed": "2026-10-16",
+    "docket_number": "4-24-1597",
+    "url": "https://www.courtlistener.com/opinion/11037125/people-v-scott/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11037064",
+    "name": "In re Cloudflare, Inc. Stockholder Litigation",
+    "court": "delch",
+    "date_filed": "2026-10-16",
+    "docket_number": "C.A. No. 2026-0772-JTL",
+    "url": "https://www.courtlistener.com/opinion/11037064/in-re-cloudflare-inc-stockholder-litigation/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11037119",
+    "name": "Appalachian Voices v. TVA",
+    "court": "ca6",
+    "date_filed": "2026-10-16",
+    "docket_number": "26-5836",
+    "url": "https://www.courtlistener.com/opinion/11037119/appalachian-voices-v-tva/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "11035043",
     "name": "Columbus City School Dist. v. State",
     "court": "ohioctapp",
@@ -66,16 +96,6 @@
     "date_filed": "2026-10-14",
     "docket_number": "4D2026-2742",
     "url": "https://www.courtlistener.com/opinion/11033680/sharika-morgan-v-state-of-florida/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11033679",
-    "name": "Sylvester Jefferson Cuffy v. State of Florida",
-    "court": "fladistctapp",
-    "date_filed": "2026-10-14",
-    "docket_number": "4D2026-2743",
-    "url": "https://www.courtlistener.com/opinion/11033679/sylvester-jefferson-cuffy-v-state-of-florida/",
     "snippet": "",
     "category": "AI"
   },
@@ -220,16 +240,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11013031",
-    "name": "Urban Sustainability Directors Network v. United States Department of Agriculture",
-    "court": "dcd",
-    "date_filed": "2026-10-06",
-    "docket_number": "Civil Action No. 2025-1775",
-    "url": "https://www.courtlistener.com/opinion/11013031/urban-sustainability-directors-network-v-united-states-department-of/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11012974",
     "name": "High Point Bbc, LLC v. Arvelo",
     "court": "ncbizct",
@@ -268,16 +278,6 @@
     "url": "https://www.courtlistener.com/opinion/11011933/methodist-church-v-balt-wash-conf-of-united-meth-church/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "11012844",
-    "name": "22nd Century Networks, Inc. v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-10-03",
-    "docket_number": "26-718",
-    "url": "https://www.courtlistener.com/opinion/11012844/22nd-century-networks-inc-v-united-states/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "11009765",
