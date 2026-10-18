@@ -1,5 +1,15 @@
 [
   {
+    "id": "11037825",
+    "name": "John Doe v. Catholic Relief Services",
+    "court": "ca4",
+    "date_filed": "2026-10-16",
+    "docket_number": "25-1569",
+    "url": "https://www.courtlistener.com/opinion/11037825/john-doe-v-catholic-relief-services/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11037125",
     "name": "People v. Scott",
     "court": "illappct",
@@ -180,16 +190,6 @@
     "category": "AI"
   },
   {
-    "id": "11024230",
-    "name": "State v. Calhoun",
-    "court": "ohioctapp",
-    "date_filed": "2026-10-09",
-    "docket_number": "2025-CA-37",
-    "url": "https://www.courtlistener.com/opinion/11024230/state-v-calhoun/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11031942",
     "name": "Greenfield One III GMBH & CO. KG v. Chris Chaney",
     "court": "delch",
@@ -316,16 +316,6 @@
     "date_filed": "2026-09-30",
     "docket_number": "M2025-00884-COA-R3-PT",
     "url": "https://www.courtlistener.com/opinion/11024408/in-re-brykell-f/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10988961",
-    "name": "Scotts Valley Band of Pomo Indians v. United States Department of the Interior",
-    "court": "dcd",
-    "date_filed": "2026-09-30",
-    "docket_number": "Civil Action No. 2026-2814",
-    "url": "https://www.courtlistener.com/opinion/10988961/scotts-valley-band-of-pomo-indians-v-united-states-department-of-the/",
     "snippet": "",
     "category": "Crypto"
   },
