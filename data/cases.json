@@ -1,5 +1,75 @@
 [
   {
+    "id": "11038329",
+    "name": "Avignone v. National Railroad Passenger Corporation",
+    "court": "dcd",
+    "date_filed": "2026-10-19",
+    "docket_number": "Civil Action No. 2025-2199",
+    "url": "https://www.courtlistener.com/opinion/11038329/avignone-v-national-railroad-passenger-corporation/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11038233",
+    "name": "Holy Trinity Ukrainian Catholic Church v. Township of Collier",
+    "court": "ca3",
+    "date_filed": "2026-10-19",
+    "docket_number": "26-2072",
+    "url": "https://www.courtlistener.com/opinion/11038233/holy-trinity-ukrainian-catholic-church-v-township-of-collier/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11038340",
+    "name": "Julius Lipp v. Mixedbread AI, Inc.",
+    "court": "delch",
+    "date_filed": "2026-10-19",
+    "docket_number": "C.A. No. 2026-0493-DH (BWD)",
+    "url": "https://www.courtlistener.com/opinion/11038340/julius-lipp-v-mixedbread-ai-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11038317",
+    "name": "Ehlers v. Petrey",
+    "court": "ohioctapp",
+    "date_filed": "2026-10-19",
+    "docket_number": "CA2025-09-079",
+    "url": "https://www.courtlistener.com/opinion/11038317/ehlers-v-petrey/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11038297",
+    "name": "State ex rel. Sommers Dev. Group, L.L.C. v. Cuyahoga Cty. Bd. of Elections",
+    "court": "ohio",
+    "date_filed": "2026-10-19",
+    "docket_number": "2026-1307",
+    "url": "https://www.courtlistener.com/opinion/11038297/state-ex-rel-sommers-dev-group-llc-v-cuyahoga-cty-bd-of-elections/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11038260",
+    "name": "Bsc Realty Services, LLC v. Valcourt Building Services of Georgia, L.C.",
+    "court": "gactapp",
+    "date_filed": "2026-10-19",
+    "docket_number": "A26A1413",
+    "url": "https://www.courtlistener.com/opinion/11038260/bsc-realty-services-llc-v-valcourt-building-services-of-georgia-lc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11038364",
+    "name": "Max Glass v. RWA Company LLC",
+    "court": "delch",
+    "date_filed": "2026-10-19",
+    "docket_number": "C.A. No. 2026-0754-CCB",
+    "url": "https://www.courtlistener.com/opinion/11038364/max-glass-v-rwa-company-llc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11037825",
     "name": "John Doe v. Catholic Relief Services",
     "court": "ca4",
@@ -50,22 +120,22 @@
     "category": "AI"
   },
   {
+    "id": "11038240",
+    "name": "Manus Medical, LLC v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-10-15",
+    "docket_number": "26-538",
+    "url": "https://www.courtlistener.com/opinion/11038240/manus-medical-llc-v-united-states/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11035223",
     "name": "Brennan v. Blanche",
     "court": "dcd",
     "date_filed": "2026-10-15",
     "docket_number": "Civil Action No. 2026-2323",
     "url": "https://www.courtlistener.com/opinion/11035223/brennan-v-blanche/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11035057",
-    "name": "Techno-X USA Inc. v. Spartan Forge LLC",
-    "court": "delch",
-    "date_filed": "2026-10-15",
-    "docket_number": "C.A. No. 2024-1313-LWW",
-    "url": "https://www.courtlistener.com/opinion/11035057/techno-x-usa-inc-v-spartan-forge-llc/",
     "snippet": "",
     "category": "AI"
   },
@@ -80,34 +150,14 @@
     "category": "Crypto"
   },
   {
-    "id": "11034024",
-    "name": "United States v. Ruiz",
-    "court": "ca10",
-    "date_filed": "2026-10-14",
-    "docket_number": "24-2128",
-    "url": "https://www.courtlistener.com/opinion/11034024/united-states-v-ruiz/",
+    "id": "11035057",
+    "name": "Techno-X USA Inc. v. Spartan Forge LLC",
+    "court": "delch",
+    "date_filed": "2026-10-15",
+    "docket_number": "C.A. No. 2024-1313-LWW",
+    "url": "https://www.courtlistener.com/opinion/11035057/techno-x-usa-inc-v-spartan-forge-llc/",
     "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11033681",
-    "name": "Ruel Green v. State of Florida",
-    "court": "fladistctapp",
-    "date_filed": "2026-10-14",
-    "docket_number": "4D2026-2733",
-    "url": "https://www.courtlistener.com/opinion/11033681/ruel-green-v-state-of-florida/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11033680",
-    "name": "Sharika Morgan v. State of Florida",
-    "court": "fladistctapp",
-    "date_filed": "2026-10-14",
-    "docket_number": "4D2026-2742",
-    "url": "https://www.courtlistener.com/opinion/11033680/sharika-morgan-v-state-of-florida/",
-    "snippet": "",
-    "category": "AI"
+    "category": "Crypto"
   },
   {
     "id": "11033971",
@@ -180,16 +230,6 @@
     "category": "AI"
   },
   {
-    "id": "11024784",
-    "name": "Common Cause v. U.S. Department of Justice",
-    "court": "dcd",
-    "date_filed": "2026-10-09",
-    "docket_number": "Civil Action No. 2026-1352",
-    "url": "https://www.courtlistener.com/opinion/11024784/common-cause-v-us-department-of-justice/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11031942",
     "name": "Greenfield One III GMBH & CO. KG v. Chris Chaney",
     "court": "delch",
@@ -218,16 +258,6 @@
     "url": "https://www.courtlistener.com/opinion/11024254/wyse-v-metro-com-bank/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "11018148",
-    "name": "Freestyle World, Inc. v. United States",
-    "court": "cit",
-    "date_filed": "2026-10-08",
-    "docket_number": "26-01088",
-    "url": "https://www.courtlistener.com/opinion/11018148/freestyle-world-inc-v-united-states/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "11014018",
@@ -376,16 +406,6 @@
     "date_filed": "2026-09-25",
     "docket_number": "Civil Action No. 2024-1312",
     "url": "https://www.courtlistener.com/opinion/10983725/mathis-v-united-states-parole-commission/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10983480",
-    "name": "United States v. Roman Sterlingov",
-    "court": "cadc",
-    "date_filed": "2026-09-25",
-    "docket_number": "24-3161",
-    "url": "https://www.courtlistener.com/opinion/10983480/united-states-v-roman-sterlingov/",
     "snippet": "",
     "category": "Crypto"
   },
