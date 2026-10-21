@@ -1,5 +1,15 @@
 [
   {
+    "id": "11039944",
+    "name": "Mennonite Church USA v. DHS",
+    "court": "cadc",
+    "date_filed": "2026-10-20",
+    "docket_number": "25-5209",
+    "url": "https://www.courtlistener.com/opinion/11039944/mennonite-church-usa-v-dhs/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11038329",
     "name": "Avignone v. National Railroad Passenger Corporation",
     "court": "dcd",
@@ -210,16 +220,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11033885",
-    "name": "In re B.C.",
-    "court": "illappct",
-    "date_filed": "2026-10-13",
-    "docket_number": "4-26-0379",
-    "url": "https://www.courtlistener.com/opinion/11033885/in-re-bc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11024168",
     "name": "State of Iowa v. Max Amyda",
     "court": "iowa",
@@ -290,16 +290,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11024401",
-    "name": "IN RE DESTINY D.",
-    "court": "tennctapp",
-    "date_filed": "2026-10-06",
-    "docket_number": "E2025-01762-COA-R3-PT",
-    "url": "https://www.courtlistener.com/opinion/11024401/in-re-destiny-d/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11011933",
     "name": "Methodist Church v. Balt.-Wash. Conf. of United Meth. Church",
     "court": "mdctspecapp",
@@ -320,16 +310,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11007545",
-    "name": "Freilich, H., Aplt. v. SEPTA",
-    "court": "pa",
-    "date_filed": "2026-10-01",
-    "docket_number": "10 EAP 2024",
-    "url": "https://www.courtlistener.com/opinion/11007545/freilich-h-aplt-v-septa/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11007972",
     "name": "Seneca Global Services, LLC v. United States",
     "court": "uscfc",
@@ -338,16 +318,6 @@
     "url": "https://www.courtlistener.com/opinion/11007972/seneca-global-services-llc-v-united-states/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "11024408",
-    "name": "In Re Brykell F.",
-    "court": "tennctapp",
-    "date_filed": "2026-09-30",
-    "docket_number": "M2025-00884-COA-R3-PT",
-    "url": "https://www.courtlistener.com/opinion/11024408/in-re-brykell-f/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10984956",
