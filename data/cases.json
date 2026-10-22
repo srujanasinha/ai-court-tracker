@@ -1,5 +1,75 @@
 [
   {
+    "id": "11042015",
+    "name": "Abedi v. Carter",
+    "court": "ca10",
+    "date_filed": "2026-10-21",
+    "docket_number": "25-3179",
+    "url": "https://www.courtlistener.com/opinion/11042015/abedi-v-carter/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11041946",
+    "name": "Redspeed Georgia, LLC v. Johnathan v. Dunn",
+    "court": "gactapp",
+    "date_filed": "2026-10-21",
+    "docket_number": "A26A1132",
+    "url": "https://www.courtlistener.com/opinion/11041946/redspeed-georgia-llc-v-johnathan-v-dunn/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11041869",
+    "name": "Adept Machine Tools, Inc. v. Lindsey Underwood, Individually and as Independent Administrator of the Estate of Charles Trent Underwood",
+    "court": "txctapp6",
+    "date_filed": "2026-10-21",
+    "docket_number": "06-26-00083-CV",
+    "url": "https://www.courtlistener.com/opinion/11041869/adept-machine-tools-inc-v-lindsey-underwood-individually-and-as/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11042066",
+    "name": "Vale Ventures IA LLC v. Gray Jay Management Investments, LLC",
+    "court": "delch",
+    "date_filed": "2026-10-21",
+    "docket_number": "C.A. No. 2022-1100-NAC",
+    "url": "https://www.courtlistener.com/opinion/11042066/vale-ventures-ia-llc-v-gray-jay-management-investments-llc/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
+    "id": "11041797",
+    "name": "Mumtaz Mf v. Sammie Lindsey and Smart Grocery, LLC",
+    "court": "arkctapp",
+    "date_filed": "2026-10-21",
+    "docket_number": "",
+    "url": "https://www.courtlistener.com/opinion/11041797/mumtaz-mf-v-sammie-lindsey-and-smart-grocery-llc/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
+    "id": "11041862",
+    "name": "Com. Dept. of L&I v. Accuserv Pharmacy, Inc.",
+    "court": "pacommwct",
+    "date_filed": "2026-10-21",
+    "docket_number": "1280 C.D. 2024",
+    "url": "https://www.courtlistener.com/opinion/11041862/com-dept-of-li-v-accuserv-pharmacy-inc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11041948",
+    "name": "Jimaine Flowers v. State of Georgia",
+    "court": "gactapp",
+    "date_filed": "2026-10-21",
+    "docket_number": "A26A1310",
+    "url": "https://www.courtlistener.com/opinion/11041948/jimaine-flowers-v-state-of-georgia/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11039944",
     "name": "Mennonite Church USA v. DHS",
     "court": "cadc",
@@ -120,16 +190,6 @@
     "category": "Web3"
   },
   {
-    "id": "11035043",
-    "name": "Columbus City School Dist. v. State",
-    "court": "ohioctapp",
-    "date_filed": "2026-10-15",
-    "docket_number": "25AP-603, 25AP-604, 25AP-605",
-    "url": "https://www.courtlistener.com/opinion/11035043/columbus-city-school-dist-v-state/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11038240",
     "name": "Manus Medical, LLC v. United States",
     "court": "uscfc",
@@ -180,16 +240,6 @@
     "category": "AI"
   },
   {
-    "id": "11033696",
-    "name": "State ex rel. Hofbauer v. Uhle",
-    "court": "ohioctapp",
-    "date_filed": "2026-10-14",
-    "docket_number": "L-26-00107",
-    "url": "https://www.courtlistener.com/opinion/11033696/state-ex-rel-hofbauer-v-uhle/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11033496",
     "name": "Outfront Media Group LLC v. the City of Miami Beach, Florida",
     "court": "fladistctapp",
@@ -200,22 +250,22 @@
     "category": "Web3"
   },
   {
-    "id": "11032231",
-    "name": "Steinarsdottir v. Tripscout, Inc.",
-    "court": "dcd",
-    "date_filed": "2026-10-13",
-    "docket_number": "Civil Action No. 2023-1528",
-    "url": "https://www.courtlistener.com/opinion/11032231/steinarsdottir-v-tripscout-inc/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11032450",
     "name": "Edward Williams v. Attorney General United States of America",
     "court": "ca3",
     "date_filed": "2026-10-13",
     "docket_number": "24-1091",
     "url": "https://www.courtlistener.com/opinion/11032450/edward-williams-v-attorney-general-united-states-of-america/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11033885",
+    "name": "In re B.C.",
+    "court": "illappct",
+    "date_filed": "2026-10-13",
+    "docket_number": "4-26-0379",
+    "url": "https://www.courtlistener.com/opinion/11033885/in-re-bc/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -240,16 +290,6 @@
     "category": "Web3"
   },
   {
-    "id": "11024777",
-    "name": "Lexon Insurance Company v. James Justice, II",
-    "court": "ca6",
-    "date_filed": "2026-10-09",
-    "docket_number": "25-6096",
-    "url": "https://www.courtlistener.com/opinion/11024777/lexon-insurance-company-v-james-justice-ii/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "11024254",
     "name": "Wyse v. Metro. Com. Bank",
     "court": "ca2",
@@ -270,16 +310,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11012974",
-    "name": "High Point Bbc, LLC v. Arvelo",
-    "court": "ncbizct",
-    "date_filed": "2026-10-06",
-    "docket_number": "26-CVS-11377",
-    "url": "https://www.courtlistener.com/opinion/11012974/high-point-bbc-llc-v-arvelo/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "11013038",
     "name": "State v. Yarborough",
     "court": "delsuperct",
@@ -290,22 +320,22 @@
     "category": "Crypto"
   },
   {
+    "id": "11024401",
+    "name": "IN RE DESTINY D.",
+    "court": "tennctapp",
+    "date_filed": "2026-10-06",
+    "docket_number": "E2025-01762-COA-R3-PT",
+    "url": "https://www.courtlistener.com/opinion/11024401/in-re-destiny-d/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11011933",
     "name": "Methodist Church v. Balt.-Wash. Conf. of United Meth. Church",
     "court": "mdctspecapp",
     "date_filed": "2026-10-05",
     "docket_number": "1812/24",
     "url": "https://www.courtlistener.com/opinion/11011933/methodist-church-v-balt-wash-conf-of-united-meth-church/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11009765",
-    "name": "McCall v. Progressive Fleet & Specialty Programs, Inc.",
-    "court": "dcd",
-    "date_filed": "2026-10-02",
-    "docket_number": "Civil Action No. 2026-1184",
-    "url": "https://www.courtlistener.com/opinion/11009765/mccall-v-progressive-fleet-specialty-programs-inc/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -328,16 +358,6 @@
     "url": "https://www.courtlistener.com/opinion/10984956/mohammadi-v-tong/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10985179",
-    "name": "Melissa Brandao v. HerdDogg, Inc.",
-    "court": "delch",
-    "date_filed": "2026-09-28",
-    "docket_number": "C.A. No. 2026-0824-TJF",
-    "url": "https://www.courtlistener.com/opinion/10985179/melissa-brandao-v-herddogg-inc/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10985208",
