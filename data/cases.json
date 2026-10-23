@@ -1,11 +1,41 @@
 [
   {
+    "id": "11043586",
+    "name": "Jackson Fed of Tchr v. Fitch",
+    "court": "ca5",
+    "date_filed": "2026-10-22",
+    "docket_number": "25-60496",
+    "url": "https://www.courtlistener.com/opinion/11043586/jackson-fed-of-tchr-v-fitch/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11043193",
+    "name": "Janof v. Auto Warehouse",
+    "court": "nyappdiv",
+    "date_filed": "2026-10-22",
+    "docket_number": "CV-25-0985",
+    "url": "https://www.courtlistener.com/opinion/11043193/janof-v-auto-warehouse/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11042015",
     "name": "Abedi v. Carter",
     "court": "ca10",
     "date_filed": "2026-10-21",
     "docket_number": "25-3179",
     "url": "https://www.courtlistener.com/opinion/11042015/abedi-v-carter/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11043634",
+    "name": "Brent Laray Tucker v. the State of Texas",
+    "court": "txctapp9",
+    "date_filed": "2026-10-21",
+    "docket_number": "09-24-00391-CR",
+    "url": "https://www.courtlistener.com/opinion/11043634/brent-laray-tucker-v-the-state-of-texas/",
     "snippet": "",
     "category": "AI"
   },
@@ -56,16 +86,6 @@
     "date_filed": "2026-10-21",
     "docket_number": "1280 C.D. 2024",
     "url": "https://www.courtlistener.com/opinion/11041862/com-dept-of-li-v-accuserv-pharmacy-inc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11041948",
-    "name": "Jimaine Flowers v. State of Georgia",
-    "court": "gactapp",
-    "date_filed": "2026-10-21",
-    "docket_number": "A26A1310",
-    "url": "https://www.courtlistener.com/opinion/11041948/jimaine-flowers-v-state-of-georgia/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -130,16 +150,6 @@
     "category": "AI"
   },
   {
-    "id": "11038260",
-    "name": "Bsc Realty Services, LLC v. Valcourt Building Services of Georgia, L.C.",
-    "court": "gactapp",
-    "date_filed": "2026-10-19",
-    "docket_number": "A26A1413",
-    "url": "https://www.courtlistener.com/opinion/11038260/bsc-realty-services-llc-v-valcourt-building-services-of-georgia-lc/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11038364",
     "name": "Max Glass v. RWA Company LLC",
     "court": "delch",
@@ -156,16 +166,6 @@
     "date_filed": "2026-10-16",
     "docket_number": "25-1569",
     "url": "https://www.courtlistener.com/opinion/11037825/john-doe-v-catholic-relief-services/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11037125",
-    "name": "People v. Scott",
-    "court": "illappct",
-    "date_filed": "2026-10-16",
-    "docket_number": "4-24-1597",
-    "url": "https://www.courtlistener.com/opinion/11037125/people-v-scott/",
     "snippet": "",
     "category": "AI"
   },
@@ -200,36 +200,6 @@
     "category": "AI"
   },
   {
-    "id": "11035223",
-    "name": "Brennan v. Blanche",
-    "court": "dcd",
-    "date_filed": "2026-10-15",
-    "docket_number": "Civil Action No. 2026-2323",
-    "url": "https://www.courtlistener.com/opinion/11035223/brennan-v-blanche/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11035060",
-    "name": "In Re: Amendments to Florida Probate Rules 5.171 and 5.205",
-    "court": "fla",
-    "date_filed": "2026-10-15",
-    "docket_number": "SC2026-0558",
-    "url": "https://www.courtlistener.com/opinion/11035060/in-re-amendments-to-florida-probate-rules-5171-and-5205/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11035057",
-    "name": "Techno-X USA Inc. v. Spartan Forge LLC",
-    "court": "delch",
-    "date_filed": "2026-10-15",
-    "docket_number": "C.A. No. 2024-1313-LWW",
-    "url": "https://www.courtlistener.com/opinion/11035057/techno-x-usa-inc-v-spartan-forge-llc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11033971",
     "name": "USSEC v. Reven Holdings",
     "court": "ca10",
@@ -237,7 +207,7 @@
     "docket_number": "24-1235",
     "url": "https://www.courtlistener.com/opinion/11033971/ussec-v-reven-holdings/",
     "snippet": "",
-    "category": "AI"
+    "category": "Web3"
   },
   {
     "id": "11033496",
