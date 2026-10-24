@@ -1,5 +1,35 @@
 [
   {
+    "id": "11044573",
+    "name": "Sosnava Rodriguez v. Vergara",
+    "court": "ca5",
+    "date_filed": "2026-10-23",
+    "docket_number": "26-50183",
+    "url": "https://www.courtlistener.com/opinion/11044573/sosnava-rodriguez-v-vergara/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11044254",
+    "name": "David Dinkevich v. Deutsche Telekom AG",
+    "court": "delch",
+    "date_filed": "2026-10-23",
+    "docket_number": "C.A. 2021-0479-PAF",
+    "url": "https://www.courtlistener.com/opinion/11044254/david-dinkevich-v-deutsche-telekom-ag/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11044469",
+    "name": "Estate of G.B. v. Hamilton Cty. Job & Family Servs.",
+    "court": "ohioctapp",
+    "date_filed": "2026-10-23",
+    "docket_number": "C-250376",
+    "url": "https://www.courtlistener.com/opinion/11044469/estate-of-gb-v-hamilton-cty-job-family-servs/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11043586",
     "name": "Jackson Fed of Tchr v. Fitch",
     "court": "ca5",
@@ -90,6 +120,16 @@
     "category": "Crypto"
   },
   {
+    "id": "11041948",
+    "name": "Jimaine Flowers v. State of Georgia",
+    "court": "gactapp",
+    "date_filed": "2026-10-21",
+    "docket_number": "A26A1310",
+    "url": "https://www.courtlistener.com/opinion/11041948/jimaine-flowers-v-state-of-georgia/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11039944",
     "name": "Mennonite Church USA v. DHS",
     "court": "cadc",
@@ -140,16 +180,6 @@
     "category": "AI"
   },
   {
-    "id": "11038297",
-    "name": "State ex rel. Sommers Dev. Group, L.L.C. v. Cuyahoga Cty. Bd. of Elections",
-    "court": "ohio",
-    "date_filed": "2026-10-19",
-    "docket_number": "2026-1307",
-    "url": "https://www.courtlistener.com/opinion/11038297/state-ex-rel-sommers-dev-group-llc-v-cuyahoga-cty-bd-of-elections/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11038364",
     "name": "Max Glass v. RWA Company LLC",
     "court": "delch",
@@ -158,16 +188,6 @@
     "url": "https://www.courtlistener.com/opinion/11038364/max-glass-v-rwa-company-llc/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "11037825",
-    "name": "John Doe v. Catholic Relief Services",
-    "court": "ca4",
-    "date_filed": "2026-10-16",
-    "docket_number": "25-1569",
-    "url": "https://www.courtlistener.com/opinion/11037825/john-doe-v-catholic-relief-services/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "11037064",
@@ -190,14 +210,34 @@
     "category": "Web3"
   },
   {
-    "id": "11038240",
-    "name": "Manus Medical, LLC v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-10-15",
-    "docket_number": "26-538",
-    "url": "https://www.courtlistener.com/opinion/11038240/manus-medical-llc-v-united-states/",
+    "id": "11037825",
+    "name": "John Doe v. Catholic Relief Services",
+    "court": "ca4",
+    "date_filed": "2026-10-16",
+    "docket_number": "25-1569",
+    "url": "https://www.courtlistener.com/opinion/11037825/john-doe-v-catholic-relief-services/",
     "snippet": "",
-    "category": "AI"
+    "category": "Crypto"
+  },
+  {
+    "id": "11035060",
+    "name": "In Re: Amendments to Florida Probate Rules 5.171 and 5.205",
+    "court": "fla",
+    "date_filed": "2026-10-15",
+    "docket_number": "SC2026-0558",
+    "url": "https://www.courtlistener.com/opinion/11035060/in-re-amendments-to-florida-probate-rules-5171-and-5205/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11035057",
+    "name": "Techno-X USA Inc. v. Spartan Forge LLC",
+    "court": "delch",
+    "date_filed": "2026-10-15",
+    "docket_number": "C.A. No. 2024-1313-LWW",
+    "url": "https://www.courtlistener.com/opinion/11035057/techno-x-usa-inc-v-spartan-forge-llc/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "11033971",
