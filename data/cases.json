@@ -20,16 +20,6 @@
     "category": "AI"
   },
   {
-    "id": "11044469",
-    "name": "Estate of G.B. v. Hamilton Cty. Job & Family Servs.",
-    "court": "ohioctapp",
-    "date_filed": "2026-10-23",
-    "docket_number": "C-250376",
-    "url": "https://www.courtlistener.com/opinion/11044469/estate-of-gb-v-hamilton-cty-job-family-servs/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11043586",
     "name": "Jackson Fed of Tchr v. Fitch",
     "court": "ca5",
@@ -40,12 +30,12 @@
     "category": "AI"
   },
   {
-    "id": "11043193",
-    "name": "Janof v. Auto Warehouse",
-    "court": "nyappdiv",
+    "id": "11045730",
+    "name": "Johnny Tyson II v. Warren Inn Haltom City Ltd. D/B/A Acacia Apartments",
+    "court": "txctapp2",
     "date_filed": "2026-10-22",
-    "docket_number": "CV-25-0985",
-    "url": "https://www.courtlistener.com/opinion/11043193/janof-v-auto-warehouse/",
+    "docket_number": "02-25-00679-CV",
+    "url": "https://www.courtlistener.com/opinion/11045730/johnny-tyson-ii-v-warren-inn-haltom-city-ltd-dba-acacia-apartments/",
     "snippet": "",
     "category": "AI"
   },
@@ -56,36 +46,6 @@
     "date_filed": "2026-10-21",
     "docket_number": "25-3179",
     "url": "https://www.courtlistener.com/opinion/11042015/abedi-v-carter/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11043634",
-    "name": "Brent Laray Tucker v. the State of Texas",
-    "court": "txctapp9",
-    "date_filed": "2026-10-21",
-    "docket_number": "09-24-00391-CR",
-    "url": "https://www.courtlistener.com/opinion/11043634/brent-laray-tucker-v-the-state-of-texas/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11041946",
-    "name": "Redspeed Georgia, LLC v. Johnathan v. Dunn",
-    "court": "gactapp",
-    "date_filed": "2026-10-21",
-    "docket_number": "A26A1132",
-    "url": "https://www.courtlistener.com/opinion/11041946/redspeed-georgia-llc-v-johnathan-v-dunn/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11041869",
-    "name": "Adept Machine Tools, Inc. v. Lindsey Underwood, Individually and as Independent Administrator of the Estate of Charles Trent Underwood",
-    "court": "txctapp6",
-    "date_filed": "2026-10-21",
-    "docket_number": "06-26-00083-CV",
-    "url": "https://www.courtlistener.com/opinion/11041869/adept-machine-tools-inc-v-lindsey-underwood-individually-and-as/",
     "snippet": "",
     "category": "AI"
   },
@@ -550,16 +510,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10964695",
-    "name": "In the Matter of the Marriage of Darsi Rae Myers and Antonie Chris Vorster v. the State of Texas",
-    "court": "txctapp6",
-    "date_filed": "2026-08-26",
-    "docket_number": "06-25-00130-CV",
-    "url": "https://www.courtlistener.com/opinion/10964695/in-the-matter-of-the-marriage-of-darsi-rae-myers-and-antonie-chris-vorster/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10957699",
     "name": "United States v. Steven Anderegg",
     "court": "ca7",
@@ -610,16 +560,6 @@
     "category": "Web3"
   },
   {
-    "id": "10932334",
-    "name": "David Namdar v. Immutable Holdings Inc.",
-    "court": "delch",
-    "date_filed": "2026-07-17",
-    "docket_number": "2024-0535-CDW",
-    "url": "https://www.courtlistener.com/opinion/10932334/david-namdar-v-immutable-holdings-inc/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "10925376",
     "name": "Estate of Lane Caviness v. Atlas Air, Inc.",
     "court": "ca11",
@@ -650,16 +590,6 @@
     "category": "AI"
   },
   {
-    "id": "10875924",
-    "name": "Matter of 170 W. End Ave. Owners Corp. v. Centennial El. Indus. Inc.",
-    "court": "nyappdiv",
-    "date_filed": "2026-06-16",
-    "docket_number": "Index No. 160333/23|Appeal No. 6893-6894|Case No. 2025-01991, 2025-05569|",
-    "url": "https://www.courtlistener.com/opinion/10875924/matter-of-170-w-end-ave-owners-corp-v-centennial-el-indus-inc/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "10872108",
     "name": "State ex rel. Yost v. Google, L.L.C.",
     "court": "ohioctapp",
@@ -668,16 +598,6 @@
     "url": "https://www.courtlistener.com/opinion/10872108/state-ex-rel-yost-v-google-llc/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10868377",
-    "name": "Greenfield One III GmbH & Co. KG v. Chris Chaney",
-    "court": "delch",
-    "date_filed": "2026-06-02",
-    "docket_number": "2024-0663-LWW",
-    "url": "https://www.courtlistener.com/opinion/10868377/greenfield-one-iii-gmbh-co-kg-v-chris-chaney/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "10870344",
