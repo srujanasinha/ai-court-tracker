@@ -1,5 +1,45 @@
 [
   {
+    "id": "11047429",
+    "name": "The City of Laredo v. Gilbert Argumaniz",
+    "court": "txctapp4",
+    "date_filed": "2026-10-28",
+    "docket_number": "04-26-00320-CV",
+    "url": "https://www.courtlistener.com/opinion/11047429/the-city-of-laredo-v-gilbert-argumaniz/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11047254",
+    "name": "United States v. Approximately 40,353 usdt.eth Cryptocurrency",
+    "court": "dcd",
+    "date_filed": "2026-10-28",
+    "docket_number": "Civil Action No. 2025-2116",
+    "url": "https://www.courtlistener.com/opinion/11047254/united-states-v-approximately-40353-usdteth-cryptocurrency/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11048345",
+    "name": "Ye v. State",
+    "court": "mdctspecapp",
+    "date_filed": "2026-10-28",
+    "docket_number": "0709/25",
+    "url": "https://www.courtlistener.com/opinion/11048345/ye-v-state/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11048233",
+    "name": "Hernandez, J. v. Independence Constr. Corp.",
+    "court": "pasuperct",
+    "date_filed": "2026-10-28",
+    "docket_number": "1911 EDA 2023",
+    "url": "https://www.courtlistener.com/opinion/11048233/hernandez-j-v-independence-constr-corp/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11046104",
     "name": "Johnson v. District of Columbia",
     "court": "dcd",
@@ -18,6 +58,16 @@
     "url": "https://www.courtlistener.com/opinion/11046073/leos-v-mufg/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "11048474",
+    "name": "Macron v. Owens",
+    "court": "delsuperct",
+    "date_filed": "2026-10-27",
+    "docket_number": "N25C-07-194 SKR",
+    "url": "https://www.courtlistener.com/opinion/11048474/macron-v-owens/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "11046158",
@@ -106,16 +156,6 @@
     "date_filed": "2026-10-21",
     "docket_number": "25-3179",
     "url": "https://www.courtlistener.com/opinion/11042015/abedi-v-carter/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11043634",
-    "name": "Brent Laray Tucker v. the State of Texas",
-    "court": "txctapp9",
-    "date_filed": "2026-10-21",
-    "docket_number": "09-24-00391-CR",
-    "url": "https://www.courtlistener.com/opinion/11043634/brent-laray-tucker-v-the-state-of-texas/",
     "snippet": "",
     "category": "AI"
   },
@@ -230,26 +270,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11035060",
-    "name": "In Re: Amendments to Florida Probate Rules 5.171 and 5.205",
-    "court": "fla",
-    "date_filed": "2026-10-15",
-    "docket_number": "SC2026-0558",
-    "url": "https://www.courtlistener.com/opinion/11035060/in-re-amendments-to-florida-probate-rules-5171-and-5205/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11035057",
-    "name": "Techno-X USA Inc. v. Spartan Forge LLC",
-    "court": "delch",
-    "date_filed": "2026-10-15",
-    "docket_number": "C.A. No. 2024-1313-LWW",
-    "url": "https://www.courtlistener.com/opinion/11035057/techno-x-usa-inc-v-spartan-forge-llc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11033971",
     "name": "USSEC v. Reven Holdings",
     "court": "ca10",
@@ -288,16 +308,6 @@
     "url": "https://www.courtlistener.com/opinion/11033885/in-re-bc/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "11024168",
-    "name": "State of Iowa v. Max Amyda",
-    "court": "iowa",
-    "date_filed": "2026-10-09",
-    "docket_number": "24-1563",
-    "url": "https://www.courtlistener.com/opinion/11024168/state-of-iowa-v-max-amyda/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "11031942",
@@ -340,34 +350,14 @@
     "category": "Crypto"
   },
   {
-    "id": "11024401",
-    "name": "IN RE DESTINY D.",
-    "court": "tennctapp",
-    "date_filed": "2026-10-06",
-    "docket_number": "E2025-01762-COA-R3-PT",
-    "url": "https://www.courtlistener.com/opinion/11024401/in-re-destiny-d/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11011933",
+    "id": "11048350",
     "name": "Methodist Church v. Balt.-Wash. Conf. of United Meth. Church",
     "court": "mdctspecapp",
     "date_filed": "2026-10-05",
     "docket_number": "1812/24",
-    "url": "https://www.courtlistener.com/opinion/11011933/methodist-church-v-balt-wash-conf-of-united-meth-church/",
+    "url": "https://www.courtlistener.com/opinion/11048350/methodist-church-v-balt-wash-conf-of-united-meth-church/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "11046391",
-    "name": "State of Minnesota v. Tremaine Michael Bucholz",
-    "court": "minn",
-    "date_filed": "2026-09-30",
-    "docket_number": "A250518",
-    "url": "https://www.courtlistener.com/opinion/11046391/state-of-minnesota-v-tremaine-michael-bucholz/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "11007972",
@@ -520,16 +510,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10964796",
-    "name": "Andrew Filipowski v. Commissioner of Internal Revenue",
-    "court": "ca11",
-    "date_filed": "2026-09-02",
-    "docket_number": "25-11382",
-    "url": "https://www.courtlistener.com/opinion/10964796/andrew-filipowski-v-commissioner-of-internal-revenue/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10962880",
     "name": "ATG Capital Opportunities Fund LP v. Ryan Lane",
     "court": "delch",
@@ -568,26 +548,6 @@
     "url": "https://www.courtlistener.com/opinion/10960340/in-re-motion-to-compel-compliance-with-subpoena-directed-to-the-united/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "10957699",
-    "name": "United States v. Steven Anderegg",
-    "court": "ca7",
-    "date_filed": "2026-08-25",
-    "docket_number": "25-1354",
-    "url": "https://www.courtlistener.com/opinion/10957699/united-states-v-steven-anderegg/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10957698",
-    "name": "United States v. Steven Anderegg",
-    "court": "ca7",
-    "date_filed": "2026-08-25",
-    "docket_number": "25-1354",
-    "url": "https://www.courtlistener.com/opinion/10957698/united-states-v-steven-anderegg/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10954616",
@@ -748,16 +708,6 @@
     "url": "https://www.courtlistener.com/opinion/10814875/terry-joyner-v-city-of-atlanta/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10813622",
-    "name": "Jigsaw Productions LLC v. U.S. Securities and Exchange Commission",
-    "court": "dcd",
-    "date_filed": "2026-03-23",
-    "docket_number": "Civil Action No. 2024-2358",
-    "url": "https://www.courtlistener.com/opinion/10813622/jigsaw-productions-llc-v-us-securities-and-exchange-commission/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10786021",
