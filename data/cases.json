@@ -1,5 +1,75 @@
 [
   {
+    "id": "11049713",
+    "name": "Macutkiewicz v. Rubio",
+    "court": "dcd",
+    "date_filed": "2026-10-29",
+    "docket_number": "Civil Action No. 2025-0522",
+    "url": "https://www.courtlistener.com/opinion/11049713/macutkiewicz-v-rubio/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11049397",
+    "name": "Uber Technologies, Inc. v. City of Seattle",
+    "court": "ca9",
+    "date_filed": "2026-10-29",
+    "docket_number": "25-228",
+    "url": "https://www.courtlistener.com/opinion/11049397/uber-technologies-inc-v-city-of-seattle/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11048928",
+    "name": "Conyngham Township v. PUC, Aplt.",
+    "court": "pa",
+    "date_filed": "2026-10-29",
+    "docket_number": "34 MAP 2025",
+    "url": "https://www.courtlistener.com/opinion/11048928/conyngham-township-v-puc-aplt/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11049817",
+    "name": "In the Estate of John Raburn Ford v. the State of Texas",
+    "court": "txctapp10",
+    "date_filed": "2026-10-29",
+    "docket_number": "10-25-00313-CV",
+    "url": "https://www.courtlistener.com/opinion/11049817/in-the-estate-of-john-raburn-ford-v-the-state-of-texas/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11049276",
+    "name": "Scotty G. Nabors v. Jill A. Nabors",
+    "court": "indctapp",
+    "date_filed": "2026-10-29",
+    "docket_number": "26A-DC-00699",
+    "url": "https://www.courtlistener.com/opinion/11049276/scotty-g-nabors-v-jill-a-nabors/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11049621",
+    "name": "Loren Bennink v. Cincinnati Bell Tel. Co. LLC",
+    "court": "ca6",
+    "date_filed": "2026-10-29",
+    "docket_number": "26-3150",
+    "url": "https://www.courtlistener.com/opinion/11049621/loren-bennink-v-cincinnati-bell-tel-co-llc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11048709",
+    "name": "Mudrick Capital Management L.P. v. QuarterNorth Energy Inc.",
+    "court": "delch",
+    "date_filed": "2026-10-29",
+    "docket_number": "2024-0106-LWW",
+    "url": "https://www.courtlistener.com/opinion/11048709/mudrick-capital-management-lp-v-quarternorth-energy-inc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11047429",
     "name": "The City of Laredo v. Gilbert Argumaniz",
     "court": "txctapp4",
@@ -140,26 +210,6 @@
     "category": "AI"
   },
   {
-    "id": "11043193",
-    "name": "Janof v. Auto Warehouse",
-    "court": "nyappdiv",
-    "date_filed": "2026-10-22",
-    "docket_number": "CV-25-0985",
-    "url": "https://www.courtlistener.com/opinion/11043193/janof-v-auto-warehouse/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11042015",
-    "name": "Abedi v. Carter",
-    "court": "ca10",
-    "date_filed": "2026-10-21",
-    "docket_number": "25-3179",
-    "url": "https://www.courtlistener.com/opinion/11042015/abedi-v-carter/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11042066",
     "name": "Vale Ventures IA LLC v. Gray Jay Management Investments, LLC",
     "court": "delch",
@@ -190,16 +240,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11041948",
-    "name": "Jimaine Flowers v. State of Georgia",
-    "court": "gactapp",
-    "date_filed": "2026-10-21",
-    "docket_number": "A26A1310",
-    "url": "https://www.courtlistener.com/opinion/11041948/jimaine-flowers-v-state-of-georgia/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11039944",
     "name": "Mennonite Church USA v. DHS",
     "court": "cadc",
@@ -210,42 +250,22 @@
     "category": "Crypto"
   },
   {
-    "id": "11038329",
-    "name": "Avignone v. National Railroad Passenger Corporation",
-    "court": "dcd",
-    "date_filed": "2026-10-19",
-    "docket_number": "Civil Action No. 2025-2199",
-    "url": "https://www.courtlistener.com/opinion/11038329/avignone-v-national-railroad-passenger-corporation/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11038340",
-    "name": "Julius Lipp v. Mixedbread AI, Inc.",
-    "court": "delch",
-    "date_filed": "2026-10-19",
-    "docket_number": "C.A. No. 2026-0493-DH (BWD)",
-    "url": "https://www.courtlistener.com/opinion/11038340/julius-lipp-v-mixedbread-ai-inc/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11038317",
-    "name": "Ehlers v. Petrey",
-    "court": "ohioctapp",
-    "date_filed": "2026-10-19",
-    "docket_number": "CA2025-09-079",
-    "url": "https://www.courtlistener.com/opinion/11038317/ehlers-v-petrey/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11038364",
     "name": "Max Glass v. RWA Company LLC",
     "court": "delch",
     "date_filed": "2026-10-19",
     "docket_number": "C.A. No. 2026-0754-CCB",
     "url": "https://www.courtlistener.com/opinion/11038364/max-glass-v-rwa-company-llc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11038329",
+    "name": "Avignone v. National Railroad Passenger Corporation",
+    "court": "dcd",
+    "date_filed": "2026-10-19",
+    "docket_number": "Civil Action No. 2025-2199",
+    "url": "https://www.courtlistener.com/opinion/11038329/avignone-v-national-railroad-passenger-corporation/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -310,6 +330,16 @@
     "category": "Crypto"
   },
   {
+    "id": "11024168",
+    "name": "State of Iowa v. Max Amyda",
+    "court": "iowa",
+    "date_filed": "2026-10-09",
+    "docket_number": "24-1563",
+    "url": "https://www.courtlistener.com/opinion/11024168/state-of-iowa-v-max-amyda/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11031942",
     "name": "Greenfield One III GMBH & CO. KG v. Chris Chaney",
     "court": "delch",
@@ -358,6 +388,16 @@
     "url": "https://www.courtlistener.com/opinion/11048350/methodist-church-v-balt-wash-conf-of-united-meth-church/",
     "snippet": "",
     "category": "Crypto"
+  },
+  {
+    "id": "11046391",
+    "name": "State of Minnesota v. Tremaine Michael Bucholz",
+    "court": "minn",
+    "date_filed": "2026-09-30",
+    "docket_number": "A250518",
+    "url": "https://www.courtlistener.com/opinion/11046391/state-of-minnesota-v-tremaine-michael-bucholz/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "11007972",
@@ -550,22 +590,32 @@
     "category": "Crypto"
   },
   {
+    "id": "10957699",
+    "name": "United States v. Steven Anderegg",
+    "court": "ca7",
+    "date_filed": "2026-08-25",
+    "docket_number": "25-1354",
+    "url": "https://www.courtlistener.com/opinion/10957699/united-states-v-steven-anderegg/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10957698",
+    "name": "United States v. Steven Anderegg",
+    "court": "ca7",
+    "date_filed": "2026-08-25",
+    "docket_number": "25-1354",
+    "url": "https://www.courtlistener.com/opinion/10957698/united-states-v-steven-anderegg/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10954616",
     "name": "Altigen Communications, Inc. v. Day",
     "court": "delch",
     "date_filed": "2026-08-21",
     "docket_number": "C.A. No. 2025-1298-JTL",
     "url": "https://www.courtlistener.com/opinion/10954616/altigen-communications-inc-v-day/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10953484",
-    "name": "E.T. v. the Boys and Girls Club of Hudson County",
-    "court": "nj",
-    "date_filed": "2026-08-19",
-    "docket_number": "A-69-24",
-    "url": "https://www.courtlistener.com/opinion/10953484/et-v-the-boys-and-girls-club-of-hudson-county/",
     "snippet": "",
     "category": "AI"
   },
@@ -670,16 +720,6 @@
     "category": "AI"
   },
   {
-    "id": "10852760",
-    "name": "Louisiana v. Callais Revisions: 5/04/26",
-    "court": "scotus",
-    "date_filed": "2026-04-29",
-    "docket_number": "24-109",
-    "url": "https://www.courtlistener.com/opinion/10852760/louisiana-v-callais-revisions-50426/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11000870",
     "name": "A.S. v. A.B.",
     "court": "nysupctkings",
@@ -708,6 +748,16 @@
     "url": "https://www.courtlistener.com/opinion/10814875/terry-joyner-v-city-of-atlanta/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "10813622",
+    "name": "Jigsaw Productions LLC v. U.S. Securities and Exchange Commission",
+    "court": "dcd",
+    "date_filed": "2026-03-23",
+    "docket_number": "Civil Action No. 2024-2358",
+    "url": "https://www.courtlistener.com/opinion/10813622/jigsaw-productions-llc-v-us-securities-and-exchange-commission/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "10786021",
