@@ -70,16 +70,6 @@
     "category": "AI"
   },
   {
-    "id": "11048928",
-    "name": "Conyngham Township v. PUC, Aplt.",
-    "court": "pa",
-    "date_filed": "2026-10-29",
-    "docket_number": "34 MAP 2025",
-    "url": "https://www.courtlistener.com/opinion/11048928/conyngham-township-v-puc-aplt/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11050729",
     "name": "Blue Water Autonomy, Inc. v. United States",
     "court": "uscfc",
@@ -440,26 +430,6 @@
     "category": "AI"
   },
   {
-    "id": "11007972",
-    "name": "Seneca Global Services, LLC v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-09-30",
-    "docket_number": "25-195",
-    "url": "https://www.courtlistener.com/opinion/11007972/seneca-global-services-llc-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10984956",
-    "name": "Mohammadi v. Tong",
-    "court": "connappct",
-    "date_filed": "2026-09-29",
-    "docket_number": "AC47598",
-    "url": "https://www.courtlistener.com/opinion/10984956/mohammadi-v-tong/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10985208",
     "name": "Heenan v. U.S. Department of Housing and Urban Development",
     "court": "dcd",
@@ -528,16 +498,6 @@
     "url": "https://www.courtlistener.com/opinion/10981358/china-cornici-co-v-united-states/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "10978163",
-    "name": "CreateAI Holdings, Inc. F/K/A TuSimple Holdings, Inc. v. Bot Auto TX Inc.",
-    "court": "txctapp15",
-    "date_filed": "2026-09-15",
-    "docket_number": "15-25-00001-CV",
-    "url": "https://www.courtlistener.com/opinion/10978163/createai-holdings-inc-fka-tusimple-holdings-inc-v-bot-auto-tx-inc/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10970821",
@@ -640,16 +600,6 @@
     "category": "AI"
   },
   {
-    "id": "10954616",
-    "name": "Altigen Communications, Inc. v. Day",
-    "court": "delch",
-    "date_filed": "2026-08-21",
-    "docket_number": "C.A. No. 2025-1298-JTL",
-    "url": "https://www.courtlistener.com/opinion/10954616/altigen-communications-inc-v-day/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10948765",
     "name": "Perimetral Oriental De Bogota, S.A.S. v. Agencia Nacional De Infraestructura",
     "court": "dcd",
@@ -670,6 +620,16 @@
     "category": "Web3"
   },
   {
+    "id": "10925376",
+    "name": "Estate of Lane Caviness v. Atlas Air, Inc.",
+    "court": "ca11",
+    "date_filed": "2026-07-10",
+    "docket_number": "24-11033",
+    "url": "https://www.courtlistener.com/opinion/10925376/estate-of-lane-caviness-v-atlas-air-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10881694",
     "name": "Cannon v. United States",
     "court": "ca9",
@@ -680,6 +640,16 @@
     "category": "Web3"
   },
   {
+    "id": "10877276",
+    "name": "NetChoice, LLC v. David Yost",
+    "court": "ca6",
+    "date_filed": "2026-06-18",
+    "docket_number": "25-3371",
+    "url": "https://www.courtlistener.com/opinion/10877276/netchoice-llc-v-david-yost/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10875924",
     "name": "Matter of 170 W. End Ave. Owners Corp. v. Centennial El. Indus. Inc.",
     "court": "nyappdiv",
@@ -688,6 +658,16 @@
     "url": "https://www.courtlistener.com/opinion/10875924/matter-of-170-w-end-ave-owners-corp-v-centennial-el-indus-inc/",
     "snippet": "",
     "category": "Web3"
+  },
+  {
+    "id": "10872108",
+    "name": "State ex rel. Yost v. Google, L.L.C.",
+    "court": "ohioctapp",
+    "date_filed": "2026-06-08",
+    "docket_number": "25 CAE 08 0070",
+    "url": "https://www.courtlistener.com/opinion/10872108/state-ex-rel-yost-v-google-llc/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "10868377",
@@ -708,6 +688,16 @@
     "url": "https://www.courtlistener.com/opinion/10870344/wave-digital-assets-llc-v-united-states/",
     "snippet": "",
     "category": "Crypto"
+  },
+  {
+    "id": "10864457",
+    "name": "American Civil Liberties Union of Delaware v. The Town of Fenwick Island",
+    "court": "delsuperct",
+    "date_filed": "2026-05-26",
+    "docket_number": "S25C-12-003 CAK",
+    "url": "https://www.courtlistener.com/opinion/10864457/american-civil-liberties-union-of-delaware-v-the-town-of-fenwick-island/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "11000870",
