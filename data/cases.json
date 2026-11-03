@@ -1,11 +1,61 @@
 [
   {
+    "id": "11052041",
+    "name": "RoviSys Co. v. MRS Instrumentation & Controls, L.L.C.",
+    "court": "ohioctapp",
+    "date_filed": "2026-11-02",
+    "docket_number": "2026-P-0051",
+    "url": "https://www.courtlistener.com/opinion/11052041/rovisys-co-v-mrs-instrumentation-controls-llc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11052019",
+    "name": "Pickett v. Serpentini Chevrolet of Medina",
+    "court": "ohioctapp",
+    "date_filed": "2026-11-02",
+    "docket_number": "2026CA0023-M",
+    "url": "https://www.courtlistener.com/opinion/11052019/pickett-v-serpentini-chevrolet-of-medina/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11052180",
+    "name": "United States v. All Petroleum-Product Cargo Aboard the Achilleas With International Maritime Organization Number 9398072",
+    "court": "dcd",
+    "date_filed": "2026-11-02",
+    "docket_number": "Civil Action No. 2021-0305",
+    "url": "https://www.courtlistener.com/opinion/11052180/united-states-v-all-petroleum-product-cargo-aboard-the-achilleas-with/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11052202",
+    "name": "Grygiel v. HealthEquity, Inc.",
+    "court": "ca1",
+    "date_filed": "2026-11-02",
+    "docket_number": "25-2109",
+    "url": "https://www.courtlistener.com/opinion/11052202/grygiel-v-healthequity-inc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11050875",
     "name": "Flux Drive v. Sparks",
     "court": "ca10",
     "date_filed": "2026-10-30",
     "docket_number": "25-1308",
     "url": "https://www.courtlistener.com/opinion/11050875/flux-drive-v-sparks/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11051935",
+    "name": "Accelerant Twister, LLC v. Marjo, LLC and John T. Sullivan",
+    "court": "delch",
+    "date_filed": "2026-10-30",
+    "docket_number": "2023-0887-LWW",
+    "url": "https://www.courtlistener.com/opinion/11051935/accelerant-twister-llc-v-marjo-llc-and-john-t-sullivan/",
     "snippet": "",
     "category": "AI"
   },
@@ -70,6 +120,16 @@
     "category": "AI"
   },
   {
+    "id": "11048928",
+    "name": "Conyngham Township v. PUC, Aplt.",
+    "court": "pa",
+    "date_filed": "2026-10-29",
+    "docket_number": "34 MAP 2025",
+    "url": "https://www.courtlistener.com/opinion/11048928/conyngham-township-v-puc-aplt/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11050729",
     "name": "Blue Water Autonomy, Inc. v. United States",
     "court": "uscfc",
@@ -100,16 +160,6 @@
     "category": "AI"
   },
   {
-    "id": "11049621",
-    "name": "Loren Bennink v. Cincinnati Bell Tel. Co. LLC",
-    "court": "ca6",
-    "date_filed": "2026-10-29",
-    "docket_number": "26-3150",
-    "url": "https://www.courtlistener.com/opinion/11049621/loren-bennink-v-cincinnati-bell-tel-co-llc/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11048709",
     "name": "Mudrick Capital Management L.P. v. QuarterNorth Energy Inc.",
     "court": "delch",
@@ -126,16 +176,6 @@
     "date_filed": "2026-10-28",
     "docket_number": "CC-2026-0815",
     "url": "https://www.courtlistener.com/opinion/11050950/velazquez-feliciano-y-otros-v-velazquez-feliciano-y-otros/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11047429",
-    "name": "The City of Laredo v. Gilbert Argumaniz",
-    "court": "txctapp4",
-    "date_filed": "2026-10-28",
-    "docket_number": "04-26-00320-CV",
-    "url": "https://www.courtlistener.com/opinion/11047429/the-city-of-laredo-v-gilbert-argumaniz/",
     "snippet": "",
     "category": "AI"
   },
@@ -180,16 +220,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11046104",
-    "name": "Johnson v. District of Columbia",
-    "court": "dcd",
-    "date_filed": "2026-10-27",
-    "docket_number": "Civil Action No. 2022-3814",
-    "url": "https://www.courtlistener.com/opinion/11046104/johnson-v-district-of-columbia/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11046073",
     "name": "Leos v. MUFG",
     "court": "ca2",
@@ -228,16 +258,6 @@
     "url": "https://www.courtlistener.com/opinion/11044573/sosnava-rodriguez-v-vergara/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "11045836",
-    "name": "Telos Corporation v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-10-23",
-    "docket_number": "25-2191",
-    "url": "https://www.courtlistener.com/opinion/11045836/telos-corporation-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "11043586",
@@ -330,16 +350,6 @@
     "category": "Web3"
   },
   {
-    "id": "11037825",
-    "name": "John Doe v. Catholic Relief Services",
-    "court": "ca4",
-    "date_filed": "2026-10-16",
-    "docket_number": "25-1569",
-    "url": "https://www.courtlistener.com/opinion/11037825/john-doe-v-catholic-relief-services/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11033971",
     "name": "USSEC v. Reven Holdings",
     "court": "ca10",
@@ -430,6 +440,26 @@
     "category": "AI"
   },
   {
+    "id": "11007972",
+    "name": "Seneca Global Services, LLC v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-09-30",
+    "docket_number": "25-195",
+    "url": "https://www.courtlistener.com/opinion/11007972/seneca-global-services-llc-v-united-states/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10984956",
+    "name": "Mohammadi v. Tong",
+    "court": "connappct",
+    "date_filed": "2026-09-29",
+    "docket_number": "AC47598",
+    "url": "https://www.courtlistener.com/opinion/10984956/mohammadi-v-tong/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10985208",
     "name": "Heenan v. U.S. Department of Housing and Urban Development",
     "court": "dcd",
@@ -456,16 +486,6 @@
     "date_filed": "2026-09-25",
     "docket_number": "26-5235",
     "url": "https://www.courtlistener.com/opinion/10984000/kalshiex-llc-v-william-orgel/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10983725",
-    "name": "Mathis v. United States Parole Commission",
-    "court": "dcd",
-    "date_filed": "2026-09-25",
-    "docket_number": "Civil Action No. 2024-1312",
-    "url": "https://www.courtlistener.com/opinion/10983725/mathis-v-united-states-parole-commission/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -498,6 +518,16 @@
     "url": "https://www.courtlistener.com/opinion/10981358/china-cornici-co-v-united-states/",
     "snippet": "",
     "category": "Crypto"
+  },
+  {
+    "id": "10978163",
+    "name": "CreateAI Holdings, Inc. F/K/A TuSimple Holdings, Inc. v. Bot Auto TX Inc.",
+    "court": "txctapp15",
+    "date_filed": "2026-09-15",
+    "docket_number": "15-25-00001-CV",
+    "url": "https://www.courtlistener.com/opinion/10978163/createai-holdings-inc-fka-tusimple-holdings-inc-v-bot-auto-tx-inc/",
+    "snippet": "",
+    "category": "AI"
   },
   {
     "id": "10970821",
@@ -596,6 +626,16 @@
     "date_filed": "2026-08-25",
     "docket_number": "25-1354",
     "url": "https://www.courtlistener.com/opinion/10957698/united-states-v-steven-anderegg/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10954616",
+    "name": "Altigen Communications, Inc. v. Day",
+    "court": "delch",
+    "date_filed": "2026-08-21",
+    "docket_number": "C.A. No. 2025-1298-JTL",
+    "url": "https://www.courtlistener.com/opinion/10954616/altigen-communications-inc-v-day/",
     "snippet": "",
     "category": "AI"
   },
