@@ -1,5 +1,25 @@
 [
   {
+    "id": "11053756",
+    "name": "State v. Evans",
+    "court": "ncctapp",
+    "date_filed": "2026-11-04",
+    "docket_number": "25-1015",
+    "url": "https://www.courtlistener.com/opinion/11053756/state-v-evans/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11052460",
+    "name": "C",
+    "court": "ca2",
+    "date_filed": "2026-11-03",
+    "docket_number": "25-2049",
+    "url": "https://www.courtlistener.com/opinion/11052460/c/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11052041",
     "name": "RoviSys Co. v. MRS Instrumentation & Controls, L.L.C.",
     "court": "ohioctapp",
@@ -26,16 +46,6 @@
     "date_filed": "2026-11-02",
     "docket_number": "Civil Action No. 2021-0305",
     "url": "https://www.courtlistener.com/opinion/11052180/united-states-v-all-petroleum-product-cargo-aboard-the-achilleas-with/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11052202",
-    "name": "Grygiel v. HealthEquity, Inc.",
-    "court": "ca1",
-    "date_filed": "2026-11-02",
-    "docket_number": "25-2109",
-    "url": "https://www.courtlistener.com/opinion/11052202/grygiel-v-healthequity-inc/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -170,52 +180,12 @@
     "category": "Crypto"
   },
   {
-    "id": "11050950",
-    "name": "Vel\u00e1zquez Feliciano Y Otros v. Vel\u00e1zquez Feliciano Y Otros",
-    "court": "prsupreme",
-    "date_filed": "2026-10-28",
-    "docket_number": "CC-2026-0815",
-    "url": "https://www.courtlistener.com/opinion/11050950/velazquez-feliciano-y-otros-v-velazquez-feliciano-y-otros/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11047254",
     "name": "United States v. Approximately 40,353 usdt.eth Cryptocurrency",
     "court": "dcd",
     "date_filed": "2026-10-28",
     "docket_number": "Civil Action No. 2025-2116",
     "url": "https://www.courtlistener.com/opinion/11047254/united-states-v-approximately-40353-usdteth-cryptocurrency/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11050730",
-    "name": "St. Bernard Parish Government v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-10-28",
-    "docket_number": "15-1072",
-    "url": "https://www.courtlistener.com/opinion/11050730/st-bernard-parish-government-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11048345",
-    "name": "Ye v. State",
-    "court": "mdctspecapp",
-    "date_filed": "2026-10-28",
-    "docket_number": "0709/25",
-    "url": "https://www.courtlistener.com/opinion/11048345/ye-v-state/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11048233",
-    "name": "Hernandez, J. v. Independence Constr. Corp.",
-    "court": "pasuperct",
-    "date_filed": "2026-10-28",
-    "docket_number": "1911 EDA 2023",
-    "url": "https://www.courtlistener.com/opinion/11048233/hernandez-j-v-independence-constr-corp/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -406,16 +376,6 @@
     "date_filed": "2026-10-09",
     "docket_number": "25-2106",
     "url": "https://www.courtlistener.com/opinion/11024254/wyse-v-metro-com-bank/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11014018",
-    "name": "Curtrina Martin v. USA",
-    "court": "ca11",
-    "date_filed": "2026-10-07",
-    "docket_number": "23-10062",
-    "url": "https://www.courtlistener.com/opinion/11014018/curtrina-martin-v-usa/",
     "snippet": "",
     "category": "Crypto"
   },
