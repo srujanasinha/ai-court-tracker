@@ -1,11 +1,51 @@
 [
   {
+    "id": "11054196",
+    "name": "State of Iowa v. Dylan Mills",
+    "court": "iowactapp",
+    "date_filed": "2026-11-04",
+    "docket_number": "25-1470",
+    "url": "https://www.courtlistener.com/opinion/11054196/state-of-iowa-v-dylan-mills/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11054115",
+    "name": "Wolcott Family Living Trust v. CASL, LLC",
+    "court": "orctapp",
+    "date_filed": "2026-11-04",
+    "docket_number": "A183856",
+    "url": "https://www.courtlistener.com/opinion/11054115/wolcott-family-living-trust-v-casl-llc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11053756",
     "name": "State v. Evans",
     "court": "ncctapp",
     "date_filed": "2026-11-04",
     "docket_number": "25-1015",
     "url": "https://www.courtlistener.com/opinion/11053756/state-v-evans/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11054472",
+    "name": "Bryan Park Education LLC v. Masters Academy International, LLC and Cognita Limited",
+    "court": "delsuperct",
+    "date_filed": "2026-11-04",
+    "docket_number": "N26C-01-107 KMM CCLC",
+    "url": "https://www.courtlistener.com/opinion/11054472/bryan-park-education-llc-v-masters-academy-international-llc-and-cognita/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11054164",
+    "name": "viirl/piazzisi v. Moen",
+    "court": "arizctapp",
+    "date_filed": "2026-11-04",
+    "docket_number": "1 CA-SA 26-0185",
+    "url": "https://www.courtlistener.com/opinion/11054164/viirlpiazzisi-v-moen/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -46,6 +86,16 @@
     "date_filed": "2026-11-02",
     "docket_number": "Civil Action No. 2021-0305",
     "url": "https://www.courtlistener.com/opinion/11052180/united-states-v-all-petroleum-product-cargo-aboard-the-achilleas-with/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11052202",
+    "name": "Grygiel v. HealthEquity, Inc.",
+    "court": "ca1",
+    "date_filed": "2026-11-02",
+    "docket_number": "25-2109",
+    "url": "https://www.courtlistener.com/opinion/11052202/grygiel-v-healthequity-inc/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -130,16 +180,6 @@
     "category": "AI"
   },
   {
-    "id": "11048928",
-    "name": "Conyngham Township v. PUC, Aplt.",
-    "court": "pa",
-    "date_filed": "2026-10-29",
-    "docket_number": "34 MAP 2025",
-    "url": "https://www.courtlistener.com/opinion/11048928/conyngham-township-v-puc-aplt/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11050729",
     "name": "Blue Water Autonomy, Inc. v. United States",
     "court": "uscfc",
@@ -190,6 +230,36 @@
     "category": "Crypto"
   },
   {
+    "id": "11050730",
+    "name": "St. Bernard Parish Government v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-10-28",
+    "docket_number": "15-1072",
+    "url": "https://www.courtlistener.com/opinion/11050730/st-bernard-parish-government-v-united-states/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11048345",
+    "name": "Ye v. State",
+    "court": "mdctspecapp",
+    "date_filed": "2026-10-28",
+    "docket_number": "0709/25",
+    "url": "https://www.courtlistener.com/opinion/11048345/ye-v-state/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11048233",
+    "name": "Hernandez, J. v. Independence Constr. Corp.",
+    "court": "pasuperct",
+    "date_filed": "2026-10-28",
+    "docket_number": "1911 EDA 2023",
+    "url": "https://www.courtlistener.com/opinion/11048233/hernandez-j-v-independence-constr-corp/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11046073",
     "name": "Leos v. MUFG",
     "court": "ca2",
@@ -198,16 +268,6 @@
     "url": "https://www.courtlistener.com/opinion/11046073/leos-v-mufg/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "11048474",
-    "name": "Macron v. Owens",
-    "court": "delsuperct",
-    "date_filed": "2026-10-27",
-    "docket_number": "N25C-07-194 SKR",
-    "url": "https://www.courtlistener.com/opinion/11048474/macron-v-owens/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "11046158",
@@ -226,16 +286,6 @@
     "date_filed": "2026-10-23",
     "docket_number": "26-50183",
     "url": "https://www.courtlistener.com/opinion/11044573/sosnava-rodriguez-v-vergara/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11043586",
-    "name": "Jackson Fed of Tchr v. Fitch",
-    "court": "ca5",
-    "date_filed": "2026-10-22",
-    "docket_number": "25-60496",
-    "url": "https://www.courtlistener.com/opinion/11043586/jackson-fed-of-tchr-v-fitch/",
     "snippet": "",
     "category": "AI"
   },
@@ -400,26 +450,6 @@
     "category": "AI"
   },
   {
-    "id": "11007972",
-    "name": "Seneca Global Services, LLC v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-09-30",
-    "docket_number": "25-195",
-    "url": "https://www.courtlistener.com/opinion/11007972/seneca-global-services-llc-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10984956",
-    "name": "Mohammadi v. Tong",
-    "court": "connappct",
-    "date_filed": "2026-09-29",
-    "docket_number": "AC47598",
-    "url": "https://www.courtlistener.com/opinion/10984956/mohammadi-v-tong/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10985208",
     "name": "Heenan v. U.S. Department of Housing and Urban Development",
     "court": "dcd",
@@ -478,16 +508,6 @@
     "url": "https://www.courtlistener.com/opinion/10981358/china-cornici-co-v-united-states/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "10978163",
-    "name": "CreateAI Holdings, Inc. F/K/A TuSimple Holdings, Inc. v. Bot Auto TX Inc.",
-    "court": "txctapp15",
-    "date_filed": "2026-09-15",
-    "docket_number": "15-25-00001-CV",
-    "url": "https://www.courtlistener.com/opinion/10978163/createai-holdings-inc-fka-tusimple-holdings-inc-v-bot-auto-tx-inc/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10970821",
@@ -560,16 +580,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10960340",
-    "name": "In Re Motion to Compel Compliance With Subpoena Directed to the United States Securities and Exchange Commission",
-    "court": "dcd",
-    "date_filed": "2026-08-27",
-    "docket_number": "Misc. No. 2026-0083",
-    "url": "https://www.courtlistener.com/opinion/10960340/in-re-motion-to-compel-compliance-with-subpoena-directed-to-the-united/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10957699",
     "name": "United States v. Steven Anderegg",
     "court": "ca7",
@@ -586,16 +596,6 @@
     "date_filed": "2026-08-25",
     "docket_number": "25-1354",
     "url": "https://www.courtlistener.com/opinion/10957698/united-states-v-steven-anderegg/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10954616",
-    "name": "Altigen Communications, Inc. v. Day",
-    "court": "delch",
-    "date_filed": "2026-08-21",
-    "docket_number": "C.A. No. 2025-1298-JTL",
-    "url": "https://www.courtlistener.com/opinion/10954616/altigen-communications-inc-v-day/",
     "snippet": "",
     "category": "AI"
   },
