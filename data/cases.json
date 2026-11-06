@@ -1,5 +1,25 @@
 [
   {
+    "id": "11055699",
+    "name": "Whether the Magnet School Assistance Program Violates the Constitution's Equal-Protection Guarantee",
+    "court": "olc",
+    "date_filed": "2026-11-05",
+    "docket_number": "",
+    "url": "https://www.courtlistener.com/opinion/11055699/whether-the-magnet-school-assistance-program-violates-the-constitutions/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11055915",
+    "name": "Melissa Brandao v. HerdDogg Inc",
+    "court": "delch",
+    "date_filed": "2026-11-05",
+    "docket_number": "C.A. No. 2026-0824-TJF",
+    "url": "https://www.courtlistener.com/opinion/11055915/melissa-brandao-v-herddogg-inc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11054196",
     "name": "State of Iowa v. Dylan Mills",
     "court": "iowactapp",
@@ -50,6 +70,16 @@
     "category": "Crypto"
   },
   {
+    "id": "11055749",
+    "name": "Blue Water Autonomy, Inc. v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-11-03",
+    "docket_number": "26-936",
+    "url": "https://www.courtlistener.com/opinion/11055749/blue-water-autonomy-inc-v-united-states/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11052460",
     "name": "C",
     "court": "ca2",
@@ -78,6 +108,16 @@
     "url": "https://www.courtlistener.com/opinion/11052019/pickett-v-serpentini-chevrolet-of-medina/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "11055823",
+    "name": "Kaplan v. Circle Internet Group Inc.",
+    "court": "nysupctnewyork",
+    "date_filed": "2026-11-02",
+    "docket_number": "Index No. 650459/2026",
+    "url": "https://www.courtlistener.com/opinion/11055823/kaplan-v-circle-internet-group-inc/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "11052180",
@@ -130,16 +170,6 @@
     "category": "AI"
   },
   {
-    "id": "11050810",
-    "name": "Shared Partnership v. Meta Platforms, Inc.",
-    "court": "ca9",
-    "date_filed": "2026-10-30",
-    "docket_number": "25-2612",
-    "url": "https://www.courtlistener.com/opinion/11050810/shared-partnership-v-meta-platforms-inc/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11050327",
     "name": "In The Matter of $11,500 Seized from Bitcoin Depot Operating, LLC",
     "court": "iowa",
@@ -180,6 +210,16 @@
     "category": "AI"
   },
   {
+    "id": "11048928",
+    "name": "Conyngham Township v. PUC, Aplt.",
+    "court": "pa",
+    "date_filed": "2026-10-29",
+    "docket_number": "34 MAP 2025",
+    "url": "https://www.courtlistener.com/opinion/11048928/conyngham-township-v-puc-aplt/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11050729",
     "name": "Blue Water Autonomy, Inc. v. United States",
     "court": "uscfc",
@@ -198,26 +238,6 @@
     "url": "https://www.courtlistener.com/opinion/11049817/in-the-estate-of-john-raburn-ford-v-the-state-of-texas/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "11049276",
-    "name": "Scotty G. Nabors v. Jill A. Nabors",
-    "court": "indctapp",
-    "date_filed": "2026-10-29",
-    "docket_number": "26A-DC-00699",
-    "url": "https://www.courtlistener.com/opinion/11049276/scotty-g-nabors-v-jill-a-nabors/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11048709",
-    "name": "Mudrick Capital Management L.P. v. QuarterNorth Energy Inc.",
-    "court": "delch",
-    "date_filed": "2026-10-29",
-    "docket_number": "2024-0106-LWW",
-    "url": "https://www.courtlistener.com/opinion/11048709/mudrick-capital-management-lp-v-quarternorth-energy-inc/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "11047254",
@@ -276,16 +296,6 @@
     "date_filed": "2026-10-23",
     "docket_number": "25-453",
     "url": "https://www.courtlistener.com/opinion/11046158/barry-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11044573",
-    "name": "Sosnava Rodriguez v. Vergara",
-    "court": "ca5",
-    "date_filed": "2026-10-23",
-    "docket_number": "26-50183",
-    "url": "https://www.courtlistener.com/opinion/11044573/sosnava-rodriguez-v-vergara/",
     "snippet": "",
     "category": "AI"
   },
@@ -450,6 +460,26 @@
     "category": "AI"
   },
   {
+    "id": "11007972",
+    "name": "Seneca Global Services, LLC v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-09-30",
+    "docket_number": "25-195",
+    "url": "https://www.courtlistener.com/opinion/11007972/seneca-global-services-llc-v-united-states/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10984956",
+    "name": "Mohammadi v. Tong",
+    "court": "connappct",
+    "date_filed": "2026-09-29",
+    "docket_number": "AC47598",
+    "url": "https://www.courtlistener.com/opinion/10984956/mohammadi-v-tong/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10985208",
     "name": "Heenan v. U.S. Department of Housing and Urban Development",
     "court": "dcd",
@@ -510,6 +540,16 @@
     "category": "Crypto"
   },
   {
+    "id": "10978163",
+    "name": "CreateAI Holdings, Inc. F/K/A TuSimple Holdings, Inc. v. Bot Auto TX Inc.",
+    "court": "txctapp15",
+    "date_filed": "2026-09-15",
+    "docket_number": "15-25-00001-CV",
+    "url": "https://www.courtlistener.com/opinion/10978163/createai-holdings-inc-fka-tusimple-holdings-inc-v-bot-auto-tx-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "10970821",
     "name": "Southland Homes, etc. v. Lam",
     "court": "calctapp",
@@ -540,16 +580,6 @@
     "category": "AI"
   },
   {
-    "id": "10966090",
-    "name": "United States v. Virtual Currency Associated With North Korean It Worker Money Laundering and Sanctions Evasion Conspiracies",
-    "court": "dcd",
-    "date_filed": "2026-09-03",
-    "docket_number": "Civil Action No. 2025-1769",
-    "url": "https://www.courtlistener.com/opinion/10966090/united-states-v-virtual-currency-associated-with-north-korean-it-worker/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10962880",
     "name": "ATG Capital Opportunities Fund LP v. Ryan Lane",
     "court": "delch",
@@ -570,16 +600,6 @@
     "category": "Web3"
   },
   {
-    "id": "10961457",
-    "name": "Kalshiex, LLC v. Assad",
-    "court": "ca9",
-    "date_filed": "2026-08-28",
-    "docket_number": "25-7516",
-    "url": "https://www.courtlistener.com/opinion/10961457/kalshiex-llc-v-assad/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10957699",
     "name": "United States v. Steven Anderegg",
     "court": "ca7",
@@ -596,6 +616,16 @@
     "date_filed": "2026-08-25",
     "docket_number": "25-1354",
     "url": "https://www.courtlistener.com/opinion/10957698/united-states-v-steven-anderegg/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "10954616",
+    "name": "Altigen Communications, Inc. v. Day",
+    "court": "delch",
+    "date_filed": "2026-08-21",
+    "docket_number": "C.A. No. 2025-1298-JTL",
+    "url": "https://www.courtlistener.com/opinion/10954616/altigen-communications-inc-v-day/",
     "snippet": "",
     "category": "AI"
   },
@@ -680,16 +710,6 @@
     "category": "Web3"
   },
   {
-    "id": "10870344",
-    "name": "Wave Digital Assets, LLC v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-06-01",
-    "docket_number": "25-928",
-    "url": "https://www.courtlistener.com/opinion/10870344/wave-digital-assets-llc-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10864457",
     "name": "American Civil Liberties Union of Delaware v. The Town of Fenwick Island",
     "court": "delsuperct",
@@ -698,26 +718,6 @@
     "url": "https://www.courtlistener.com/opinion/10864457/american-civil-liberties-union-of-delaware-v-the-town-of-fenwick-island/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "11000870",
-    "name": "A.S. v. A.B.",
-    "court": "nysupctkings",
-    "date_filed": "2026-03-31",
-    "docket_number": "",
-    "url": "https://www.courtlistener.com/opinion/11000870/as-v-ab/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10830725",
-    "name": "Safex Foundation, Inc. v. Safelaunch Ventures Limited",
-    "court": "dcd",
-    "date_filed": "2026-03-31",
-    "docket_number": "Civil Action No. 2022-0572",
-    "url": "https://www.courtlistener.com/opinion/10830725/safex-foundation-inc-v-safelaunch-ventures-limited/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10814875",
