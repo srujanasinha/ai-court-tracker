@@ -1,5 +1,65 @@
 [
   {
+    "id": "11056608",
+    "name": "James William McGowan v. State of Alabama",
+    "court": "alacrimapp",
+    "date_filed": "2026-11-06",
+    "docket_number": "CR-2024-0751",
+    "url": "https://www.courtlistener.com/opinion/11056608/james-william-mcgowan-v-state-of-alabama/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11056822",
+    "name": "Melissa Brandao v. HerdDogg Inc",
+    "court": "delch",
+    "date_filed": "2026-11-06",
+    "docket_number": "C.A. No. 2026-0824-TJF",
+    "url": "https://www.courtlistener.com/opinion/11056822/melissa-brandao-v-herddogg-inc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11056752",
+    "name": "United States v. Abdul Kareem",
+    "court": "ca9",
+    "date_filed": "2026-11-06",
+    "docket_number": "24-3202",
+    "url": "https://www.courtlistener.com/opinion/11056752/united-states-v-abdul-kareem/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11056751",
+    "name": "United States v. Ridley-Thomas",
+    "court": "ca9",
+    "date_filed": "2026-11-06",
+    "docket_number": "23-2200",
+    "url": "https://www.courtlistener.com/opinion/11056751/united-states-v-ridley-thomas/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11056668",
+    "name": "State v. Mildfelt",
+    "court": "kan",
+    "date_filed": "2026-11-06",
+    "docket_number": "126968",
+    "url": "https://www.courtlistener.com/opinion/11056668/state-v-mildfelt/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11056843",
+    "name": "Mintz v. Mintz",
+    "court": "utahctapp",
+    "date_filed": "2026-11-05",
+    "docket_number": "Case No. 20240056-CA",
+    "url": "https://www.courtlistener.com/opinion/11056843/mintz-v-mintz/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11055699",
     "name": "Whether the Magnet School Assistance Program Violates the Constitution's Equal-Protection Guarantee",
     "court": "olc",
@@ -26,6 +86,16 @@
     "date_filed": "2026-11-04",
     "docket_number": "25-1470",
     "url": "https://www.courtlistener.com/opinion/11054196/state-of-iowa-v-dylan-mills/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11056759",
+    "name": "Alpha Omega Integration LLC v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-11-04",
+    "docket_number": "26-1195",
+    "url": "https://www.courtlistener.com/opinion/11056759/alpha-omega-integration-llc-v-united-states/",
     "snippet": "",
     "category": "AI"
   },
@@ -160,16 +230,6 @@
     "category": "AI"
   },
   {
-    "id": "11050940",
-    "name": "Greenspan v. Executive Office for U.S. Attorneys",
-    "court": "dcd",
-    "date_filed": "2026-10-30",
-    "docket_number": "Civil Action No. 2023-1816",
-    "url": "https://www.courtlistener.com/opinion/11050940/greenspan-v-executive-office-for-us-attorneys/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11050327",
     "name": "In The Matter of $11,500 Seized from Bitcoin Depot Operating, LLC",
     "court": "iowa",
@@ -270,16 +330,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11048233",
-    "name": "Hernandez, J. v. Independence Constr. Corp.",
-    "court": "pasuperct",
-    "date_filed": "2026-10-28",
-    "docket_number": "1911 EDA 2023",
-    "url": "https://www.courtlistener.com/opinion/11048233/hernandez-j-v-independence-constr-corp/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11046073",
     "name": "Leos v. MUFG",
     "court": "ca2",
@@ -288,16 +338,6 @@
     "url": "https://www.courtlistener.com/opinion/11046073/leos-v-mufg/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "11046158",
-    "name": "BARRY v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-10-23",
-    "docket_number": "25-453",
-    "url": "https://www.courtlistener.com/opinion/11046158/barry-v-united-states/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "11045730",
@@ -398,16 +438,6 @@
     "url": "https://www.courtlistener.com/opinion/11033496/outfront-media-group-llc-v-the-city-of-miami-beach-florida/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "11032450",
-    "name": "Edward Williams v. Attorney General United States of America",
-    "court": "ca3",
-    "date_filed": "2026-10-13",
-    "docket_number": "24-1091",
-    "url": "https://www.courtlistener.com/opinion/11032450/edward-williams-v-attorney-general-united-states-of-america/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "11024168",
@@ -580,6 +610,16 @@
     "category": "AI"
   },
   {
+    "id": "10966090",
+    "name": "United States v. Virtual Currency Associated With North Korean It Worker Money Laundering and Sanctions Evasion Conspiracies",
+    "court": "dcd",
+    "date_filed": "2026-09-03",
+    "docket_number": "Civil Action No. 2025-1769",
+    "url": "https://www.courtlistener.com/opinion/10966090/united-states-v-virtual-currency-associated-with-north-korean-it-worker/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10962880",
     "name": "ATG Capital Opportunities Fund LP v. Ryan Lane",
     "court": "delch",
@@ -710,6 +750,16 @@
     "category": "Web3"
   },
   {
+    "id": "10870344",
+    "name": "Wave Digital Assets, LLC v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-06-01",
+    "docket_number": "25-928",
+    "url": "https://www.courtlistener.com/opinion/10870344/wave-digital-assets-llc-v-united-states/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "10864457",
     "name": "American Civil Liberties Union of Delaware v. The Town of Fenwick Island",
     "court": "delsuperct",
@@ -718,6 +768,26 @@
     "url": "https://www.courtlistener.com/opinion/10864457/american-civil-liberties-union-of-delaware-v-the-town-of-fenwick-island/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "11000870",
+    "name": "A.S. v. A.B.",
+    "court": "nysupctkings",
+    "date_filed": "2026-03-31",
+    "docket_number": "",
+    "url": "https://www.courtlistener.com/opinion/11000870/as-v-ab/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "10830725",
+    "name": "Safex Foundation, Inc. v. Safelaunch Ventures Limited",
+    "court": "dcd",
+    "date_filed": "2026-03-31",
+    "docket_number": "Civil Action No. 2022-0572",
+    "url": "https://www.courtlistener.com/opinion/10830725/safex-foundation-inc-v-safelaunch-ventures-limited/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "10814875",
