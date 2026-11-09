@@ -1,5 +1,25 @@
 [
   {
+    "id": "11057781",
+    "name": "C. McCartney v. Comm. of PA (WCAB)",
+    "court": "pacommwct",
+    "date_filed": "2026-11-09",
+    "docket_number": "327 C.D. 2025",
+    "url": "https://www.courtlistener.com/opinion/11057781/c-mccartney-v-comm-of-pa-wcab/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11057787",
+    "name": "United States of America Chamber of Commerce v. Sanchez",
+    "court": "ca9",
+    "date_filed": "2026-11-09",
+    "docket_number": "25-5327",
+    "url": "https://www.courtlistener.com/opinion/11057787/united-states-of-america-chamber-of-commerce-v-sanchez/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11056608",
     "name": "James William McGowan v. State of Alabama",
     "court": "alacrimapp",
@@ -70,6 +90,16 @@
     "category": "AI"
   },
   {
+    "id": "11057723",
+    "name": "Fabian Thomas v. Nayancy Kashyap",
+    "court": "txctapp2",
+    "date_filed": "2026-11-05",
+    "docket_number": "02-25-00678-CV",
+    "url": "https://www.courtlistener.com/opinion/11057723/fabian-thomas-v-nayancy-kashyap/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11055915",
     "name": "Melissa Brandao v. HerdDogg Inc",
     "court": "delch",
@@ -126,16 +156,6 @@
     "date_filed": "2026-11-04",
     "docket_number": "N26C-01-107 KMM CCLC",
     "url": "https://www.courtlistener.com/opinion/11054472/bryan-park-education-llc-v-masters-academy-international-llc-and-cognita/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11054164",
-    "name": "viirl/piazzisi v. Moen",
-    "court": "arizctapp",
-    "date_filed": "2026-11-04",
-    "docket_number": "1 CA-SA 26-0185",
-    "url": "https://www.courtlistener.com/opinion/11054164/viirlpiazzisi-v-moen/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -260,16 +280,6 @@
     "category": "AI"
   },
   {
-    "id": "11049397",
-    "name": "Uber Technologies, Inc. v. City of Seattle",
-    "court": "ca9",
-    "date_filed": "2026-10-29",
-    "docket_number": "25-228",
-    "url": "https://www.courtlistener.com/opinion/11049397/uber-technologies-inc-v-city-of-seattle/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11048928",
     "name": "Conyngham Township v. PUC, Aplt.",
     "court": "pa",
@@ -290,12 +300,12 @@
     "category": "AI"
   },
   {
-    "id": "11049817",
-    "name": "In the Estate of John Raburn Ford v. the State of Texas",
-    "court": "txctapp10",
+    "id": "11049397",
+    "name": "Uber Technologies, Inc. v. City of Seattle",
+    "court": "ca9",
     "date_filed": "2026-10-29",
-    "docket_number": "10-25-00313-CV",
-    "url": "https://www.courtlistener.com/opinion/11049817/in-the-estate-of-john-raburn-ford-v-the-state-of-texas/",
+    "docket_number": "25-228",
+    "url": "https://www.courtlistener.com/opinion/11049397/uber-technologies-inc-v-city-of-seattle/",
     "snippet": "",
     "category": "AI"
   },
