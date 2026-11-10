@@ -10,6 +10,16 @@
     "category": "AI"
   },
   {
+    "id": "11057924",
+    "name": "Kings/71, L.L.C. v. Millenium Operations, L.L.C.",
+    "court": "ohioctapp",
+    "date_filed": "2026-11-09",
+    "docket_number": "CA2026-01-005",
+    "url": "https://www.courtlistener.com/opinion/11057924/kings71-llc-v-millenium-operations-llc/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "11057787",
     "name": "United States of America Chamber of Commerce v. Sanchez",
     "court": "ca9",
@@ -200,12 +210,12 @@
     "category": "AI"
   },
   {
-    "id": "11055823",
+    "id": "11057898",
     "name": "Kaplan v. Circle Internet Group Inc.",
     "court": "nysupctnewyork",
     "date_filed": "2026-11-02",
     "docket_number": "Index No. 650459/2026",
-    "url": "https://www.courtlistener.com/opinion/11055823/kaplan-v-circle-internet-group-inc/",
+    "url": "https://www.courtlistener.com/opinion/11057898/kaplan-v-circle-internet-group-inc/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -440,16 +450,6 @@
     "category": "Web3"
   },
   {
-    "id": "11033496",
-    "name": "Outfront Media Group LLC v. the City of Miami Beach, Florida",
-    "court": "fladistctapp",
-    "date_filed": "2026-10-14",
-    "docket_number": "3D2025-1165",
-    "url": "https://www.courtlistener.com/opinion/11033496/outfront-media-group-llc-v-the-city-of-miami-beach-florida/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "11024168",
     "name": "State of Iowa v. Max Amyda",
     "court": "iowa",
@@ -620,16 +620,6 @@
     "category": "AI"
   },
   {
-    "id": "10966090",
-    "name": "United States v. Virtual Currency Associated With North Korean It Worker Money Laundering and Sanctions Evasion Conspiracies",
-    "court": "dcd",
-    "date_filed": "2026-09-03",
-    "docket_number": "Civil Action No. 2025-1769",
-    "url": "https://www.courtlistener.com/opinion/10966090/united-states-v-virtual-currency-associated-with-north-korean-it-worker/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10962880",
     "name": "ATG Capital Opportunities Fund LP v. Ryan Lane",
     "court": "delch",
@@ -760,16 +750,6 @@
     "category": "Web3"
   },
   {
-    "id": "10870344",
-    "name": "Wave Digital Assets, LLC v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-06-01",
-    "docket_number": "25-928",
-    "url": "https://www.courtlistener.com/opinion/10870344/wave-digital-assets-llc-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10864457",
     "name": "American Civil Liberties Union of Delaware v. The Town of Fenwick Island",
     "court": "delsuperct",
@@ -778,26 +758,6 @@
     "url": "https://www.courtlistener.com/opinion/10864457/american-civil-liberties-union-of-delaware-v-the-town-of-fenwick-island/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "11000870",
-    "name": "A.S. v. A.B.",
-    "court": "nysupctkings",
-    "date_filed": "2026-03-31",
-    "docket_number": "",
-    "url": "https://www.courtlistener.com/opinion/11000870/as-v-ab/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10830725",
-    "name": "Safex Foundation, Inc. v. Safelaunch Ventures Limited",
-    "court": "dcd",
-    "date_filed": "2026-03-31",
-    "docket_number": "Civil Action No. 2022-0572",
-    "url": "https://www.courtlistener.com/opinion/10830725/safex-foundation-inc-v-safelaunch-ventures-limited/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "10814875",
