@@ -50,24 +50,14 @@
     "category": "AI"
   },
   {
-    "id": "11059379",
+    "id": "11060027",
     "name": "Erickson v. Valet Auto Wash",
     "court": "nyjustct",
     "date_filed": "2026-11-09",
     "docket_number": "Docket No. 26040072",
-    "url": "https://www.courtlistener.com/opinion/11059379/erickson-v-valet-auto-wash/",
+    "url": "https://www.courtlistener.com/opinion/11060027/erickson-v-valet-auto-wash/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "11057924",
-    "name": "Kings/71, L.L.C. v. Millenium Operations, L.L.C.",
-    "court": "ohioctapp",
-    "date_filed": "2026-11-09",
-    "docket_number": "CA2026-01-005",
-    "url": "https://www.courtlistener.com/opinion/11057924/kings71-llc-v-millenium-operations-llc/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "11057787",
@@ -76,16 +66,6 @@
     "date_filed": "2026-11-09",
     "docket_number": "25-5327",
     "url": "https://www.courtlistener.com/opinion/11057787/united-states-of-america-chamber-of-commerce-v-sanchez/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11056608",
-    "name": "James William McGowan v. State of Alabama",
-    "court": "alacrimapp",
-    "date_filed": "2026-11-06",
-    "docket_number": "CR-2024-0751",
-    "url": "https://www.courtlistener.com/opinion/11056608/james-william-mcgowan-v-state-of-alabama/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -106,26 +86,6 @@
     "date_filed": "2026-11-06",
     "docket_number": "24-3202",
     "url": "https://www.courtlistener.com/opinion/11056752/united-states-v-abdul-kareem/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11056751",
-    "name": "United States v. Ridley-Thomas",
-    "court": "ca9",
-    "date_filed": "2026-11-06",
-    "docket_number": "23-2200",
-    "url": "https://www.courtlistener.com/opinion/11056751/united-states-v-ridley-thomas/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11056668",
-    "name": "State v. Mildfelt",
-    "court": "kan",
-    "date_filed": "2026-11-06",
-    "docket_number": "126968",
-    "url": "https://www.courtlistener.com/opinion/11056668/state-v-mildfelt/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -190,16 +150,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11053756",
-    "name": "State v. Evans",
-    "court": "ncctapp",
-    "date_filed": "2026-11-04",
-    "docket_number": "25-1015",
-    "url": "https://www.courtlistener.com/opinion/11053756/state-v-evans/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11054472",
     "name": "Bryan Park Education LLC v. Masters Academy International, LLC and Cognita Limited",
     "court": "delsuperct",
@@ -250,16 +200,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11052202",
-    "name": "Grygiel v. HealthEquity, Inc.",
-    "court": "ca1",
-    "date_filed": "2026-11-02",
-    "docket_number": "25-2109",
-    "url": "https://www.courtlistener.com/opinion/11052202/grygiel-v-healthequity-inc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11050875",
     "name": "Flux Drive v. Sparks",
     "court": "ca10",
@@ -276,16 +216,6 @@
     "date_filed": "2026-10-30",
     "docket_number": "25-1639",
     "url": "https://www.courtlistener.com/opinion/11050327/in-the-matter-of-11500-seized-from-bitcoin-depot-operating-llc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11050337",
-    "name": "Jill Stahl Huston v. Commonwealth of Kentucky",
-    "court": "kyctapp",
-    "date_filed": "2026-10-30",
-    "docket_number": "2025-CA-1034",
-    "url": "https://www.courtlistener.com/opinion/11050337/jill-stahl-huston-v-commonwealth-of-kentucky/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -320,26 +250,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11050730",
-    "name": "St. Bernard Parish Government v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-10-28",
-    "docket_number": "15-1072",
-    "url": "https://www.courtlistener.com/opinion/11050730/st-bernard-parish-government-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11048345",
-    "name": "Ye v. State",
-    "court": "mdctspecapp",
-    "date_filed": "2026-10-28",
-    "docket_number": "0709/25",
-    "url": "https://www.courtlistener.com/opinion/11048345/ye-v-state/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11046073",
     "name": "Leos v. MUFG",
     "court": "ca2",
@@ -360,46 +270,6 @@
     "category": "AI"
   },
   {
-    "id": "11042066",
-    "name": "Vale Ventures IA LLC v. Gray Jay Management Investments, LLC",
-    "court": "delch",
-    "date_filed": "2026-10-21",
-    "docket_number": "C.A. No. 2022-1100-NAC",
-    "url": "https://www.courtlistener.com/opinion/11042066/vale-ventures-ia-llc-v-gray-jay-management-investments-llc/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "11041797",
-    "name": "Mumtaz Mf v. Sammie Lindsey and Smart Grocery, LLC",
-    "court": "arkctapp",
-    "date_filed": "2026-10-21",
-    "docket_number": "",
-    "url": "https://www.courtlistener.com/opinion/11041797/mumtaz-mf-v-sammie-lindsey-and-smart-grocery-llc/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "11041862",
-    "name": "Com. Dept. of L&I v. Accuserv Pharmacy, Inc.",
-    "court": "pacommwct",
-    "date_filed": "2026-10-21",
-    "docket_number": "1280 C.D. 2024",
-    "url": "https://www.courtlistener.com/opinion/11041862/com-dept-of-li-v-accuserv-pharmacy-inc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11039944",
-    "name": "Mennonite Church USA v. DHS",
-    "court": "cadc",
-    "date_filed": "2026-10-20",
-    "docket_number": "25-5209",
-    "url": "https://www.courtlistener.com/opinion/11039944/mennonite-church-usa-v-dhs/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11038364",
     "name": "Max Glass v. RWA Company LLC",
     "court": "delch",
@@ -418,26 +288,6 @@
     "url": "https://www.courtlistener.com/opinion/11038329/avignone-v-national-railroad-passenger-corporation/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "11037119",
-    "name": "Appalachian Voices v. TVA",
-    "court": "ca6",
-    "date_filed": "2026-10-16",
-    "docket_number": "26-5836",
-    "url": "https://www.courtlistener.com/opinion/11037119/appalachian-voices-v-tva/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "11033971",
-    "name": "USSEC v. Reven Holdings",
-    "court": "ca10",
-    "date_filed": "2026-10-14",
-    "docket_number": "24-1235",
-    "url": "https://www.courtlistener.com/opinion/11033971/ussec-v-reven-holdings/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "11024168",
