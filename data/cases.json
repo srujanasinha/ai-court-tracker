@@ -160,12 +160,52 @@
     "category": "Web3"
   },
   {
+    "id": "11057787",
+    "name": "United States of America Chamber of Commerce v. Sanchez",
+    "court": "ca9",
+    "date_filed": "2026-11-09",
+    "docket_number": "25-5327",
+    "url": "https://www.courtlistener.com/opinion/11057787/united-states-of-america-chamber-of-commerce-v-sanchez/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11056608",
     "name": "James William McGowan v. State of Alabama",
     "court": "alacrimapp",
     "date_filed": "2026-11-06",
     "docket_number": "CR-2024-0751",
     "url": "https://www.courtlistener.com/opinion/11056608/james-william-mcgowan-v-state-of-alabama/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11056822",
+    "name": "Melissa Brandao v. HerdDogg Inc",
+    "court": "delch",
+    "date_filed": "2026-11-06",
+    "docket_number": "C.A. No. 2026-0824-TJF",
+    "url": "https://www.courtlistener.com/opinion/11056822/melissa-brandao-v-herddogg-inc/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11056752",
+    "name": "United States v. Abdul Kareem",
+    "court": "ca9",
+    "date_filed": "2026-11-06",
+    "docket_number": "24-3202",
+    "url": "https://www.courtlistener.com/opinion/11056752/united-states-v-abdul-kareem/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11062511",
+    "name": "Joseph Thompson and Thompson Custom Properties, LLC v. High Equity Investments, LLC",
+    "court": "txctapp3",
+    "date_filed": "2026-11-06",
+    "docket_number": "03-25-00086-CV",
+    "url": "https://www.courtlistener.com/opinion/11062511/joseph-thompson-and-thompson-custom-properties-llc-v-high-equity/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -186,6 +226,16 @@
     "date_filed": "2026-11-06",
     "docket_number": "126968",
     "url": "https://www.courtlistener.com/opinion/11056668/state-v-mildfelt/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11055915",
+    "name": "Melissa Brandao v. HerdDogg Inc",
+    "court": "delch",
+    "date_filed": "2026-11-05",
+    "docket_number": "C.A. No. 2026-0824-TJF",
+    "url": "https://www.courtlistener.com/opinion/11055915/melissa-brandao-v-herddogg-inc/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -216,6 +266,16 @@
     "date_filed": "2026-11-04",
     "docket_number": "25-1015",
     "url": "https://www.courtlistener.com/opinion/11053756/state-v-evans/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11054472",
+    "name": "Bryan Park Education LLC v. Masters Academy International, LLC and Cognita Limited",
+    "court": "delsuperct",
+    "date_filed": "2026-11-04",
+    "docket_number": "N26C-01-107 KMM CCLC",
+    "url": "https://www.courtlistener.com/opinion/11054472/bryan-park-education-llc-v-masters-academy-international-llc-and-cognita/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -316,16 +376,6 @@
     "date_filed": "2026-10-28",
     "docket_number": "15-1072",
     "url": "https://www.courtlistener.com/opinion/11050730/st-bernard-parish-government-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11048345",
-    "name": "Ye v. State",
-    "court": "mdctspecapp",
-    "date_filed": "2026-10-28",
-    "docket_number": "0709/25",
-    "url": "https://www.courtlistener.com/opinion/11048345/ye-v-state/",
     "snippet": "",
     "category": "Crypto"
   },
