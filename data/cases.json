@@ -100,6 +100,16 @@
     "category": "AI"
   },
   {
+    "id": "11062630",
+    "name": "In the Interest of J.H, A.H, J.H a Child v. Department of Family and Protective Services",
+    "court": "txctapp1",
+    "date_filed": "2026-11-10",
+    "docket_number": "01-25-00854-CV",
+    "url": "https://www.courtlistener.com/opinion/11062630/in-the-interest-of-jh-ah-jh-a-child-v-department-of-family-and/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11059125",
     "name": "Victory Insurance v. State Auditor",
     "court": "mont",
@@ -110,22 +120,22 @@
     "category": "AI"
   },
   {
-    "id": "11058782",
-    "name": "Mills v. New York City",
-    "court": "ca2",
-    "date_filed": "2026-11-10",
-    "docket_number": "24-3308",
-    "url": "https://www.courtlistener.com/opinion/11058782/mills-v-new-york-city/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11058813",
     "name": "George Assad v. Carine S. Clark",
     "court": "delch",
     "date_filed": "2026-11-10",
     "docket_number": "C.A. No. 2026-1264-BWD",
     "url": "https://www.courtlistener.com/opinion/11058813/george-assad-v-carine-s-clark/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11062637",
+    "name": "Andrew DuPont, M.D. v. Willie Hawkins",
+    "court": "txctapp1",
+    "date_filed": "2026-11-10",
+    "docket_number": "01-25-00890-CV",
+    "url": "https://www.courtlistener.com/opinion/11062637/andrew-dupont-md-v-willie-hawkins/",
     "snippet": "",
     "category": "AI"
   },
@@ -280,16 +290,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11055749",
-    "name": "Blue Water Autonomy, Inc. v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-11-03",
-    "docket_number": "26-936",
-    "url": "https://www.courtlistener.com/opinion/11055749/blue-water-autonomy-inc-v-united-states/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11057898",
     "name": "Kaplan v. Circle Internet Group Inc.",
     "court": "nysupctnewyork",
@@ -346,16 +346,6 @@
     "date_filed": "2026-10-29",
     "docket_number": "34 MAP 2025",
     "url": "https://www.courtlistener.com/opinion/11048928/conyngham-township-v-puc-aplt/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11049397",
-    "name": "Uber Technologies, Inc. v. City of Seattle",
-    "court": "ca9",
-    "date_filed": "2026-10-29",
-    "docket_number": "25-228",
-    "url": "https://www.courtlistener.com/opinion/11049397/uber-technologies-inc-v-city-of-seattle/",
     "snippet": "",
     "category": "AI"
   },
@@ -420,16 +410,6 @@
     "category": "Web3"
   },
   {
-    "id": "11038364",
-    "name": "Max Glass v. RWA Company LLC",
-    "court": "delch",
-    "date_filed": "2026-10-19",
-    "docket_number": "C.A. No. 2026-0754-CCB",
-    "url": "https://www.courtlistener.com/opinion/11038364/max-glass-v-rwa-company-llc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11038329",
     "name": "Avignone v. National Railroad Passenger Corporation",
     "court": "dcd",
@@ -438,16 +418,6 @@
     "url": "https://www.courtlistener.com/opinion/11038329/avignone-v-national-railroad-passenger-corporation/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "11024168",
-    "name": "State of Iowa v. Max Amyda",
-    "court": "iowa",
-    "date_filed": "2026-10-09",
-    "docket_number": "24-1563",
-    "url": "https://www.courtlistener.com/opinion/11024168/state-of-iowa-v-max-amyda/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "11031942",
@@ -468,26 +438,6 @@
     "url": "https://www.courtlistener.com/opinion/11024254/wyse-v-metro-com-bank/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "11048350",
-    "name": "Methodist Church v. Balt.-Wash. Conf. of United Meth. Church",
-    "court": "mdctspecapp",
-    "date_filed": "2026-10-05",
-    "docket_number": "1812/24",
-    "url": "https://www.courtlistener.com/opinion/11048350/methodist-church-v-balt-wash-conf-of-united-meth-church/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11046391",
-    "name": "State of Minnesota v. Tremaine Michael Bucholz",
-    "court": "minn",
-    "date_filed": "2026-09-30",
-    "docket_number": "A250518",
-    "url": "https://www.courtlistener.com/opinion/11046391/state-of-minnesota-v-tremaine-michael-bucholz/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "11007972",
@@ -560,16 +510,6 @@
     "category": "Web3"
   },
   {
-    "id": "10981358",
-    "name": "China Cornici Co. v. United States",
-    "court": "cit",
-    "date_filed": "2026-09-23",
-    "docket_number": "23-00216 23-00217",
-    "url": "https://www.courtlistener.com/opinion/10981358/china-cornici-co-v-united-states/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10978163",
     "name": "CreateAI Holdings, Inc. F/K/A TuSimple Holdings, Inc. v. Bot Auto TX Inc.",
     "court": "txctapp15",
@@ -640,26 +580,6 @@
     "category": "Web3"
   },
   {
-    "id": "10957699",
-    "name": "United States v. Steven Anderegg",
-    "court": "ca7",
-    "date_filed": "2026-08-25",
-    "docket_number": "25-1354",
-    "url": "https://www.courtlistener.com/opinion/10957699/united-states-v-steven-anderegg/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10957698",
-    "name": "United States v. Steven Anderegg",
-    "court": "ca7",
-    "date_filed": "2026-08-25",
-    "docket_number": "25-1354",
-    "url": "https://www.courtlistener.com/opinion/10957698/united-states-v-steven-anderegg/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10954616",
     "name": "Altigen Communications, Inc. v. Day",
     "court": "delch",
@@ -690,16 +610,6 @@
     "category": "Web3"
   },
   {
-    "id": "10925376",
-    "name": "Estate of Lane Caviness v. Atlas Air, Inc.",
-    "court": "ca11",
-    "date_filed": "2026-07-10",
-    "docket_number": "24-11033",
-    "url": "https://www.courtlistener.com/opinion/10925376/estate-of-lane-caviness-v-atlas-air-inc/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10881694",
     "name": "Cannon v. United States",
     "court": "ca9",
@@ -710,16 +620,6 @@
     "category": "Web3"
   },
   {
-    "id": "10877276",
-    "name": "NetChoice, LLC v. David Yost",
-    "court": "ca6",
-    "date_filed": "2026-06-18",
-    "docket_number": "25-3371",
-    "url": "https://www.courtlistener.com/opinion/10877276/netchoice-llc-v-david-yost/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10875924",
     "name": "Matter of 170 W. End Ave. Owners Corp. v. Centennial El. Indus. Inc.",
     "court": "nyappdiv",
@@ -728,16 +628,6 @@
     "url": "https://www.courtlistener.com/opinion/10875924/matter-of-170-w-end-ave-owners-corp-v-centennial-el-indus-inc/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10872108",
-    "name": "State ex rel. Yost v. Google, L.L.C.",
-    "court": "ohioctapp",
-    "date_filed": "2026-06-08",
-    "docket_number": "25 CAE 08 0070",
-    "url": "https://www.courtlistener.com/opinion/10872108/state-ex-rel-yost-v-google-llc/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10868377",
@@ -788,16 +678,6 @@
     "url": "https://www.courtlistener.com/opinion/10814875/terry-joyner-v-city-of-atlanta/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "10813622",
-    "name": "Jigsaw Productions LLC v. U.S. Securities and Exchange Commission",
-    "court": "dcd",
-    "date_filed": "2026-03-23",
-    "docket_number": "Civil Action No. 2024-2358",
-    "url": "https://www.courtlistener.com/opinion/10813622/jigsaw-productions-llc-v-us-securities-and-exchange-commission/",
-    "snippet": "",
-    "category": "AI"
   },
   {
     "id": "10786021",
