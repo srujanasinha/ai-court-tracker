@@ -1,5 +1,65 @@
 [
   {
+    "id": "11067468",
+    "name": "Matthew Conrad Gosney v. Laura Lavender Gosney",
+    "court": "alacivapp",
+    "date_filed": "2026-11-20",
+    "docket_number": "CL-2026-0153",
+    "url": "https://www.courtlistener.com/opinion/11067468/matthew-conrad-gosney-v-laura-lavender-gosney/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11066835",
+    "name": "NetChoice v. Fitch",
+    "court": "ca5",
+    "date_filed": "2026-11-19",
+    "docket_number": "25-60348",
+    "url": "https://www.courtlistener.com/opinion/11066835/netchoice-v-fitch/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11066894",
+    "name": "American Alliance for Equal Rights v. State of Illinois",
+    "court": "ca7",
+    "date_filed": "2026-11-19",
+    "docket_number": "25-2461",
+    "url": "https://www.courtlistener.com/opinion/11066894/american-alliance-for-equal-rights-v-state-of-illinois/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11066891",
+    "name": "United States v. State of Illinois",
+    "court": "ca7",
+    "date_filed": "2026-11-19",
+    "docket_number": "25-2487",
+    "url": "https://www.courtlistener.com/opinion/11066891/united-states-v-state-of-illinois/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11066746",
+    "name": "People v. Everson",
+    "court": "ny",
+    "date_filed": "2026-11-19",
+    "docket_number": "89",
+    "url": "https://www.courtlistener.com/opinion/11066746/people-v-everson/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11066694",
+    "name": "Whalen v. Tuttle",
+    "court": "ncbizct",
+    "date_filed": "2026-11-19",
+    "docket_number": "24-CVS-29650",
+    "url": "https://www.courtlistener.com/opinion/11066694/whalen-v-tuttle/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11065582",
     "name": "Fairstead Capital Management LLC v. Blodgett",
     "court": "delch",
@@ -30,32 +90,22 @@
     "category": "AI"
   },
   {
-    "id": "11065396",
-    "name": "American Alliance for Equal Rights v. State of Illinois",
-    "court": "ca7",
-    "date_filed": "2026-11-18",
-    "docket_number": "25-2461",
-    "url": "https://www.courtlistener.com/opinion/11065396/american-alliance-for-equal-rights-v-state-of-illinois/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11065395",
-    "name": "United States v. State of Illinois",
-    "court": "ca7",
-    "date_filed": "2026-11-18",
-    "docket_number": "25-2487",
-    "url": "https://www.courtlistener.com/opinion/11065395/united-states-v-state-of-illinois/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11064349",
     "name": "Placeholder name",
     "court": "michctapp",
     "date_filed": "2026-11-17",
     "docket_number": "375785",
     "url": "https://www.courtlistener.com/opinion/11064349/placeholder-name/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11066718",
+    "name": "Minburn Technology Group, LLC v. United States",
+    "court": "uscfc",
+    "date_filed": "2026-11-17",
+    "docket_number": "26-861",
+    "url": "https://www.courtlistener.com/opinion/11066718/minburn-technology-group-llc-v-united-states/",
     "snippet": "",
     "category": "AI"
   },
@@ -67,17 +117,7 @@
     "docket_number": "25-82",
     "url": "https://www.courtlistener.com/opinion/11065407/beat-ldi-jv-llc-v-united-states/",
     "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11062897",
-    "name": "State v. Laney",
-    "court": "ohioctapp",
-    "date_filed": "2026-11-16",
-    "docket_number": "2026-P-0002",
-    "url": "https://www.courtlistener.com/opinion/11062897/state-v-laney/",
-    "snippet": "",
-    "category": "AI"
+    "category": "Crypto"
   },
   {
     "id": "11061323",
@@ -86,26 +126,6 @@
     "date_filed": "2026-11-13",
     "docket_number": "B346763",
     "url": "https://www.courtlistener.com/opinion/11061323/bennett-v-vxi-global-solutions/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11061197",
-    "name": "Kevin Leiske v. Robert Gregory Kidd",
-    "court": "delch",
-    "date_filed": "2026-11-13",
-    "docket_number": "2025-0426-CDW",
-    "url": "https://www.courtlistener.com/opinion/11061197/kevin-leiske-v-robert-gregory-kidd/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11060862",
-    "name": "Cemen Tech, Inc. v. G.W. Van Keppel Company",
-    "court": "ca8",
-    "date_filed": "2026-11-13",
-    "docket_number": "26-1632",
-    "url": "https://www.courtlistener.com/opinion/11060862/cemen-tech-inc-v-gw-van-keppel-company/",
     "snippet": "",
     "category": "AI"
   },
@@ -186,16 +206,6 @@
     "date_filed": "2026-11-10",
     "docket_number": "01-25-00854-CV",
     "url": "https://www.courtlistener.com/opinion/11062630/in-the-interest-of-jh-ah-jh-a-child-v-department-of-family-and/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11062637",
-    "name": "Andrew DuPont, M.D. v. Willie Hawkins",
-    "court": "txctapp1",
-    "date_filed": "2026-11-10",
-    "docket_number": "01-25-00890-CV",
-    "url": "https://www.courtlistener.com/opinion/11062637/andrew-dupont-md-v-willie-hawkins/",
     "snippet": "",
     "category": "AI"
   },
@@ -660,16 +670,6 @@
     "category": "Web3"
   },
   {
-    "id": "10932334",
-    "name": "David Namdar v. Immutable Holdings Inc.",
-    "court": "delch",
-    "date_filed": "2026-07-17",
-    "docket_number": "2024-0535-CDW",
-    "url": "https://www.courtlistener.com/opinion/10932334/david-namdar-v-immutable-holdings-inc/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "10925376",
     "name": "Estate of Lane Caviness v. Atlas Air, Inc.",
     "court": "ca11",
@@ -700,16 +700,6 @@
     "category": "AI"
   },
   {
-    "id": "10875924",
-    "name": "Matter of 170 W. End Ave. Owners Corp. v. Centennial El. Indus. Inc.",
-    "court": "nyappdiv",
-    "date_filed": "2026-06-16",
-    "docket_number": "Index No. 160333/23|Appeal No. 6893-6894|Case No. 2025-01991, 2025-05569|",
-    "url": "https://www.courtlistener.com/opinion/10875924/matter-of-170-w-end-ave-owners-corp-v-centennial-el-indus-inc/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "10872108",
     "name": "State ex rel. Yost v. Google, L.L.C.",
     "court": "ohioctapp",
@@ -718,16 +708,6 @@
     "url": "https://www.courtlistener.com/opinion/10872108/state-ex-rel-yost-v-google-llc/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10868377",
-    "name": "Greenfield One III GmbH & Co. KG v. Chris Chaney",
-    "court": "delch",
-    "date_filed": "2026-06-02",
-    "docket_number": "2024-0663-LWW",
-    "url": "https://www.courtlistener.com/opinion/10868377/greenfield-one-iii-gmbh-co-kg-v-chris-chaney/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "10870344",
