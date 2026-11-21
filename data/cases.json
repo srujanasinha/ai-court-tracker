@@ -1,5 +1,35 @@
 [
   {
+    "id": "11068111",
+    "name": "State of Texas v. Blanche",
+    "court": "ca5",
+    "date_filed": "2026-11-20",
+    "docket_number": "24-10386",
+    "url": "https://www.courtlistener.com/opinion/11068111/state-of-texas-v-blanche/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11067771",
+    "name": "Lingle v. Subaru of Wichita",
+    "court": "kanctapp",
+    "date_filed": "2026-11-20",
+    "docket_number": "129581",
+    "url": "https://www.courtlistener.com/opinion/11067771/lingle-v-subaru-of-wichita/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11067988",
+    "name": "Juana Elizalde Castillo v. Todd W. Blanche",
+    "court": "ca7",
+    "date_filed": "2026-11-20",
+    "docket_number": "25-3232",
+    "url": "https://www.courtlistener.com/opinion/11067988/juana-elizalde-castillo-v-todd-w-blanche/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11067468",
     "name": "Matthew Conrad Gosney v. Laura Lavender Gosney",
     "court": "alacivapp",
@@ -60,6 +90,16 @@
     "category": "AI"
   },
   {
+    "id": "11067907",
+    "name": "In re P.S.",
+    "court": "utahctapp",
+    "date_filed": "2026-11-19",
+    "docket_number": "Case No. 20251502-CA",
+    "url": "https://www.courtlistener.com/opinion/11067907/in-re-ps/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
     "id": "11065582",
     "name": "Fairstead Capital Management LLC v. Blodgett",
     "court": "delch",
@@ -80,32 +120,12 @@
     "category": "AI"
   },
   {
-    "id": "11065117",
-    "name": "Elie v. Elie",
-    "court": "fladistctapp",
-    "date_filed": "2026-11-18",
-    "docket_number": "2D2026-0508",
-    "url": "https://www.courtlistener.com/opinion/11065117/elie-v-elie/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11064349",
     "name": "Placeholder name",
     "court": "michctapp",
     "date_filed": "2026-11-17",
     "docket_number": "375785",
     "url": "https://www.courtlistener.com/opinion/11064349/placeholder-name/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11066718",
-    "name": "Minburn Technology Group, LLC v. United States",
-    "court": "uscfc",
-    "date_filed": "2026-11-17",
-    "docket_number": "26-861",
-    "url": "https://www.courtlistener.com/opinion/11066718/minburn-technology-group-llc-v-united-states/",
     "snippet": "",
     "category": "AI"
   },
@@ -200,16 +220,6 @@
     "category": "AI"
   },
   {
-    "id": "11062630",
-    "name": "In the Interest of J.H, A.H, J.H a Child v. Department of Family and Protective Services",
-    "court": "txctapp1",
-    "date_filed": "2026-11-10",
-    "docket_number": "01-25-00854-CV",
-    "url": "https://www.courtlistener.com/opinion/11062630/in-the-interest-of-jh-ah-jh-a-child-v-department-of-family-and/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11057924",
     "name": "Kings/71, L.L.C. v. Millenium Operations, L.L.C.",
     "court": "ohioctapp",
@@ -276,16 +286,6 @@
     "date_filed": "2026-11-06",
     "docket_number": "23-2200",
     "url": "https://www.courtlistener.com/opinion/11056751/united-states-v-ridley-thomas/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11056668",
-    "name": "State v. Mildfelt",
-    "court": "kan",
-    "date_filed": "2026-11-06",
-    "docket_number": "126968",
-    "url": "https://www.courtlistener.com/opinion/11056668/state-v-mildfelt/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -610,16 +610,6 @@
     "category": "Crypto"
   },
   {
-    "id": "10962880",
-    "name": "ATG Capital Opportunities Fund LP v. Ryan Lane",
-    "court": "delch",
-    "date_filed": "2026-08-28",
-    "docket_number": "2026-0447-LWW",
-    "url": "https://www.courtlistener.com/opinion/10962880/atg-capital-opportunities-fund-lp-v-ryan-lane/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "10968927",
     "name": "Alper Uzmezler v. Ekim Stevens",
     "court": "txctapp3",
@@ -670,6 +660,16 @@
     "category": "Web3"
   },
   {
+    "id": "10932334",
+    "name": "David Namdar v. Immutable Holdings Inc.",
+    "court": "delch",
+    "date_filed": "2026-07-17",
+    "docket_number": "2024-0535-CDW",
+    "url": "https://www.courtlistener.com/opinion/10932334/david-namdar-v-immutable-holdings-inc/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "10925376",
     "name": "Estate of Lane Caviness v. Atlas Air, Inc.",
     "court": "ca11",
@@ -700,6 +700,16 @@
     "category": "AI"
   },
   {
+    "id": "10875924",
+    "name": "Matter of 170 W. End Ave. Owners Corp. v. Centennial El. Indus. Inc.",
+    "court": "nyappdiv",
+    "date_filed": "2026-06-16",
+    "docket_number": "Index No. 160333/23|Appeal No. 6893-6894|Case No. 2025-01991, 2025-05569|",
+    "url": "https://www.courtlistener.com/opinion/10875924/matter-of-170-w-end-ave-owners-corp-v-centennial-el-indus-inc/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "10872108",
     "name": "State ex rel. Yost v. Google, L.L.C.",
     "court": "ohioctapp",
@@ -708,6 +718,16 @@
     "url": "https://www.courtlistener.com/opinion/10872108/state-ex-rel-yost-v-google-llc/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "10868377",
+    "name": "Greenfield One III GmbH & Co. KG v. Chris Chaney",
+    "court": "delch",
+    "date_filed": "2026-06-02",
+    "docket_number": "2024-0663-LWW",
+    "url": "https://www.courtlistener.com/opinion/10868377/greenfield-one-iii-gmbh-co-kg-v-chris-chaney/",
+    "snippet": "",
+    "category": "Web3"
   },
   {
     "id": "10870344",
