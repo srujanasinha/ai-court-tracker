@@ -1,5 +1,25 @@
 [
   {
+    "id": "11070430",
+    "name": "Kevin Moran, C/O Sea Point Condominium Association, Inc. v. New Jersey Department of Environmental Protection",
+    "court": "nj",
+    "date_filed": "2026-11-24",
+    "docket_number": "A-25-25",
+    "url": "https://www.courtlistener.com/opinion/11070430/kevin-moran-co-sea-point-condominium-association-inc-v-new-jersey/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11070205",
+    "name": "Cleveland Metro. Bar Assn. v. Wilson",
+    "court": "ohio",
+    "date_filed": "2026-11-24",
+    "docket_number": "2026-0724",
+    "url": "https://www.courtlistener.com/opinion/11070205/cleveland-metro-bar-assn-v-wilson/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11068111",
     "name": "State of Texas v. Blanche",
     "court": "ca5",
@@ -110,16 +130,6 @@
     "category": "AI"
   },
   {
-    "id": "11065190",
-    "name": "Willie Joe Jones v. State of Florida",
-    "court": "fladistctapp",
-    "date_filed": "2026-11-18",
-    "docket_number": "4D2026-2529",
-    "url": "https://www.courtlistener.com/opinion/11065190/willie-joe-jones-v-state-of-florida/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11064349",
     "name": "Placeholder name",
     "court": "michctapp",
@@ -200,16 +210,6 @@
     "category": "AI"
   },
   {
-    "id": "11060248",
-    "name": "People v. Hazlett",
-    "court": "cal",
-    "date_filed": "2026-11-12",
-    "docket_number": "S126387M",
-    "url": "https://www.courtlistener.com/opinion/11060248/people-v-hazlett/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11060400",
     "name": "Minnie Sarwal v. Nephrosant, Inc.",
     "court": "delch",
@@ -218,6 +218,16 @@
     "url": "https://www.courtlistener.com/opinion/11060400/minnie-sarwal-v-nephrosant-inc/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "11060248",
+    "name": "People v. Hazlett",
+    "court": "cal",
+    "date_filed": "2026-11-12",
+    "docket_number": "S126387M",
+    "url": "https://www.courtlistener.com/opinion/11060248/people-v-hazlett/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "11057924",
