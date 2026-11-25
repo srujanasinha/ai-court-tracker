@@ -1,11 +1,81 @@
 [
   {
+    "id": "11072256",
+    "name": "Zachary Howard Hartley v. State of Indiana",
+    "court": "indctapp",
+    "date_filed": "2026-11-25",
+    "docket_number": "26A-CR-00798",
+    "url": "https://www.courtlistener.com/opinion/11072256/zachary-howard-hartley-v-state-of-indiana/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11072060",
+    "name": "Therrien v. Hearst Television, Inc.",
+    "court": "ca1",
+    "date_filed": "2026-11-25",
+    "docket_number": "25-1487",
+    "url": "https://www.courtlistener.com/opinion/11072060/therrien-v-hearst-television-inc/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11072220",
+    "name": "American Cryptofed DAO, LLC v. Chuck Gray, In His Official Capacity as Wyoming Secretary of State",
+    "court": "wyo",
+    "date_filed": "2026-11-25",
+    "docket_number": "S-26-0098",
+    "url": "https://www.courtlistener.com/opinion/11072220/american-cryptofed-dao-llc-v-chuck-gray-in-his-official-capacity-as/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
+    "id": "11072054",
+    "name": "Ginevan v. Commonwealth",
+    "court": "va",
+    "date_filed": "2026-11-25",
+    "docket_number": "250051",
+    "url": "https://www.courtlistener.com/opinion/11072054/ginevan-v-commonwealth/",
+    "snippet": "",
+    "category": "Crypto"
+  },
+  {
+    "id": "11072102",
+    "name": "People v. Davis",
+    "court": "ny",
+    "date_filed": "2026-11-24",
+    "docket_number": "87",
+    "url": "https://www.courtlistener.com/opinion/11072102/people-v-davis/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11070430",
     "name": "Kevin Moran, C/O Sea Point Condominium Association, Inc. v. New Jersey Department of Environmental Protection",
     "court": "nj",
     "date_filed": "2026-11-24",
     "docket_number": "A-25-25",
     "url": "https://www.courtlistener.com/opinion/11070430/kevin-moran-co-sea-point-condominium-association-inc-v-new-jersey/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11072130",
+    "name": "Application of the Pen-Trap Statute and the Wiretap Act to Unmanned Aircraft System Detection Technologies",
+    "court": "olc",
+    "date_filed": "2026-11-24",
+    "docket_number": "",
+    "url": "https://www.courtlistener.com/opinion/11072130/application-of-the-pen-trap-statute-and-the-wiretap-act-to-unmanned/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
+    "id": "11072210",
+    "name": "People v. Morris",
+    "court": "ny",
+    "date_filed": "2026-11-24",
+    "docket_number": "97",
+    "url": "https://www.courtlistener.com/opinion/11072210/people-v-morris/",
     "snippet": "",
     "category": "AI"
   },
@@ -18,6 +88,26 @@
     "url": "https://www.courtlistener.com/opinion/11070205/cleveland-metro-bar-assn-v-wilson/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "11071268",
+    "name": "Everloving Home Health, Inc. v. Amirian",
+    "court": "calctapp2d",
+    "date_filed": "2026-11-24",
+    "docket_number": "B349733",
+    "url": "https://www.courtlistener.com/opinion/11071268/everloving-home-health-inc-v-amirian/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
+    "id": "11071039",
+    "name": "United States v. Approximately 942,462.845 Usdt",
+    "court": "dcd",
+    "date_filed": "2026-11-24",
+    "docket_number": "Civil Action No. 2025-0173",
+    "url": "https://www.courtlistener.com/opinion/11071039/united-states-v-approximately-942462845-usdt/",
+    "snippet": "",
+    "category": "Crypto"
   },
   {
     "id": "11068111",
@@ -90,26 +180,6 @@
     "category": "AI"
   },
   {
-    "id": "11066746",
-    "name": "People v. Everson",
-    "court": "ny",
-    "date_filed": "2026-11-19",
-    "docket_number": "89",
-    "url": "https://www.courtlistener.com/opinion/11066746/people-v-everson/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "11066694",
-    "name": "Whalen v. Tuttle",
-    "court": "ncbizct",
-    "date_filed": "2026-11-19",
-    "docket_number": "24-CVS-29650",
-    "url": "https://www.courtlistener.com/opinion/11066694/whalen-v-tuttle/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11067907",
     "name": "In re P.S.",
     "court": "utahctapp",
@@ -127,7 +197,7 @@
     "docket_number": "C.A. No. 2022-0673-JTL",
     "url": "https://www.courtlistener.com/opinion/11065582/fairstead-capital-management-llc-v-blodgett/",
     "snippet": "",
-    "category": "AI"
+    "category": "Crypto"
   },
   {
     "id": "11064349",
@@ -200,16 +270,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11060406",
-    "name": "State v. Davis",
-    "court": "ohioctapp",
-    "date_filed": "2026-11-12",
-    "docket_number": "116140",
-    "url": "https://www.courtlistener.com/opinion/11060406/state-v-davis/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
     "id": "11060400",
     "name": "Minnie Sarwal v. Nephrosant, Inc.",
     "court": "delch",
@@ -250,36 +310,6 @@
     "category": "Crypto"
   },
   {
-    "id": "11056608",
-    "name": "James William McGowan v. State of Alabama",
-    "court": "alacrimapp",
-    "date_filed": "2026-11-06",
-    "docket_number": "CR-2024-0751",
-    "url": "https://www.courtlistener.com/opinion/11056608/james-william-mcgowan-v-state-of-alabama/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11056822",
-    "name": "Melissa Brandao v. HerdDogg Inc",
-    "court": "delch",
-    "date_filed": "2026-11-06",
-    "docket_number": "C.A. No. 2026-0824-TJF",
-    "url": "https://www.courtlistener.com/opinion/11056822/melissa-brandao-v-herddogg-inc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11056752",
-    "name": "United States v. Abdul Kareem",
-    "court": "ca9",
-    "date_filed": "2026-11-06",
-    "docket_number": "24-3202",
-    "url": "https://www.courtlistener.com/opinion/11056752/united-states-v-abdul-kareem/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11062511",
     "name": "Joseph Thompson and Thompson Custom Properties, LLC v. High Equity Investments, LLC",
     "court": "txctapp3",
@@ -290,32 +320,12 @@
     "category": "Crypto"
   },
   {
-    "id": "11056751",
-    "name": "United States v. Ridley-Thomas",
-    "court": "ca9",
-    "date_filed": "2026-11-06",
-    "docket_number": "23-2200",
-    "url": "https://www.courtlistener.com/opinion/11056751/united-states-v-ridley-thomas/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11054115",
     "name": "Wolcott Family Living Trust v. CASL, LLC",
     "court": "orctapp",
     "date_filed": "2026-11-04",
     "docket_number": "A183856",
     "url": "https://www.courtlistener.com/opinion/11054115/wolcott-family-living-trust-v-casl-llc/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "11053756",
-    "name": "State v. Evans",
-    "court": "ncctapp",
-    "date_filed": "2026-11-04",
-    "docket_number": "25-1015",
-    "url": "https://www.courtlistener.com/opinion/11053756/state-v-evans/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -387,7 +397,7 @@
     "docket_number": "25-2652",
     "url": "https://www.courtlistener.com/opinion/11046073/leos-v-mufg/",
     "snippet": "",
-    "category": "Web3"
+    "category": "Crypto"
   },
   {
     "id": "11045730",
@@ -406,16 +416,6 @@
     "date_filed": "2026-10-21",
     "docket_number": "C.A. No. 2022-1100-NAC",
     "url": "https://www.courtlistener.com/opinion/11042066/vale-ventures-ia-llc-v-gray-jay-management-investments-llc/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "11041797",
-    "name": "Mumtaz Mf v. Sammie Lindsey and Smart Grocery, LLC",
-    "court": "arkctapp",
-    "date_filed": "2026-10-21",
-    "docket_number": "",
-    "url": "https://www.courtlistener.com/opinion/11041797/mumtaz-mf-v-sammie-lindsey-and-smart-grocery-llc/",
     "snippet": "",
     "category": "Web3"
   },
@@ -510,36 +510,6 @@
     "category": "AI"
   },
   {
-    "id": "10985208",
-    "name": "Heenan v. U.S. Department of Housing and Urban Development",
-    "court": "dcd",
-    "date_filed": "2026-09-28",
-    "docket_number": "Civil Action No. 2025-3343",
-    "url": "https://www.courtlistener.com/opinion/10985208/heenan-v-us-department-of-housing-and-urban-development/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10985004",
-    "name": "Bullock v. District of Columbia",
-    "court": "dcd",
-    "date_filed": "2026-09-28",
-    "docket_number": "Civil Action No. 2025-2167",
-    "url": "https://www.courtlistener.com/opinion/10985004/bullock-v-district-of-columbia/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10984000",
-    "name": "KalshiEX LLC v. William Orgel",
-    "court": "ca6",
-    "date_filed": "2026-09-25",
-    "docket_number": "26-5235",
-    "url": "https://www.courtlistener.com/opinion/10984000/kalshiex-llc-v-william-orgel/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "11010465",
     "name": "Ex Parte Bradley Thomas v. the State of Texas",
     "court": "txctapp2",
@@ -590,16 +560,6 @@
     "category": "AI"
   },
   {
-    "id": "10967484",
-    "name": "Strum v. Mardam-Bey",
-    "court": "dcd",
-    "date_filed": "2026-09-04",
-    "docket_number": "Civil Action No. 2024-0401",
-    "url": "https://www.courtlistener.com/opinion/10967484/strum-v-mardam-bey/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
     "id": "10965874",
     "name": "Douglas v. Deutsche Bank National Trust Co., Published Order",
     "court": "dc",
@@ -648,26 +608,6 @@
     "url": "https://www.courtlistener.com/opinion/10957698/united-states-v-steven-anderegg/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10954616",
-    "name": "Altigen Communications, Inc. v. Day",
-    "court": "delch",
-    "date_filed": "2026-08-21",
-    "docket_number": "C.A. No. 2025-1298-JTL",
-    "url": "https://www.courtlistener.com/opinion/10954616/altigen-communications-inc-v-day/",
-    "snippet": "",
-    "category": "AI"
-  },
-  {
-    "id": "10948765",
-    "name": "Perimetral Oriental De Bogota, S.A.S. v. Agencia Nacional De Infraestructura",
-    "court": "dcd",
-    "date_filed": "2026-08-14",
-    "docket_number": "Civil Action No. 2025-1099",
-    "url": "https://www.courtlistener.com/opinion/10948765/perimetral-oriental-de-bogota-sas-v-agencia-nacional-de/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "10932334",
@@ -730,16 +670,6 @@
     "category": "AI"
   },
   {
-    "id": "10868377",
-    "name": "Greenfield One III GmbH & Co. KG v. Chris Chaney",
-    "court": "delch",
-    "date_filed": "2026-06-02",
-    "docket_number": "2024-0663-LWW",
-    "url": "https://www.courtlistener.com/opinion/10868377/greenfield-one-iii-gmbh-co-kg-v-chris-chaney/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
     "id": "10870344",
     "name": "Wave Digital Assets, LLC v. United States",
     "court": "uscfc",
@@ -756,16 +686,6 @@
     "date_filed": "2026-03-31",
     "docket_number": "",
     "url": "https://www.courtlistener.com/opinion/11000870/as-v-ab/",
-    "snippet": "",
-    "category": "Crypto"
-  },
-  {
-    "id": "10830725",
-    "name": "Safex Foundation, Inc. v. Safelaunch Ventures Limited",
-    "court": "dcd",
-    "date_filed": "2026-03-31",
-    "docket_number": "Civil Action No. 2022-0572",
-    "url": "https://www.courtlistener.com/opinion/10830725/safex-foundation-inc-v-safelaunch-ventures-limited/",
     "snippet": "",
     "category": "Crypto"
   },
@@ -788,35 +708,5 @@
     "url": "https://www.courtlistener.com/opinion/10813622/jigsaw-productions-llc-v-us-securities-and-exchange-commission/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "10786021",
-    "name": "Hash Asset Management Ltd. v. DMA Labs, Inc., Ichi Foundation, Nick Poore, Bryan Gross",
-    "court": "delch",
-    "date_filed": "2026-02-09",
-    "docket_number": "C.A. No. 2025-0374-BWD",
-    "url": "https://www.courtlistener.com/opinion/10786021/hash-asset-management-ltd-v-dma-labs-inc-ichi-foundation-nick-poore/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "10712653",
-    "name": "Allan J. Camaisa v. Pharmaceutical Research Associates, Inc., a Virginia corporation",
-    "court": "delch",
-    "date_filed": "2025-10-28",
-    "docket_number": "C.A. No. 2019-0561-NAC",
-    "url": "https://www.courtlistener.com/opinion/10712653/allan-j-camaisa-v-pharmaceutical-research-associates-inc-a-virginia/",
-    "snippet": "",
-    "category": "Web3"
-  },
-  {
-    "id": "10614565",
-    "name": "Robert Carbone v. Wulf Kaal",
-    "court": "ca6",
-    "date_filed": "2025-06-20",
-    "docket_number": "24-3795",
-    "url": "https://www.courtlistener.com/opinion/10614565/robert-carbone-v-wulf-kaal/",
-    "snippet": "",
-    "category": "Web3"
   }
 ]
