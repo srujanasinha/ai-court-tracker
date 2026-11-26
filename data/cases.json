@@ -1,5 +1,15 @@
 [
   {
+    "id": "11072386",
+    "name": "Nathan v. Trump",
+    "court": "dcd",
+    "date_filed": "2026-11-25",
+    "docket_number": "Civil Action No. 2026-3377",
+    "url": "https://www.courtlistener.com/opinion/11072386/nathan-v-trump/",
+    "snippet": "",
+    "category": "AI"
+  },
+  {
     "id": "11072256",
     "name": "Zachary Howard Hartley v. State of Indiana",
     "court": "indctapp",
@@ -26,6 +36,26 @@
     "date_filed": "2026-11-25",
     "docket_number": "S-26-0098",
     "url": "https://www.courtlistener.com/opinion/11072220/american-cryptofed-dao-llc-v-chuck-gray-in-his-official-capacity-as/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
+    "id": "11072344",
+    "name": "Intelycare, Inc. v. DMD Mgt., Inc.",
+    "court": "ohioctapp",
+    "date_filed": "2026-11-25",
+    "docket_number": "116166",
+    "url": "https://www.courtlistener.com/opinion/11072344/intelycare-inc-v-dmd-mgt-inc/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
+    "id": "11072343",
+    "name": "Pantages v. Becker",
+    "court": "ohioctapp",
+    "date_filed": "2026-11-25",
+    "docket_number": "116027",
+    "url": "https://www.courtlistener.com/opinion/11072343/pantages-v-becker/",
     "snippet": "",
     "category": "Web3"
   },
@@ -90,6 +120,16 @@
     "category": "AI"
   },
   {
+    "id": "11071039",
+    "name": "United States v. Approximately 942,462.845 Usdt",
+    "court": "dcd",
+    "date_filed": "2026-11-24",
+    "docket_number": "Civil Action No. 2025-0173",
+    "url": "https://www.courtlistener.com/opinion/11071039/united-states-v-approximately-942462845-usdt/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "11071268",
     "name": "Everloving Home Health, Inc. v. Amirian",
     "court": "calctapp2d",
@@ -98,16 +138,6 @@
     "url": "https://www.courtlistener.com/opinion/11071268/everloving-home-health-inc-v-amirian/",
     "snippet": "",
     "category": "Web3"
-  },
-  {
-    "id": "11071039",
-    "name": "United States v. Approximately 942,462.845 Usdt",
-    "court": "dcd",
-    "date_filed": "2026-11-24",
-    "docket_number": "Civil Action No. 2025-0173",
-    "url": "https://www.courtlistener.com/opinion/11071039/united-states-v-approximately-942462845-usdt/",
-    "snippet": "",
-    "category": "Crypto"
   },
   {
     "id": "11068111",
@@ -227,7 +257,7 @@
     "docket_number": "B346763",
     "url": "https://www.courtlistener.com/opinion/11061323/bennett-v-vxi-global-solutions/",
     "snippet": "",
-    "category": "AI"
+    "category": "Web3"
   },
   {
     "id": "11061318",
@@ -288,16 +318,6 @@
     "url": "https://www.courtlistener.com/opinion/11060248/people-v-hazlett/",
     "snippet": "",
     "category": "Crypto"
-  },
-  {
-    "id": "11057924",
-    "name": "Kings/71, L.L.C. v. Millenium Operations, L.L.C.",
-    "court": "ohioctapp",
-    "date_filed": "2026-11-09",
-    "docket_number": "CA2026-01-005",
-    "url": "https://www.courtlistener.com/opinion/11057924/kings71-llc-v-millenium-operations-llc/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "11057787",
@@ -397,7 +417,7 @@
     "docket_number": "25-2652",
     "url": "https://www.courtlistener.com/opinion/11046073/leos-v-mufg/",
     "snippet": "",
-    "category": "Crypto"
+    "category": "Web3"
   },
   {
     "id": "11045730",
@@ -408,16 +428,6 @@
     "url": "https://www.courtlistener.com/opinion/11045730/johnny-tyson-ii-v-warren-inn-haltom-city-ltd-dba-acacia-apartments/",
     "snippet": "",
     "category": "AI"
-  },
-  {
-    "id": "11042066",
-    "name": "Vale Ventures IA LLC v. Gray Jay Management Investments, LLC",
-    "court": "delch",
-    "date_filed": "2026-10-21",
-    "docket_number": "C.A. No. 2022-1100-NAC",
-    "url": "https://www.courtlistener.com/opinion/11042066/vale-ventures-ia-llc-v-gray-jay-management-investments-llc/",
-    "snippet": "",
-    "category": "Web3"
   },
   {
     "id": "11038364",
@@ -610,6 +620,16 @@
     "category": "AI"
   },
   {
+    "id": "10948765",
+    "name": "Perimetral Oriental De Bogota, S.A.S. v. Agencia Nacional De Infraestructura",
+    "court": "dcd",
+    "date_filed": "2026-08-14",
+    "docket_number": "Civil Action No. 2025-1099",
+    "url": "https://www.courtlistener.com/opinion/10948765/perimetral-oriental-de-bogota-sas-v-agencia-nacional-de/",
+    "snippet": "",
+    "category": "Web3"
+  },
+  {
     "id": "10932334",
     "name": "David Namdar v. Immutable Holdings Inc.",
     "court": "delch",
@@ -708,5 +728,15 @@
     "url": "https://www.courtlistener.com/opinion/10813622/jigsaw-productions-llc-v-us-securities-and-exchange-commission/",
     "snippet": "",
     "category": "AI"
+  },
+  {
+    "id": "10786021",
+    "name": "Hash Asset Management Ltd. v. DMA Labs, Inc., Ichi Foundation, Nick Poore, Bryan Gross",
+    "court": "delch",
+    "date_filed": "2026-02-09",
+    "docket_number": "C.A. No. 2025-0374-BWD",
+    "url": "https://www.courtlistener.com/opinion/10786021/hash-asset-management-ltd-v-dma-labs-inc-ichi-foundation-nick-poore/",
+    "snippet": "",
+    "category": "Web3"
   }
 ]
